@@ -121,3 +121,32 @@ for image_name in image_files:
   print(f"Image saved to {image_path}")
   print(f"DataFrame saved to {csv_path}")
 
+#YOLO
+
+# Load the weights from our repository
+model_path = hf_hub_download(local_dir=".",
+                             repo_id="armvectores/yolov8n_handwritten_text_detection",
+                             filename="best.pt")
+model = YOLO(model_path)
+
+# Do the predictions
+for image_name in image_files:
+  image_location = os.path.join(input_folder_location,image_name) #full file location
+  image = cv2.imread(image_location)
+  #res = model.predict(source=image, project='.',name='detected', exist_ok=True, save=True, show=True, show_labels=True, show_conf=True, conf=0.05, )
+  #res = model.predict(source=image)
+  res = model(image)
+  res_plotted = res[0].plot()
+  #image_location = os.path.join(input_folder_location,image_name) #full file location
+  #plt.figure(figsize=(15,10))
+  #plt.imshow(plt.imread(image_location))
+  #plt.show()
+
+for result in res:
+    boxes = result.boxes  # Boxes object for bbox outputs
+    masks = result.masks  # Masks object for segmentation masks outputs
+    probs = result.probs  # Class probabilities for classification outputs
+    print(boxes)
+
+
+
