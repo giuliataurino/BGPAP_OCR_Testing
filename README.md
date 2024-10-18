@@ -49,7 +49,7 @@ The images were annotated in Transkribus using the following steps:
 
 | Image | Bounding Box | Lines | Transcription|
 |:---:|:---:|:---:|:---:|
-|<img src="docs/img/blank.png" title="Text" alt="blank" height="200"/> | <img src="docs/img/box.png" title="Bounding Box" alt="blank" height="200"/> |<img src="docs/img/lines.png" title="Lines" alt="blank" height="200"/> | <img src="docs/img/transcription.png" title="Transcription" alt="blank" height="200"/> |
+|<img src="OCR_Testing/Annotation_examples/blank.png" title="Text" alt="blank" height="200"/> | <img src="OCR_Testing/Annotation_examples/box.png" title="Bounding Box" alt="blank" height="200"/> |<img src="OCR_Testing/Annotation_examples/lines.png" title="Lines" alt="blank" height="200"/> | <img src="OCR_Testing/Annotation_examples/transcription.png" title="Transcription" alt="blank" height="200"/> |
 
 The manual transcriptions in Transkribus will be used as the targets for our different supervised machine learning methods. Basically, the annotations will be used to assess the quality of the OCR models. Transkribus's OCR model will be used in the next phases of the project to transcribe the text on the backs of the photos.
 
