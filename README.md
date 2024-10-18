@@ -1,4 +1,4 @@
-# OCR_Testing
+# OCR Testing and Evaluation
 
 ## Overview
 
