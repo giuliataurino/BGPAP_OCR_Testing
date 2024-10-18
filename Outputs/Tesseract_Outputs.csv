@@ -1,4 +1,4 @@
-,Image,TruePositives,FalseNegatives,FalsePositives,Percision,Recall,PreProcessTruePositives,PreProcessFalseNegatives,PreProcessFalsePositives,PreProcessPercision,PreProcessRecall
+,Image,TruePositives,FalseNegatives,FalsePositives,Precision,Recall,PreProcessTruePositives,PreProcessFalseNegatives,PreProcessFalsePositives,PreProcessPercision,PreProcessRecall
 0,M142_1015935949_0014_0017_Back.jpg,0,15,5,0.0,0.0,0,15,0,,0.0
 1,M142_1015935949_0005_0025_Back.jpg,0,12,0,,0.0,0,12,11,0.0,0.0
 2,M142_1015935949_0005_0017_Back.jpg,2,14,175,0.011299435028248588,0.125,8,8,15,0.34782608695652173,0.5
