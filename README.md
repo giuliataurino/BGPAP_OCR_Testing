@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a series of pipelines for the testing and evaluation of pre-trained OCR models on digitized archival photographs. The tests were run on a subset of images from the Boston Globe Photo-Archive and they focused on the verso of digitized photographs, which included handwriting, typed text and stamped text. This repository is part of the Boston Globe Photo-Morgue Project, funded by the NEH Digital Humanities Advancement Grant under the broader project "Machine Learning for Large-Scale Journalism Collections" [[HAA-296412-24](https://apps.neh.gov/publicquery/AwardDetail.aspx?gn=HAA-296412-24)]. 
+This repository contains a series of pipelines for the testing and evaluation of pre-trained OCR models on digitized archival photographs. The tests were run on a subset of images from the Boston Globe Photo-Archive and they focused on the verso of digitized photographs, which included handwriting, typed text and stamped text. This repository is part of the NEH Digital Humanities Advancement Grant project "Machine Learning for Large-Scale Journalism Collections" [[HAA-296412-24](https://apps.neh.gov/publicquery/AwardDetail.aspx?gn=HAA-296412-24)]. 
 
 ## Team
 
@@ -15,6 +15,8 @@ Prof. David Smith, Khoury College of Computer Sciences (Northeastern University)
 Sarah Sweeney, Head of Digital Production Services, NUASC (Northeastern University Library)
 
 **External Project Collaborators**
+
+**2023:**
 
 Supervisor: Prof. Philip Bogden, Roux Institute (Northeastern University)
 
