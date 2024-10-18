@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.757-04:00</Created>
+        <LastChange>2024-05-31T16:35:33.669+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234719" pageNr="3" tsid="169328435" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=GVWYRZUAMOLXUTKVAOQAJULP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CQYTVNUULMFJXTJYUDRNLEWA" imageId="46299652"/>
+    </Metadata>
+    <Page imageFilename="0003_M142_1015935949_0001_0011_Back.jpg" imageWidth="9035" imageHeight="3658">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922452" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_41"/>
+                <RegionRefIndexed index="2" regionRef="r_49"/>
+                <RegionRefIndexed index="3" regionRef="r_57"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1426,395 4353,417 4324,717 1455,717"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1461,790 4327,770 4319,464 4321,659 4319,441 1462,433"/>
+                <Baseline points="1455,717 4324,705 4324,705"/>
+                <TextEquiv>
+                    <Unicode>BOSTON skyline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_41" custom="readingOrder {index:1;}">
+            <Coords points="3871,905 5040,438 5257,1024 4087,1513"/>
+            <TextLine id="l_38" custom="readingOrder {index:0;}">
+                <Coords points="4149,1475 5169,1067 4934,495 3906,901"/>
+                <Baseline points="4045,1285 5061,847"/>
+                <TextEquiv>
+                    <Unicode>Night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_49" custom="readingOrder {index:2;}">
+            <Coords points="1338,1425 1976,1326 2019,1461 1338,1588"/>
+            <TextLine id="l_46" custom="readingOrder {index:0;}">
+                <Coords points="1369,1648 2033,1508 1977,1310 1349,1432"/>
+                <Baseline points="1341,1588 2012,1440"/>
+                <TextEquiv>
+                    <Unicode>NOV 18 '71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_57" custom="readingOrder {index:3;}">
+            <Coords points="1652,2173 6749,2448 6742,2661 1645,2428"/>
+            <TextLine id="l_54" custom="readingOrder {index:0;}">
+                <Coords points="1687,2259 6741,2583 6748,2488 1688,2190"/>
+                <Baseline points="1687,2259 6741,2583"/>
+                <TextEquiv>
+                    <Unicode>SKYLINE FROM EAST BOSTON:     (2) TRAVELERS BUILDING     (4) STATE STREET BANK     (6) BOSTON BUILDING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:1;}">
+                <Coords points="1687,2385 6628,2676 6615,2584 1688,2274"/>
+                <Baseline points="1687,2365 6614,2647"/>
+                <TextEquiv>
+                    <Unicode>(1) KEY STONE BUILDING     (3) FIRST NATIONAL BANK     (5) HARBOR APARTMENTS       (7) CUSTOM HOUSE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

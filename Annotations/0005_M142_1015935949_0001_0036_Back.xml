@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.788-04:00</Created>
+        <LastChange>2024-05-31T16:34:33.066+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234721" pageNr="5" tsid="169328106" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=XOSUIDIKGHFERETXNZFCJKMD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BMNUFHFMGMHBAUUBANRBSYHR" imageId="46299654"/>
+    </Metadata>
+    <Page imageFilename="0005_M142_1015935949_0001_0036_Back.jpg" imageWidth="7421" imageHeight="4968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922467" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_21"/>
+                <RegionRefIndexed index="2" regionRef="r_29"/>
+                <RegionRefIndexed index="3" regionRef="r_37"/>
+                <RegionRefIndexed index="4" regionRef="r_46"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2522,1127 4024,1260 3966,1687 2516,1606"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2510,1380 4015,1475 4003,1282 2556,1154"/>
+                <Baseline points="2510,1380 4000,1432"/>
+                <TextEquiv>
+                    <Unicode>PHOTOGRAPHED BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_15" custom="readingOrder {index:1;}">
+                <Coords points="2702,1589 3789,1683 3785,1465 2687,1402"/>
+                <Baseline points="2684,1565 3786,1641"/>
+                <TextEquiv>
+                    <Unicode>ELLIS HERWIG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:1;}">
+            <Coords points="4957,1829 5490,1829 5519,1676 4980,1681"/>
+            <TextLine id="l_18" custom="readingOrder {index:0;}">
+                <Coords points="4976,1847 5508,1845 5503,1677 4987,1660"/>
+                <Baseline points="4974,1797 5508,1820"/>
+                <TextEquiv>
+                    <Unicode>MAR 3'70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_29" custom="readingOrder {index:2;}">
+            <Coords points="2563,2055 3411,2200 3377,2398 2528,2255"/>
+            <TextLine id="l_26" custom="readingOrder {index:0;}">
+                <Coords points="2568,2232 3369,2371 3376,2232 2608,2087"/>
+                <Baseline points="2568,2232 3374,2348"/>
+                <TextEquiv>
+                    <Unicode>FEB 24 1970</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_37" custom="readingOrder {index:3;}">
+            <Coords points="3554,2124 3557,2107 6812,2026 6835,2342 3527,2439"/>
+            <TextLine id="l_34" custom="readingOrder {index:0;}">
+                <Coords points="3563,2392 6835,2322 6801,2054 3561,2129"/>
+                <Baseline points="3554,2342 6835,2284"/>
+                <TextEquiv>
+                    <Unicode>Boston skyline nite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_46" custom="readingOrder {index:4;}">
+            <Coords points="725,2403 6111,2733 5832,3479 696,3322"/>
+            <TextLine id="l_42" custom="readingOrder {index:0;}">
+                <Coords points="774,2883 4093,3021 5963,3033 6083,2690 4148,2677 825,2414"/>
+                <Baseline points="777,2812 4093,3021 5983,2934"/>
+                <TextEquiv>
+                    <Unicode>TRAIN LEAVES BLUR IN TIME EXPOSURE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:1;}">
+                <Coords points="712,3314 4855,3413 4911,3079 773,2935"/>
+                <Baseline points="707,3264 4847,3368"/>
+                <TextEquiv>
+                    <Unicode>OF CHARLES ST. MBTA StATION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

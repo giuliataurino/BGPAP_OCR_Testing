@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.416-04:00</Created>
+        <LastChange>2024-06-07T00:01:49.668+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234796" pageNr="76" tsid="170546565" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=CGVBSEBMFKDOCZHYXFMXDYBC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KSGPMDWXUYOTPGKIJZZLBYRK" imageId="46299729"/>
+    </Metadata>
+    <Page imageFilename="0076_M142_1015935949_0013_0014_Back.jpg" imageWidth="3837" imageHeight="5506">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923166" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_45"/>
+                <RegionRefIndexed index="1" regionRef="r_56"/>
+                <RegionRefIndexed index="2" regionRef="r_72"/>
+                <RegionRefIndexed index="3" regionRef="r_40"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_45" custom="readingOrder {index:0;}">
+            <Coords points="1990,442 226,442 226,167 1990,167"/>
+            <TextLine id="l_50" custom="readingOrder {index:0;}">
+                <Coords points="211,340 734,255 709,166 228,183"/>
+                <Baseline points="211,340 651,255"/>
+                <TextEquiv>
+                    <Unicode>3 cols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_53" custom="readingOrder {index:1;}">
+                <Coords points="397,427 1907,337 1896,173 396,312"/>
+                <Baseline points="399,418 1898,292"/>
+                <TextEquiv>
+                    <Unicode>Proofs to Leary in Sunday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_56" custom="readingOrder {index:1;}">
+            <Coords points="3085,581 211,619 211,444 3085,382"/>
+            <TextLine id="l_61" custom="readingOrder {index:0;}">
+                <Coords points="240,597 3048,559 3048,407 227,448"/>
+                <Baseline points="240,566 3048,559"/>
+                <TextEquiv>
+                    <Unicode>you new mid-town community...</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_72" custom="readingOrder {index:2;}">
+            <Coords points="1285,2139 327,2139 327,700 1285,700"/>
+            <TextLine id="l_77" custom="readingOrder {index:0;}">
+                <Coords points="441,781 1226,790 1231,715 441,727"/>
+                <Baseline points="441,781 1226,790"/>
+                <TextEquiv>
+                    <Unicode>Located along Cam-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_80" custom="readingOrder {index:1;}">
+                <Coords points="345,895 1222,895 1231,826 345,807"/>
+                <Baseline points="345,895 1222,895"/>
+                <TextEquiv>
+                    <Unicode>den Street (A) and be-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_83" custom="readingOrder {index:2;}">
+                <Coords points="350,995 1262,1007 1254,920 350,913"/>
+                <Baseline points="350,995 1204,995"/>
+                <TextEquiv>
+                    <Unicode>tween Kendall (B),</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:3;}">
+                <Coords points="345,1086 1236,1086 1240,1012 350,1021"/>
+                <Baseline points="345,1086 1236,1086"/>
+                <TextEquiv>
+                    <Unicode>Hammond(C), Warwick</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_89" custom="readingOrder {index:4;}">
+                <Coords points="359,1195 1199,1190 1211,1108 359,1114"/>
+                <Baseline points="359,1195 1199,1190"/>
+                <TextEquiv>
+                    <Unicode>(D), and Tremont (E)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:5;}">
+                <Coords points="345,1285 1231,1290 1240,1198 345,1215"/>
+                <Baseline points="345,1285 1231,1290"/>
+                <TextEquiv>
+                    <Unicode>Streets. Transportation</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_95" custom="readingOrder {index:6;}">
+                <Coords points="343,1397 1222,1413 1227,1317 345,1305"/>
+                <Baseline points="345,1385 1222,1381"/>
+                <TextEquiv>
+                    <Unicode>by MBTA is easily acces-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_98" custom="readingOrder {index:7;}">
+                <Coords points="336,1509 1233,1511 1235,1403 336,1403"/>
+                <Baseline points="336,1499 1226,1494"/>
+                <TextEquiv>
+                    <Unicode>sable either by Rapid</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:8;}">
+                <Coords points="336,1590 1255,1599 1261,1512 332,1503"/>
+                <Baseline points="336,1590 1231,1594"/>
+                <TextEquiv>
+                    <Unicode>Transit (Northampton</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:9;}">
+                <Coords points="336,1694 1238,1700 1250,1602 334,1627"/>
+                <Baseline points="336,1694 1226,1690"/>
+                <TextEquiv>
+                    <Unicode>Station) or bus – Tre-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_107" custom="readingOrder {index:10;}">
+                <Coords points="328,1808 1234,1817 1222,1724 321,1719"/>
+                <Baseline points="341,1790 1222,1790"/>
+                <TextEquiv>
+                    <Unicode>mont and Dudley-Har-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_110" custom="readingOrder {index:11;}">
+                <Coords points="345,1899 1260,1910 1278,1825 339,1817"/>
+                <Baseline points="345,1899 1226,1894"/>
+                <TextEquiv>
+                    <Unicode>vard. Just 1- mintues</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_113" custom="readingOrder {index:12;}">
+                <Coords points="336,2003 1240,1994 1256,1909 315,1915"/>
+                <Baseline points="336,2003 1240,1994"/>
+                <TextEquiv>
+                    <Unicode>from downtown Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_116" custom="readingOrder {index:13;}">
+                <Coords points="345,2094 1057,2102 1074,2009 345,2025"/>
+                <Baseline points="345,2094 1058,2089"/>
+                <TextEquiv>
+                    <Unicode>or residential areas.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_40" custom="readingOrder {index:3;}">
+            <Coords points="3570,5118 266,5118 266,4643 3570,4643"/>
+            <TextLine id="l_119" custom="readingOrder {index:0;}">
+                <Coords points="416,4819 3407,4910 3440,4797 417,4707"/>
+                <Baseline points="416,4819 3407,4910"/>
+                <TextEquiv>
+                    <Unicode>"ROXSE HOMES" in Lower Roxbury area of South End renewal project, as de-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_47" custom="readingOrder {index:1;}">
+                <Coords points="399,4894 3385,4985 3424,4902 383,4809"/>
+                <Baseline points="399,4894 3385,4985"/>
+                <TextEquiv>
+                    <Unicode>picked in architectural scale model, shows building grouped along courtyards and </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:2;}">
+                <Coords points="399,5002 3025,5047 3040,4987 401,4910"/>
+                <Baseline points="399,5002 3025,5047"/>
+                <TextEquiv>
+                    <Unicode>parking spots. New housing fully under construction now is being rented.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

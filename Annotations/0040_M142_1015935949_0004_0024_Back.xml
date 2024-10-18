@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.149-04:00</Created>
+        <LastChange>2024-06-04T23:03:23.708+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234760" pageNr="40" tsid="169980432" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=BZURTMJFMLEUJANGMDZHQKYH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NBWKVMAGPSOFSXQOEHPRXMNI" imageId="46299693"/>
+    </Metadata>
+    <Page imageFilename="0040_M142_1015935949_0004_0024_Back.jpg" imageWidth="5891" imageHeight="4239">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922774" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4504,1774 529,1774 549,797 4504,809"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="716,1054 1372,956 1344,842 711,903"/>
+                <Baseline points="716,1054 1372,956"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:1;}">
+                <Coords points="833,1367 2585,1191 2584,977 823,1172"/>
+                <Baseline points="833,1367 2585,1191"/>
+                <TextEquiv>
+                    <Unicode>SKYLINE 1990</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:2;}">
+                <Coords points="1047,1509 4145,1182 4156,1080 1038,1425"/>
+                <Baseline points="1047,1509 4145,1182"/>
+                <TextEquiv>
+                    <Unicode>6/5/90 View from One Memorial Drive. View from 11th floor of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:3;}">
+                <Coords points="932,1622 3909,1319 3903,1229 926,1539"/>
+                <Baseline points="932,1604 3902,1303"/>
+                <TextEquiv>
+                    <Unicode>David L. Babson &amp; Co. Inc, Investment Counsel. globe staff</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:4;}">
+                <Coords points="929,1713 1778,1614 1783,1537 932,1632"/>
+                <Baseline points="929,1713 1778,1614"/>
+                <TextEquiv>
+                    <Unicode>photo YUNGHI KIM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="1857,2915 1506,2915 1506,2593 1857,2593"/>
+            <TextLine id="l_22" custom="readingOrder {index:0;}">
+                <Coords points="1538,2805 1763,2824 1793,2673 1569,2657"/>
+                <Baseline points="1538,2805 1763,2824"/>
+                <TextEquiv>
+                    <Unicode>T</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="4739,3216 3897,3216 3897,2453 4739,2453"/>
+            <TextLine id="l_26" custom="readingOrder {index:0;}">
+                <Coords points="4005,2648 4485,3121 4583,3023 4100,2543"/>
+                <Baseline points="4005,2648 4475,3098"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.478-04:00</Created>
+        <LastChange>2024-06-07T00:32:54.348+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234808" pageNr="88" tsid="170554550" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=OAKWEBQWWYQUUKOTSTHEXYRH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TEOCNYCBRNXTRUGYALDGBAIW" imageId="46299741"/>
+    </Metadata>
+    <Page imageFilename="0088_M142_1015935949_0015_0007_Back.jpg" imageWidth="7579" imageHeight="5870">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923316" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_6"/>
+                <RegionRefIndexed index="2" regionRef="r_12"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4711,1477 3292,1477 3292,1015 4408,899 4711,1015"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="3325,1224 4513,1077 4513,1077 4513,1062 4513,950 3332,1058"/>
+                <Baseline points="3325,1224 4513,1077 4513,1077"/>
+                <TextEquiv>
+                    <Unicode>GLOBE STAFF PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:1;}">
+                <Coords points="3346,1380 4598,1210 4598,1210 4598,1195 4607,1097 3344,1228"/>
+                <Baseline points="3346,1380 4598,1210 4598,1210"/>
+                <TextEquiv>
+                    <Unicode>JOHN TLUMACKI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:1;}">
+            <Coords points="7235,2543 4747,2543 4696,1655 4747,1410 6021,965 7235,1410"/>
+            <TextLine id="l_38" custom="readingOrder {index:0;}">
+                <Coords points="4767,1890 5865,1302 5865,1302 5865,1287 5845,1092 4705,1538"/>
+                <Baseline points="4767,1890 5865,1302 5865,1302"/>
+                <TextEquiv>
+                    <Unicode>Cooking at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:1;}">
+                <Coords points="4805,2269 5663,1748 6023,1594 6728,1379 6728,1379 6728,1364 6689,1144 6018,1318 5651,1506 4758,1930"/>
+                <Baseline points="4805,2269 5663,1748 6023,1594 6728,1379 6728,1379"/>
+                <TextEquiv>
+                    <Unicode>Rutland SQ from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:2;}">
+                <Coords points="5144,2450 5531,2263 6421,1810 7125,1552 7125,1552 7125,1537 7038,1350 6412,1572 5518,1952 5049,2171"/>
+                <Baseline points="5144,2450 5531,2263 6421,1810 7125,1552 7125,1552"/>
+                <TextEquiv>
+                    <Unicode>W. Rutland Square</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_12" custom="readingOrder {index:2;}">
+            <Coords points="4598,2605 6452,2708 4606,3190 1506,3190 1506,2128 4606,2128"/>
+            <TextLine id="l_23" custom="readingOrder {index:0;}">
+                <Coords points="1523,2331 2147,2403 2143,2403 2143,2418 2208,2217 1536,2163"/>
+                <Baseline points="1523,2331 2147,2403 2143,2403"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_65" custom="readingOrder {index:1;}">
+                <Coords points="1555,2565 5770,2767 5770,2767 5770,2752 5770,2669 1556,2452"/>
+                <Baseline points="1555,2565 5770,2767 5770,2767"/>
+                <TextEquiv>
+                    <Unicode>South End... A couple walks along Rutland Sq. as brownstones form the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:2;}">
+                <Coords points="1577,2671 4327,2797 4327,2797 4327,2782 4330,2730 1569,2559"/>
+                <Baseline points="1577,2671 4327,2797 4327,2797"/>
+                <TextEquiv>
+                    <Unicode>background. A Mercedes heads down the street.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:3;}">
+                <Coords points="3084,2992 3619,3023 3650,2787 3106,2756"/>
+                <Baseline points="3084,2992 3619,3023"/>
+                <TextEquiv>
+                    <Unicode>1928</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

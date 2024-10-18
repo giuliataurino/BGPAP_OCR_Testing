@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.306-04:00</Created>
+        <LastChange>2024-06-06T19:40:26.635+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234780" pageNr="60" tsid="170478905" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=FQCPXOIIFXJOVDIWKPGJCXAJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=IZMOWDPAVHSYHKTIFKQXSMCZ" imageId="46299713"/>
+    </Metadata>
+    <Page imageFilename="0060_M142_1015935949_0008_0029_Back.jpg" imageWidth="8671" imageHeight="5723">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922992" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689534855442_240"/>
+                <RegionRefIndexed index="1" regionRef="region_1689534858908_243"/>
+                <RegionRefIndexed index="2" regionRef="region_1689534866191_246"/>
+                <RegionRefIndexed index="3" regionRef="region_1689534868908_249"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689534855442_240" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="203,217 8365,217 8365,2375 203,2375"/>
+            <TextLine id="line_1689534881541_252" custom="readingOrder {index:0;} textStyle {offset:1; length:2;underlined:true;}">
+                <Coords points="3704,250 4910,243 4836,637 3728,675"/>
+                <Baseline points="3728,640 4718,584"/>
+                <TextEquiv>
+                    <Unicode>915 AM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689534884661_257" custom="readingOrder {index:1;}">
+                <Coords points="475,621 7823,699 7828,1060 495,1051"/>
+                <Baseline points="495,1046 7828,1055"/>
+                <TextEquiv>
+                    <Unicode>G &amp; BROADWAY SO BOSTON NEAR HIGH SchooL.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689534887748_262" custom="readingOrder {index:2;}">
+                <Coords points="974,1105 3154,1088 3144,1503 959,1557"/>
+                <Baseline points="1061,1536 3144,1498"/>
+                <TextEquiv>
+                    <Unicode>QUIET &amp; STILL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689534891291_267" custom="readingOrder {index:3;}">
+                <Coords points="923,1733 8216,1655 8199,2272 949,2343"/>
+                <Baseline points="957,2243 8195,2148"/>
+                <TextEquiv>
+                    <Unicode>ThIS IS WHERE MOST OF ACTION WAS ON MONDAY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>915 AM
+G &amp; BROADWAY SO BOSTON NEAR HIGH SchooL.
+QUIET &amp; STILL
+ThIS IS WHERE MOST OF ACTION WAS ON MONDAY</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689534858908_243" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="778,2667 4152,2667 4152,3214 778,3214"/>
+            <TextLine id="line_1689534898040_277" custom="readingOrder {index:0;}">
+                <Coords points="2107,2750 3849,2726 3851,3039 2116,3096"/>
+                <Baseline points="2116,3091 3851,3034"/>
+                <TextEquiv>
+                    <Unicode>Sought Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689534894648_272" custom="readingOrder {index:1;}">
+                <Coords points="1084,2878 1851,2849 1862,3105 1117,3133"/>
+                <Baseline points="1117,3128 1862,3100"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Sought Boston
+Boston</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689534866191_246" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="6772,4843 7724,4843 7724,5211 6772,5211"/>
+            <TextLine id="line_1689534904502_282" custom="readingOrder {index:0;}">
+                <Coords points="7010,4860 7531,4950 7502,5056 7001,4983"/>
+                <Baseline points="7002,4978 7503,5051"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689534907796_287" custom="readingOrder {index:1;}">
+                <Coords points="6818,4969 7644,5074 7630,5187 6804,5116"/>
+                <Baseline points="6820,5102 7630,5182"/>
+                <TextEquiv>
+                    <Unicode>PAUL CONNELL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PHOTO BY
+PAUL CONNELL</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689534868908_249" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="6640,5220 7714,5220 7714,5578 6640,5578"/>
+            <TextLine id="line_1689534911035_292" custom="readingOrder {index:0;}">
+                <Coords points="6780,5306 7657,5364 7645,5567 6731,5530"/>
+                <Baseline points="6791,5523 7645,5556"/>
+                <TextEquiv>
+                    <Unicode>SEP 17 1974</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SEP 17 1974</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

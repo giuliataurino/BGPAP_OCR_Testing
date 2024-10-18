@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.337-04:00</Created>
+        <LastChange>2024-06-06T19:55:04.563+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234785" pageNr="65" tsid="170483763" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=AOEDEFHCSPVPUGYOFQTJPNSO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=RJLKBLJUENDWFYTQVMUCRSMU" imageId="46299718"/>
+    </Metadata>
+    <Page imageFilename="0065_M142_1015935949_0009_0018_Back.jpg" imageWidth="5026" imageHeight="6251">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923045" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689535786046_637"/>
+                <RegionRefIndexed index="1" regionRef="region_1689535798314_646"/>
+                <RegionRefIndexed index="2" regionRef="region_1689535802630_649"/>
+                <RegionRefIndexed index="3" regionRef="region_1689535780363_631"/>
+                <RegionRefIndexed index="4" regionRef="region_1689535783214_634"/>
+                <RegionRefIndexed index="5" regionRef="region_1689535788913_640"/>
+                <RegionRefIndexed index="6" regionRef="region_1689535794512_643"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689535786046_637" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="647,1706 1360,1706 1360,2044 647,2043"/>
+            <TextLine id="line_1689535819100_667" custom="readingOrder {index:0;}">
+                <Coords points="756,1736 1350,1893 1274,2025 717,1870"/>
+                <Baseline points="718,1865 1275,2020"/>
+                <TextEquiv>
+                    <Unicode>MAR 9 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MAR 9 1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535798314_646" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="2170,3564 2515,3564 2515,3838 2170,3838"/>
+            <TextLine id="line_1689535831621_687" custom="readingOrder {index:0;}">
+                <Coords points="2184,3641 2348,3555 2458,3769 2297,3835"/>
+                <Baseline points="2320,3798 2430,3746"/>
+                <TextEquiv>
+                    <Unicode>11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>11</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535802630_649" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2038,3403 3371,3431 3274,5383 1978,5351"/>
+            <TextLine id="line_1689535835987_692" custom="readingOrder {index:0;}">
+                <Coords points="2071,4085 2886,3735 3012,4036 2213,4400"/>
+                <Baseline points="2221,4362 2883,4037"/>
+                <TextEquiv>
+                    <Unicode>31X75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535839354_697" custom="readingOrder {index:1;}">
+                <Coords points="2297,4486 2725,4210 2900,4485 2417,4748"/>
+                <Baseline points="2435,4712 2844,4466"/>
+                <TextEquiv>
+                    <Unicode>BOATS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535842157_702" custom="readingOrder {index:2;}">
+                <Coords points="2641,5054 3187,4721 3013,4457 2491,4816"/>
+                <Baseline points="2649,4991 3129,4686"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535844684_707" custom="readingOrder {index:3;}">
+                <Coords points="2725,5102 3088,4845 3207,5101 2832,5303"/>
+                <Baseline points="2863,5186 3155,5043"/>
+                <TextEquiv>
+                    <Unicode>P13</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>31X75
+BOATS
+
+P13</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535780363_631" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2621,677 3778,677 3778,1292 2621,1292"/>
+            <TextLine id="line_1689535809903_652" custom="readingOrder {index:0;}">
+                <Coords points="3057,739 3549,897 3494,1068 2950,885"/>
+                <Baseline points="2995,872 3494,1047"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535812872_657" custom="readingOrder {index:1;}">
+                <Coords points="2784,814 3698,1160 3648,1273 2721,983"/>
+                <Baseline points="2742,969 3650,1268"/>
+                <TextEquiv>
+                    <Unicode>WENDY MAEDA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PHOTO BY
+WENDY MAEDA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535783214_634" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="2657,1491 3814,1491 3814,1875 2657,1875"/>
+            <TextLine id="line_1689535815608_662" custom="readingOrder {index:0;}">
+                <Coords points="2827,1524 3758,1576 3728,1837 2809,1760"/>
+                <Baseline points="2846,1748 3728,1832"/>
+                <TextEquiv>
+                    <Unicode>MAR 7 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MAR 7 1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535788913_640" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1023,1844 4330,1915 4330,2339 1037,2339"/>
+            <TextLine id="line_1689535822434_672" custom="readingOrder {index:0;}">
+                <Coords points="1234,1850 4236,1969 4176,2304 1223,2255"/>
+                <Baseline points="1230,2241 4176,2299"/>
+                <TextEquiv>
+                    <Unicode>Boston South Boston HA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Boston South Boston HA</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535794512_643" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="606,2337 4593,2272 4593,3216 601,3415"/>
+            <TextLine id="line_1689535825705_677" custom="readingOrder {index:0;}">
+                <Coords points="739,2433 3401,2322 3397,2564 776,2720"/>
+                <Baseline points="776,2715 3397,2559"/>
+                <TextEquiv>
+                    <Unicode>Boats in a dock at the</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535828718_682" custom="readingOrder {index:1;}">
+                <Coords points="774,2841 4508,2608 4528,3101 789,3328"/>
+                <Baseline points="834,3208 4526,3026"/>
+                <TextEquiv>
+                    <Unicode>Peninsula yacht club in S. Bos.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Boats in a dock at the
+Peninsula yacht club in S. Bos.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

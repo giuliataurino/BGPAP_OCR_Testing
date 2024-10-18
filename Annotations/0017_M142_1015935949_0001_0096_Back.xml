@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.914-04:00</Created>
+        <LastChange>2024-05-31T17:49:41.704+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234733" pageNr="17" tsid="169340754" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=ZHWYUEDTDPLQUETOPDUMBPJN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZZVLKVRRRYDQMLJIJBKTHJOB" imageId="46299666"/>
+    </Metadata>
+    <Page imageFilename="0017_M142_1015935949_0001_0096_Back.jpg" imageWidth="7311" imageHeight="4961">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922560" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689366375694_646"/>
+                <RegionRefIndexed index="1" regionRef="region_1689366379047_649"/>
+                <RegionRefIndexed index="2" regionRef="region_1689366381687_652"/>
+                <RegionRefIndexed index="3" regionRef="region_1689366385306_655"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689366375694_646" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="946,642 2728,642 2728,1529 946,1529"/>
+            <TextLine id="line_1689366392840_658" custom="readingOrder {index:0;}">
+                <Coords points="922,1021 2066,555 2167,779 1041,1288"/>
+                <Baseline points="1039,1283 2165,774"/>
+                <TextEquiv>
+                    <Unicode>5x60 overall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366398115_663" custom="readingOrder {index:1;}">
+                <Coords points="1339,1188 2610,566 2803,877 1556,1521"/>
+                <Baseline points="1463,1360 2697,774"/>
+                <TextEquiv>
+                    <Unicode>ten AM. Thurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>5x60 overall
+ten AM. Thura</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689366379047_649" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="2574,1074 4124,1074 4124,1568 2574,1568"/>
+            <TextLine id="line_1689366404088_668" custom="readingOrder {index:0;}">
+                <Coords points="2608,1154 4108,1120 4109,1311 2628,1349"/>
+                <Baseline points="2628,1344 4109,1306"/>
+                <TextEquiv>
+                    <Unicode>PHOTOGRAPHED BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366410760_673" custom="readingOrder {index:1;}">
+                <Coords points="2854,1365 3899,1340 3915,1579 2883,1559"/>
+                <Baseline points="2851,1506 3893,1514"/>
+                <TextEquiv>
+                    <Unicode>ELLIS HERWIG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PHOTOGRAPHED BY
+ELLIS HERWIG</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689366381687_652" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="3005,1699 3923,1699 3923,2046 3005,2046"/>
+            <TextLine id="line_1689366416070_678" custom="readingOrder {index:0;}">
+                <Coords points="3000,1799 3839,1837 3808,1966 2998,1936"/>
+                <Baseline points="2998,1931 3808,1961"/>
+                <TextEquiv>
+                    <Unicode>JAN 27 1970</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>JAN 27 1970</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689366385306_655" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1478,2162 5860,2162 5860,3512 1478,3512"/>
+            <TextLine id="line_1689366421513_683" custom="readingOrder {index:0;}">
+                <Coords points="2739,2236 3296,2261 3275,2398 2720,2368"/>
+                <Baseline points="2720,2363 3275,2393"/>
+                <TextEquiv>
+                    <Unicode>JAN 29 1970</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366428469_688" custom="readingOrder {index:1;}">
+                <Coords points="1553,2455 5879,2302 5815,2786 1551,2927"/>
+                <Baseline points="1548,2818 5798,2702"/>
+                <TextEquiv>
+                    <Unicode>Boston Skyline from Navy Yard Annex</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366433520_693" custom="readingOrder {index:2;}">
+                <Coords points="2870,3154 3818,2813 4097,3312 3145,3730"/>
+                <Baseline points="3013,3396 3954,3057"/>
+                <TextEquiv>
+                    <Unicode>Night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>JAN 29 1970
+Boston Skyline from navy yard annex
+Night</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

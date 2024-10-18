@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.205-04:00</Created>
+        <LastChange>2024-06-06T17:32:54.905+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234767" pageNr="47" tsid="170420483" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=NXGVPNTTDGGGZSCKVXGPQFNL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DOYAZDYOLJSQNAXSHNRLPNOH" imageId="46299700"/>
+    </Metadata>
+    <Page imageFilename="0047_M142_1015935949_0005_0025_Back.jpg" imageWidth="6252" imageHeight="5138">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922842" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_15"/>
+                <RegionRefIndexed index="4" regionRef="r_20"/>
+                <RegionRefIndexed index="5" regionRef="r_44"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4763,1088 1357,1118 1377,583 4763,583"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1474,1073 4736,976 4722,645 1473,707"/>
+                <Baseline points="1514,1013 4704,894"/>
+                <TextEquiv>
+                    <Unicode>Boston Slums Clean-up</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3932,1567 2864,1580 2864,1177 3950,1177"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="2951,1521 3744,1425 3718,1194 2884,1220"/>
+                <Baseline points="2936,1382 3719,1303"/>
+                <TextEquiv>
+                    <Unicode>Negroes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="3699,2088 1649,2233 1649,1867 3699,1705"/>
+            <TextLine id="l_32" custom="readingOrder {index:0;}">
+                <Coords points="1727,2186 3598,2059 3574,1758 1696,1914"/>
+                <Baseline points="1717,2129 3572,1974"/>
+                <TextEquiv>
+                    <Unicode>Good Housekeeping</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:3;}">
+            <Coords points="4649,2499 1749,2611 1760,2248 4664,2131"/>
+            <TextLine id="l_36" custom="readingOrder {index:0;}">
+                <Coords points="1793,2592 4614,2461 4601,2167 1781,2299"/>
+                <Baseline points="1773,2510 4594,2414"/>
+                <TextEquiv>
+                    <Unicode>Crew Forman Joseph Perkins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:4;}">
+            <Coords points="2716,3013 1959,3054 1959,2669 2707,2626"/>
+            <TextLine id="l_40" custom="readingOrder {index:0;}">
+                <Coords points="2031,2998 2622,2970 2618,2675 1997,2707"/>
+                <Baseline points="2023,2898 2619,2851"/>
+                <TextEquiv>
+                    <Unicode>9/1/66</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_44" custom="readingOrder {index:5;}">
+            <Coords points="994,4883 329,4883 329,4541 994,4541"/>
+            <TextLine id="l_49" custom="readingOrder {index:0;}">
+                <Coords points="379,4842 936,4852 953,4572 373,4597"/>
+                <Baseline points="379,4842 926,4823"/>
+                <TextEquiv>
+                    <Unicode>Silver</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

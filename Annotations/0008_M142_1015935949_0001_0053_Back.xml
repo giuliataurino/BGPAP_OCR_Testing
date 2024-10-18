@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.820-04:00</Created>
+        <LastChange>2024-05-31T17:11:34.950+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234724" pageNr="8" tsid="169333497" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=SWRPKUYBWFEXYWVXBXISOTPU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTXYYHNZEZRWQDZXWYGHAYZQ" imageId="46299657"/>
+    </Metadata>
+    <Page imageFilename="0008_M142_1015935949_0001_0053_Back.jpg" imageWidth="6194" imageHeight="4721">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922489" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_65"/>
+                <RegionRefIndexed index="1" regionRef="r_67"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r"/>
+                <RegionRefIndexed index="4" regionRef="r_15"/>
+                <RegionRefIndexed index="5" regionRef="r_58"/>
+                <RegionRefIndexed index="6" regionRef="r_20"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_65" custom="readingOrder {index:0;}">
+            <Coords points="4258,1156 4869,1129 4889,1270 4259,1275"/>
+            <TextLine id="l_60" custom="readingOrder {index:0;}">
+                <Coords points="4259,1269 4834,1275 4826,1247 4859,1255 4856,1129 4284,1119"/>
+                <Baseline points="4259,1269 4834,1275 4826,1247"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY
+</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_67" custom="readingOrder {index:1;}">
+            <Coords points="5044,1271 5044,1445 4226,1445 4226,1271"/>
+            <TextLine id="l_63" custom="readingOrder {index:0;}">
+                <Coords points="4266,1391 4274,1394 4274,1394 5023,1383 5008,1379 4982,1387 4986,1401 5008,1394 5012,1264 4274,1304 4290,1275 4278,1283"/>
+                <Baseline points="4266,1391 4274,1394 4274,1394 5023,1383 5008,1379 4982,1387"/>
+                <TextEquiv>
+                    <Unicode>JOSEPH RUNCI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="5230,1794 4246,1692 4241,1413 5230,1464"/>
+            <TextLine id="l_71" custom="readingOrder {index:0;}">
+                <Coords points="4254,1654 5177,1781 5238,1568 4309,1446"/>
+                <Baseline points="4272,1638 5177,1756"/>
+                <TextEquiv>
+                    <Unicode>SEP 22 1997</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:3;}">
+            <Coords points="2948,2778 1227,2562 1202,2548 1179,2481 1319,980 2948,980"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1362,1226 2697,1327 2717,1092 1385,997"/>
+                <Baseline points="1380,1199 2697,1289"/>
+                <TextEquiv>
+                    <Unicode>GLOBE PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:1;}">
+                <Coords points="1343,1581 2963,1655 2970,1422 1332,1376"/>
+                <Baseline points="1331,1547 2955,1610"/>
+                <TextEquiv>
+                    <Unicode>DATE NEGATIVE TAKEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:2;}">
+                <Coords points="1256,1944 2350,2010 2378,1778 1274,1726"/>
+                <Baseline points="1254,1907 2350,1957"/>
+                <TextEquiv>
+                    <Unicode>FOR STORY BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:3;}">
+                <Coords points="1250,2281 2776,2385 2796,2132 1266,2029"/>
+                <Baseline points="1254,2224 2776,2325"/>
+                <TextEquiv>
+                    <Unicode>DATE PICTURE USED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:4;}">
+                <Coords points="2492,2693 1204,2525 1263,2369 2518,2499"/>
+                <Baseline points="2492,2693 1204,2525"/>
+                <TextEquiv>
+                    <Unicode>SUBJECT (L TO R)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:5;}">
+                <Coords points="5596,2886 2525,2705 2549,2469 5624,2669"/>
+                <Baseline points="5586,2860 2525,2676"/>
+                <TextEquiv>
+                    <Unicode>Taken from 16 floor one Beacon ST</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:4;}">
+            <Coords points="5958,3600 3454,3389 3398,3583 1050,3432 1103,2971 1169,2621 2441,2679 2533,2424 5896,2638"/>
+            <TextLine id="l_48" custom="readingOrder {index:0;}">
+                <Coords points="1124,2834 4056,3077 5863,3182 5884,2902 4072,2833 1178,2581"/>
+                <Baseline points="1129,2785 4056,3077 5878,3136"/>
+                <TextEquiv>
+                    <Unicode>Taken from 16 floor one Beacon St </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:1;}">
+                <Coords points="1098,3151 4315,3484 5747,3577 5788,3251 4430,3145 1174,2864"/>
+                <Baseline points="1187,3102 4357,3395 5745,3479"/>
+                <TextEquiv>
+                    <Unicode>Boston Gas Co. on left is Suffolk Court House</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:2;}">
+                <Coords points="1112,3396 3301,3607 3399,3355 1131,3127"/>
+                <Baseline points="1108,3345 3289,3547"/>
+                <TextEquiv>
+                    <Unicode>in Pemberton Sqr - One Center Plaza - Kenedy Bldg and Boston City Hall	</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_58" custom="readingOrder {index:5;}">
+            <Coords points="1161,3553 2498,3682 2464,3902 1133,3762"/>
+            <TextLine id="l_53" custom="readingOrder {index:0;}">
+                <Coords points="1133,3725 2447,3838 2432,3832 2427,3846 2505,3671 1174,3544"/>
+                <Baseline points="1133,3725 2447,3838 2432,3832"/>
+                <TextEquiv>
+                    <Unicode>LIBRARY INDEXED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:6;}">
+            <Coords points="4796,4442 3151,4466 3207,4257 2811,4251 2805,3786 4745,4078"/>
+            <TextLine id="l_59" custom="readingOrder {index:0;}">
+                <Coords points="2824,4191 3777,4190 3774,3811 2831,3781"/>
+                <Baseline points="2815,4160 3777,4160"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:1;}">
+                <Coords points="3336,4472 4778,4383 4720,4121 3331,4218"/>
+                <Baseline points="3338,4425 4766,4348"/>
+                <TextEquiv>
+                    <Unicode>Skyline 1977</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

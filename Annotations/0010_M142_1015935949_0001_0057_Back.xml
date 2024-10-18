@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.835-04:00</Created>
+        <LastChange>2024-05-31T17:38:39.930+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234726" pageNr="10" tsid="169337823" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=MLGZOWALSKEKRURWBBIALOHV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWQGULZRUYTRNHTXSXFLQZNX" imageId="46299659"/>
+    </Metadata>
+    <Page imageFilename="0010_M142_1015935949_0001_0057_Back.jpg" imageWidth="6152" imageHeight="4780">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922506" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_20"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1375,587 267,587 267,73 1375,73"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="292,594 1181,553 1195,58 295,81"/>
+                <Baseline points="274,507 1188,454"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3338,1195 861,1202 881,755 3297,801"/>
+            <TextLine id="l_27" custom="readingOrder {index:0;}">
+                <Coords points="925,1180 3311,1137 3296,769 934,740"/>
+                <Baseline points="935,1141 3311,1081"/>
+                <TextEquiv>
+                    <Unicode>Boston Sky Line</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="4793,1282 4232,1128 4185,841 4847,1108"/>
+            <TextLine id="l_30" custom="readingOrder {index:0;}">
+                <Coords points="4804,1094 4236,873 4181,1070 4750,1307"/>
+                <Baseline points="4773,1101 4226,881"/>
+                <TextEquiv>
+                    <Unicode>SEP 14 1973</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:3;}">
+            <Coords points="2656,1823 2415,2657 2089,2550 2344,1870"/>
+            <TextLine id="l_33" custom="readingOrder {index:0;}">
+                <Coords points="2248,2515 2448,1932 2358,1896 2144,2476"/>
+                <Baseline points="2216,2483 2423,1916"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:1;}">
+                <Coords points="2316,2637 2590,1849 2487,1829 2188,2613"/>
+                <Baseline points="2316,2637 2590,1849"/>
+                <TextEquiv>
+                    <Unicode>JOSEPH RUNCI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

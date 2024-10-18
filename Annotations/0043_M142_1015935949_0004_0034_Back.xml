@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.165-04:00</Created>
+        <LastChange>2024-06-06T17:22:49.368+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234763" pageNr="43" tsid="170417789" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=HJBNBYOXGBYGTXWSUCZVWCOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SWKCAJFHBISSBAFQEOESMMSX" imageId="46299696"/>
+    </Metadata>
+    <Page imageFilename="0043_M142_1015935949_0004_0034_Back.jpg" imageWidth="8592" imageHeight="6272">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922799" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_8"/>
+                <RegionRefIndexed index="2" regionRef="r_17"/>
+                <RegionRefIndexed index="3" regionRef="r_22"/>
+                <RegionRefIndexed index="4" regionRef="r_27"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="7964,1058 6905,979 6961,48 8058,77"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="7202,877 7915,691 7757,195 7075,403"/>
+                <Baseline points="7177,771 7878,582"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_8" custom="readingOrder {index:1;}">
+            <Coords points="5704,3684 3381,3684 3381,3073 5704,3073"/>
+            <TextLine id="l_13" custom="readingOrder {index:0;}">
+                <Coords points="3455,3618 5586,3556 5598,3125 3450,3141"/>
+                <Baseline points="3440,3589 5554,3505"/>
+                <TextEquiv>
+                    <Unicode>Boston View</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_17" custom="readingOrder {index:2;}">
+            <Coords points="6050,4662 5368,4662 5368,4388 6050,4388"/>
+            <TextLine id="l_44" custom="readingOrder {index:0;}">
+                <Coords points="5420,4633 6016,4628 6019,4446 5420,4459"/>
+                <Baseline points="5420,4633 6016,4628"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_22" custom="readingOrder {index:3;}">
+            <Coords points="4590,5787 1971,5787 1971,5146 4590,5146"/>
+            <TextLine id="l_40" custom="readingOrder {index:0;}">
+                <Coords points="2131,5667 4397,5609 4408,5234 2118,5304"/>
+                <Baseline points="2116,5571 4391,5579"/>
+                <TextEquiv>
+                    <Unicode>BOSTON Skyline 1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_27" custom="readingOrder {index:4;}">
+            <Coords points="8447,6255 6747,6255 6747,5161 8447,5161"/>
+            <TextLine id="l_32" custom="readingOrder {index:0;}">
+                <Coords points="6824,5835 8175,5559 8174,5277 6809,5413"/>
+                <Baseline points="6824,5835 8175,5559"/>
+                <TextEquiv>
+                    <Unicode>Ben Butt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:1;}">
+                <Coords points="7178,6200 8393,6093 8364,5583 7125,5812"/>
+                <Baseline points="7153,6113 8393,6093"/>
+                <TextEquiv>
+                    <Unicode>7-29-91</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

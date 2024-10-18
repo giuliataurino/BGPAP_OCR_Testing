@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.804-04:00</Created>
+        <LastChange>2024-05-31T16:46:33.277+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234722" pageNr="6" tsid="169329582" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=OVMFHHGNTNBIZXFDKPBGLMCQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KYIIROHNUEQJSUKYPXKVMKJQ" imageId="46299655"/>
+    </Metadata>
+    <Page imageFilename="0006_M142_1015935949_0001_0045_Back.jpg" imageWidth="7398" imageHeight="5517">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922475" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_16"/>
+                <RegionRefIndexed index="2" regionRef="r_39"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3016,1147 3029,1075 4745,933 4710,1147 4699,1185 4735,1160 4681,1191 3016,1289"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3029,1328 4807,1187 4799,920 2989,1035"/>
+                <Baseline points="3017,1289 4710,1162"/>
+                <TextEquiv>
+                    <Unicode>Skyline Night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_16" custom="readingOrder {index:1;}">
+            <Coords points="1762,1485 1792,1268 1775,1278 1780,1291 5771,1182 5826,1482 5838,1548 1755,1707"/>
+            <TextLine id="l_13" custom="readingOrder {index:0;} textStyle {offset:7; length:17;strikethrough:true;}">
+                <Coords points="1786,1689 5853,1510 5803,1155 1794,1323"/>
+                <Baseline points="1792,1618 5826,1497"/>
+                <TextEquiv>
+                    <Unicode>Boston slums Night Scene </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_39" custom="readingOrder {index:2;}">
+            <Coords points="3959,2092 3433,2092 3433,1966 3959,1966"/>
+            <TextLine id="l_44" custom="readingOrder {index:0;}">
+                <Coords points="3451,2119 3953,2129 3972,1946 3439,1934"/>
+                <Baseline points="3444,2080 3953,2083"/>
+                <TextEquiv>
+                    <Unicode>NOV 29 '68</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

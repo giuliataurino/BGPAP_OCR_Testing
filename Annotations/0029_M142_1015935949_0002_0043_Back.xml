@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.024-04:00</Created>
+        <LastChange>2024-05-31T19:04:57.357+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234745" pageNr="29" tsid="169353252" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=BOWHREYMBEWLVGEJOSGMAFTK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QGYADFFMAEQKDNMNLULLIBKT" imageId="46299678"/>
+    </Metadata>
+    <Page imageFilename="0029_M142_1015935949_0002_0043_Back.jpg" imageWidth="8090" imageHeight="5547">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4549,1400 2476,1400 2476,66 4549,66"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2653,444 4309,372 4309,155 2643,173"/>
+                <Baseline points="2653,444 4309,372"/>
+                <TextEquiv>
+                    <Unicode>Joe DenneHy</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:1;}">
+                <Coords points="2787,804 3815,763 3864,553 2786,646"/>
+                <Baseline points="2787,804 3815,763"/>
+                <TextEquiv>
+                    <Unicode>1 - 20 - 83</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:2;}">
+                <Coords points="2709,1305 3661,1255 3686,861 2762,870"/>
+                <Baseline points="2725,1185 3569,1154"/>
+                <TextEquiv>
+                    <Unicode>yudis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="7690,3756 997,3756 997,2033 7690,2033"/>
+            <TextLine id="l_26" custom="readingOrder {index:0;}">
+                <Coords points="2493,2680 5806,2521 5800,1900 2422,2097"/>
+                <Baseline points="2447,2532 5801,2326"/>
+                <TextEquiv>
+                    <Unicode>Boston Skyline 1983</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:1;}">
+                <Coords points="1378,3179 6202,2850 6280,2556 1294,2929"/>
+                <Baseline points="1378,3179 6202,2850"/>
+                <TextEquiv>
+                    <Unicode>FinAnciAl District From CentrAl ArTery</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:2;}">
+                <Coords points="1226,3572 5091,3272 7558,3095 7582,2756 5090,3003 1202,3251"/>
+                <Baseline points="1203,3457 5091,3272 7539,2974"/>
+                <TextEquiv>
+                    <Unicode>PurcHAse ST. To Fort Hill GArage At High ST</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:3;}">
+                <Coords points="1248,3871 6616,3470 6710,3185 1228,3571"/>
+                <Baseline points="1234,3735 6480,3395"/>
+                <TextEquiv>
+                    <Unicode>And Between oliver ST And High ST</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:4;}">
+                <Coords points="5975,4565 7004,3519 7004,3519 7074,3437 6933,3185 5764,4381"/>
+                <Baseline points="6007,4444 7004,3519 7004,3519"/>
+                <TextEquiv>
+                    <Unicode>Fort hill 1"</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="7529,4732 5657,4732 5657,3282 7529,3282"/>
+            <TextLine id="l_47" custom="readingOrder {index:0;}">
+                <Coords points="6161,4629 7025,3827 6941,3634 5983,4483"/>
+                <Baseline points="6161,4629 7025,3827"/>
+                <TextEquiv>
+                    <Unicode>Wed AM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:1;}">
+                <Coords points="6464,4788 7230,4036 7096,3767 6330,4543"/>
+                <Baseline points="6469,4639 7159,3961"/>
+                <TextEquiv>
+                    <Unicode>JAn 26</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

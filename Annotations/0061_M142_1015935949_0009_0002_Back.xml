@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.306-04:00</Created>
+        <LastChange>2024-06-06T19:42:59.199+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234781" pageNr="61" tsid="170482029" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=HTPNKCRAGSHGPINEUJOIAIOS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XQHRPADBADUCBAVJDLDEYGIE" imageId="46299714"/>
+    </Metadata>
+    <Page imageFilename="0061_M142_1015935949_0009_0002_Back.jpg" imageWidth="6251" imageHeight="5026">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923003" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689535045939_309"/>
+                <RegionRefIndexed index="1" regionRef="region_1689535050289_312"/>
+                <RegionRefIndexed index="2" regionRef="region_1689535052589_315"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689535045939_309" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1848,984 2613,943 2641,1230 1877,1283"/>
+            <TextLine id="line_1689535067026_318" custom="readingOrder {index:0;}">
+                <Coords points="1942,1083 2539,999 2578,1207 1985,1260"/>
+                <Baseline points="1984,1238 2530,1176"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BOSTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535050289_312" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1383,1136 3769,1159 3767,1693 1360,1710"/>
+            <TextLine id="line_1689535071720_323" custom="readingOrder {index:0;}">
+                <Coords points="1469,1315 3699,1260 3699,1397 1468,1428"/>
+                <Baseline points="1484,1399 3693,1363"/>
+                <TextEquiv>
+                    <Unicode>3-23-91 3-deckers Michele McDonald photo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535075634_328" custom="readingOrder {index:1;}">
+                <Coords points="1481,1503 3437,1443 3442,1582 1484,1623"/>
+                <Baseline points="1492,1594 3438,1554"/>
+                <TextEquiv>
+                    <Unicode>South Boston is home to many 3-deckers.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>3-23-91 3-dckers Michele McDonald photo
+South Boston is home to many 3-deckers</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535052589_315" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2310,1742 2907,1742 2907,2069 2310,2069"/>
+            <TextLine id="line_1689535080075_333" custom="readingOrder {index:0;}">
+                <Coords points="2405,1768 2881,1785 2856,2057 2377,2004"/>
+                <Baseline points="2395,1980 2857,2052"/>
+                <TextEquiv>
+                    <Unicode>1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1991</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

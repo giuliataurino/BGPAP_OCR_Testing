@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.196-04:00</Created>
+        <LastChange>2024-06-06T17:29:58.538+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234766" pageNr="46" tsid="170413967" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=ZRHEPHHJTWXUSUZRATNGAUFH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LPTUIYQFVCKNHOHCXINEIWHA" imageId="46299699"/>
+    </Metadata>
+    <Page imageFilename="0046_M142_1015935949_0005_0017_Back.jpg" imageWidth="5723" imageHeight="4466">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922825" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_58"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3789,990 1042,990 813,990 813,612 3789,612"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="887,985 3727,940 3700,677 883,757"/>
+                <Baseline points="887,985 3632,921"/>
+                <TextEquiv>
+                    <Unicode>Boston Slum Areas</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3149,3605 2345,3605 2345,2617 3149,2617"/>
+            <TextLine id="l_18" custom="readingOrder {index:0;}">
+                <Coords points="2741,2693 2499,3463 2730,3545 2970,2770"/>
+                <Baseline points="2741,2693 2523,3405"/>
+                <TextEquiv>
+                    <Unicode>JAN 5 1962</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_58" custom="readingOrder {index:2;}">
+            <Coords points="4493,3552 5463,3611 5439,4298 4481,4306"/>
+            <TextLine id="l_50" custom="readingOrder {index:0;}">
+                <Coords points="4810,3573 5464,3826 5204,4285 4540,4098"/>
+                <Baseline points="4817,3639 5453,3870"/>
+                <TextEquiv>
+                    <Unicode>44</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="1721,4384 669,4384 669,3550 1721,3550"/>
+            <TextLine id="l_22" custom="readingOrder {index:0;}">
+                <Coords points="831,3761 1432,3810 1456,3705 830,3665"/>
+                <Baseline points="831,3761 1389,3793"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:1;}">
+                <Coords points="726,3882 1584,3953 1610,3827 731,3770"/>
+                <Baseline points="726,3882 1568,3923"/>
+                <TextEquiv>
+                    <Unicode>WILLIAM J. ENNIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:2;}">
+                <Coords points="726,4012 1551,4044 1544,3947 720,3898"/>
+                <Baseline points="726,4012 1551,4044"/>
+                <TextEquiv>
+                    <Unicode>BOSTON GLOBE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:3;}">
+                <Coords points="750,4271 1608,4319 1592,4148 788,4086"/>
+                <Baseline points="750,4271 1608,4319"/>
+                <TextEquiv>
+                    <Unicode>DEC 28 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

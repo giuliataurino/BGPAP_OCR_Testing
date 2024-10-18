@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.494-04:00</Created>
+        <LastChange>2024-06-07T00:35:35.832+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234809" pageNr="89" tsid="170554073" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=VLDIXSXIRVNQCIBYYYHPAFTT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NRWRZCCTBFXMMDTHZTGLMZAE" imageId="46299742"/>
+    </Metadata>
+    <Page imageFilename="0089_M142_1015935949_0015_0008_Back.jpg" imageWidth="6276" imageHeight="4643">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923325" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_22"/>
+                <RegionRefIndexed index="2" regionRef="r_38"/>
+                <RegionRefIndexed index="3" regionRef="r_49"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4982,837 2819,837 2819,225 4982,225"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3316,372 4262,366 4261,248 3314,242"/>
+                <Baseline points="3316,372 4262,366"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:1;}">
+                <Coords points="2919,628 4709,565 4708,565 4708,580 4697,389 2915,449"/>
+                <Baseline points="2984,628 4709,565 4708,565"/>
+                <TextEquiv>
+                    <Unicode>JACK O'CONNELL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_17" custom="readingOrder {index:2;}">
+                <Coords points="3791,813 4779,751 4779,748 4764,748 4764,575 3777,596"/>
+                <Baseline points="3791,813 4779,751 4779,748"/>
+                <TextEquiv>
+                    <Unicode>JUL 11 1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_22" custom="readingOrder {index:1;}">
+            <Coords points="5143,1440 2559,1440 2559,959 5143,959"/>
+            <TextLine id="l_27" custom="readingOrder {index:0;}">
+                <Coords points="2596,1360 3353,1364 4261,1337 4267,1331 4247,1308 4234,981 3381,1029 2630,992"/>
+                <Baseline points="2601,1199 3347,1242 4235,1166 4235,1166"/>
+                <TextEquiv>
+                    <Unicode>Mango Miller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:1;}">
+                <Coords points="4403,1210 5051,1268 5051,1268 5051,1253 5069,1130 4421,1045"/>
+                <Baseline points="4403,1210 5051,1268 5051,1268"/>
+                <TextEquiv>
+                    <Unicode>JUL 17 1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_38" custom="readingOrder {index:2;}">
+            <Coords points="1691,1541 782,1541 782,1201 1544,1103 1691,1201"/>
+            <TextLine id="l_44" custom="readingOrder {index:0;}">
+                <Coords points="869,1463 1535,1273 1535,1273 1535,1258 1502,1149 835,1322"/>
+                <Baseline points="869,1463 1535,1273 1535,1273"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_49" custom="readingOrder {index:3;}">
+            <Coords points="6075,3601 1234,3601 1234,1745 5357,1576 6075,1745"/>
+            <TextLine id="l_55" custom="readingOrder {index:0;}">
+                <Coords points="2820,1960 5555,1809 5715,1802 5714,1655 5551,1663 2803,1760"/>
+                <Baseline points="2820,1960 5555,1809 5715,1802"/>
+                <TextEquiv>
+                    <Unicode>Gary ZAKON ( MIT STudent, a summer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:1;}">
+                <Coords points="1422,2316 5254,2111 5254,2111 5254,2096 5254,1914 1421,2301"/>
+                <Baseline points="1422,2316 5254,2111 5254,2111"/>
+                <TextEquiv>
+                    <Unicode>intern), Juan MARCHAL (aquating) and Luis LOPEZ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_65" custom="readingOrder {index:2;}">
+                <Coords points="1420,2604 5329,2450 5319,2467 5318,2474 5327,2195 1421,2413"/>
+                <Baseline points="1425,2572 5319,2390 5319,2386"/>
+                <TextEquiv>
+                    <Unicode>(GrEENSTOCHE urban gardening assiatant), orange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:3;}">
+                <Coords points="1407,2747 4076,2612 4076,2612 4076,2597 4075,2487 1406,2582"/>
+                <Baseline points="1407,2747 4076,2612 4076,2612"/>
+                <TextEquiv>
+                    <Unicode>line elevated in background</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:4;}">
+                <Coords points="5539,2882 5930,2892 5930,2892 5930,2877 5992,2706 5615,2709"/>
+                <Baseline points="5539,2882 5930,2892 5930,2892"/>
+                <TextEquiv>
+                    <Unicode>End</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_75" custom="readingOrder {index:5;}">
+                <Coords points="1423,2922 2260,2854 2342,2883 5858,2687 5858,2683 5843,2683 5844,2674 5864,2498 2291,2713 1420,2794"/>
+                <Baseline points="1423,2922 2260,2854 2342,2883 5858,2687 5858,2683"/>
+                <TextEquiv>
+                    <Unicode>Street is Washington at corner of Rutland , in South</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_87" custom="readingOrder {index:6;}">
+                <Coords points="4275,3063 4933,3002 4933,3002 4933,2987 4933,2833 4274,2868"/>
+                <Baseline points="4275,3063 4933,3002 4933,3002"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:7;}">
+                <Coords points="1498,3193 2838,3105 2838,3105 2838,3090 2842,2957 1491,3025"/>
+                <Baseline points="1498,3193 2838,3105 2838,3105"/>
+                <TextEquiv>
+                    <Unicode>LIBRARY INDEXED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_97" custom="readingOrder {index:8;}">
+                <Coords points="1748,3420 3861,3384 3861,3353 3861,3375 3903,3114 1760,3228"/>
+                <Baseline points="1746,3361 3861,3279 3861,3279"/>
+                <TextEquiv>
+                    <Unicode>community gardens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_102" custom="readingOrder {index:9;}">
+                <Coords points="3885,3513 5868,3357 5868,3357 5868,3342 5882,3067 3931,3172"/>
+                <Baseline points="3885,3513 5868,3357 5868,3357"/>
+                <TextEquiv>
+                    <Unicode>Boston so.END</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

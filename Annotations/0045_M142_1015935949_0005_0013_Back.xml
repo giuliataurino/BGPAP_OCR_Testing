@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.180-04:00</Created>
+        <LastChange>2024-06-06T17:27:15.190+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234765" pageNr="45" tsid="170416784" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=HLVXHBESZQGVLEDYAGKDJIPE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZWCRHPJVEKWGACJYJRKVMLEN" imageId="46299698"/>
+    </Metadata>
+    <Page imageFilename="0045_M142_1015935949_0005_0013_Back.jpg" imageWidth="4514" imageHeight="5734">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922816" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_15"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+                <RegionRefIndexed index="4" regionRef="r_20"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3922,2672 678,2672 678,650 3922,650"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1521,1154 2979,1170 2981,1018 1532,1017"/>
+                <Baseline points="1521,1154 2979,1170"/>
+                <TextEquiv>
+                    <Unicode>ATTACH TO PRINT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_28" custom="readingOrder {index:1;}">
+                <Coords points="813,1393 3644,1436 3660,1346 820,1302"/>
+                <Baseline points="813,1393 3644,1436"/>
+                <TextEquiv>
+                    <Unicode>ASSIGNMENT: Boston Health Saniotation inspection</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:2;}">
+                <Coords points="845,1473 1665,1495 1671,1415 852,1406"/>
+                <Baseline points="845,1473 1665,1495"/>
+                <TextEquiv>
+                    <Unicode>of Rox homes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:3;}">
+                <Coords points="819,1601 3682,1622 3680,1540 824,1510"/>
+                <Baseline points="819,1601 3682,1622"/>
+                <TextEquiv>
+                    <Unicode>DATE Philip xxxxxxxx Fiorino Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:4;}">
+                <Coords points="798,1713 3767,1739 3767,1625 801,1616"/>
+                <Baseline points="798,1713 3767,1739"/>
+                <TextEquiv>
+                    <Unicode>Health Inspector entering home at 15 Maywood st</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:5;}">
+                <Coords points="803,1808 1383,1808 1387,1739 803,1722"/>
+                <Baseline points="803,1808 1383,1808"/>
+                <TextEquiv>
+                    <Unicode>CAPTION:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:6;}">
+                <Coords points="1118,2165 2495,2159 2495,1863 1121,1862"/>
+                <Baseline points="1111,2026 2495,2042"/>
+                <TextEquiv>
+                    <Unicode>Boston Bldgs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:7;}">
+                <Coords points="1947,2436 3772,2468 3772,2200 1960,2194"/>
+                <Baseline points="1947,2436 3772,2468"/>
+                <TextEquiv>
+                    <Unicode>Slum Conditions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3610,3664 944,3664 944,2991 3610,2991"/>
+            <TextLine id="l_56" custom="readingOrder {index:0;}">
+                <Coords points="1846,3200 2599,3197 2601,3119 1840,3101"/>
+                <Baseline points="1846,3200 2599,3197"/>
+                <TextEquiv>
+                    <Unicode>(Print or type)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:1;}">
+                <Coords points="973,3392 3469,3422 3464,3314 973,3274"/>
+                <Baseline points="973,3392 3469,3422"/>
+                <TextEquiv>
+                    <Unicode>Attach this caption to photo assignment.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:2;}">
+                <Coords points="1503,3520 2955,3556 2936,3449 1502,3437"/>
+                <Baseline points="1503,3520 2955,3556"/>
+                <TextEquiv>
+                    <Unicode>Turn in duplicate copy.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:2;}">
+            <Coords points="3052,4705 1929,4705 1929,4364 3052,4364"/>
+            <TextLine id="l_72" custom="readingOrder {index:0;}">
+                <Coords points="2115,4636 2942,4614 2942,4479 2110,4496"/>
+                <Baseline points="2115,4636 2942,4614"/>
+                <TextEquiv>
+                    <Unicode>APR 14 1965</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="4047,4790 3233,4790 3233,4072 4047,4072"/>
+            <TextLine id="l_68" custom="readingOrder {index:0;}">
+                <Coords points="3279,4256 3960,4698 4047,4576 3364,4147"/>
+                <Baseline points="3279,4256 3960,4698"/>
+                <TextEquiv>
+                    <Unicode>APR 15 1965</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:4;}">
+            <Coords points="2955,5232 1960,5232 1960,4785 2955,4785"/>
+            <TextLine id="l_76" custom="readingOrder {index:0;}">
+                <Coords points="2110,4942 2694,4906 2694,4906 2694,4906 2694,4891 2694,4891 2694,4821 2109,4863"/>
+                <Baseline points="2110,4942 2694,4906 2694,4906 2694,4906"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:1;}">
+                <Coords points="2022,5079 2840,5039 2845,4942 2021,4979"/>
+                <Baseline points="2022,5079 2840,5039"/>
+                <TextEquiv>
+                    <Unicode>JAMES A. JONES</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:2;}">
+                <Coords points="2075,5211 2840,5180 2838,5080 2072,5115"/>
+                <Baseline points="2075,5211 2840,5180"/>
+                <TextEquiv>
+                    <Unicode>BOSTON GLOBE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

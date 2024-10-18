@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.322-04:00</Created>
+        <LastChange>2024-06-06T19:51:14.918+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234784" pageNr="64" tsid="170482042" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=ZGKBYXIWOERQQYKYRIOQDBSA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KIRBHFPKPMTQADQMMUULSJFT" imageId="46299717"/>
+    </Metadata>
+    <Page imageFilename="0064_M142_1015935949_0009_0016_Back.jpg" imageWidth="6153" imageHeight="3899">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923033" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689535618865_559"/>
+                <RegionRefIndexed index="1" regionRef="region_1689535635798_568"/>
+                <RegionRefIndexed index="2" regionRef="region_1689535629248_565"/>
+                <RegionRefIndexed index="3" regionRef="region_1689535625516_562"/>
+                <RegionRefIndexed index="4" regionRef="region_1689535640131_571"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689535618865_559" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1418,816 2265,641 2303,996 1489,1117"/>
+            <TextLine id="line_1689535646197_574" custom="readingOrder {index:0;}">
+                <Coords points="1601,883 2182,757 2213,931 1631,1040"/>
+                <Baseline points="1658,1010 2212,926"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BOSTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535635798_568" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1080,1261 5161,1261 5161,1617 1080,1617"/>
+            <TextLine id="line_1689535650062_579" custom="readingOrder {index:0;}">
+                <Coords points="1185,1295 5072,1365 5057,1486 1180,1402"/>
+                <Baseline points="1180,1397 5057,1481"/>
+                <TextEquiv>
+                    <Unicode>South oston, South Boston residents xxx cheer Dapper O'Neal at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535653506_584" custom="readingOrder {index:1;}">
+                <Coords points="1110,1418 4556,1489 4547,1583 1109,1525"/>
+                <Baseline points="1109,1520 4547,1578"/>
+                <TextEquiv>
+                    <Unicode>St. Monica's. Globe staff photo Suzanne Kreiter 3/1/88</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>South oston, South Boston residents xxx cheer Dapper O'Neal at
+St. Monica's. Globe staff photo Suzanne Kreiter 3/1/88</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535629248_565" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2226,1558 2920,1549 2920,1831 2226,1831"/>
+            <TextLine id="line_1689535660245_594" custom="readingOrder {index:0;}">
+                <Coords points="2275,1572 2811,1592 2822,1796 2283,1821"/>
+                <Baseline points="2283,1816 2793,1797"/>
+                <TextEquiv>
+                    <Unicode>1988</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1988</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535625516_562" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="3175,1575 3855,1575 3855,1783 3175,1783"/>
+            <TextLine id="line_1689535656503_589" custom="readingOrder {index:0;}">
+                <Coords points="3236,1597 3795,1603 3799,1738 3244,1738"/>
+                <Baseline points="3244,1733 3799,1733"/>
+                <TextEquiv>
+                    <Unicode>MAR 03 1988</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MAR 03 1988</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689535640131_571" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="4261,2348 5695,2348 5695,3652 4261,3652"/>
+            <TextLine id="line_1689535664841_599" custom="readingOrder {index:0;}">
+                <Coords points="4409,2784 5161,2375 5260,2596 4561,3020"/>
+                <Baseline points="4617,2959 5180,2592"/>
+                <TextEquiv>
+                    <Unicode>45  6X65</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535667821_604" custom="readingOrder {index:1;}">
+                <Coords points="4834,2854 5189,2650 5312,2868 4954,3059"/>
+                <Baseline points="4975,3014 5270,2836"/>
+                <TextEquiv>
+                    <Unicode>#40</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535673177_609" custom="readingOrder {index:2;}">
+                <Coords points="4880,3204 5296,2933 5425,3183 5022,3410"/>
+                <Baseline points="5048,3366 5379,3162"/>
+                <TextEquiv>
+                    <Unicode>+BHA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689535676159_614" custom="readingOrder {index:3;}">
+                <Coords points="5163,3416 5497,3179 5624,3429 5297,3604"/>
+                <Baseline points="5323,3554 5573,3427"/>
+                <TextEquiv>
+                    <Unicode>P.19</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>45  6X65
+#40
++BHA
+P.19</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

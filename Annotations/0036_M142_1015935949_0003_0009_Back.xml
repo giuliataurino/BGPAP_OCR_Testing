@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.086-04:00</Created>
+        <LastChange>2024-06-04T22:54:15.976+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234753" pageNr="36" tsid="169979191" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=SOYJGFCXIGJHYPBHFPXYBBJU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZUBQRVZXVYMVSAZTEWCLYGX" imageId="46299686"/>
+    </Metadata>
+    <Page imageFilename="0036_M142_1015935949_0003_0009_Back.jpg" imageWidth="7703" imageHeight="5086">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922739" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_15"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4287,2225 2598,2225 2598,1289 4287,1289"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2695,1562 4060,1635 4048,1471 2745,1410"/>
+                <Baseline points="2776,1528 4047,1596"/>
+                <TextEquiv>
+                    <Unicode>PHOTOGRAPHED BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_23" custom="readingOrder {index:1;}">
+                <Coords points="2722,1671 4102,1739 4103,1600 2721,1546"/>
+                <Baseline points="2722,1671 4102,1739"/>
+                <TextEquiv>
+                    <Unicode>ELLIS HERWIG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:2;}">
+                <Coords points="2641,1818 4105,1902 4108,1774 2640,1710"/>
+                <Baseline points="2641,1800 4095,1875"/>
+                <TextEquiv>
+                    <Unicode>STAFF PHOTOGRSPHER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:3;}">
+                <Coords points="2708,2032 4000,2067 4009,1913 2716,1850"/>
+                <Baseline points="2708,1997 4000,2045"/>
+                <TextEquiv>
+                    <Unicode>The Boston Globe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="4002,2622 2835,2622 2835,2276 4002,2276"/>
+            <TextLine id="l_35" custom="readingOrder {index:0;}">
+                <Coords points="2930,2584 3886,2591 3858,2336 2932,2334"/>
+                <Baseline points="2940,2561 3871,2568"/>
+                <TextEquiv>
+                    <Unicode>Nov11 1973</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:2;}">
+            <Coords points="6854,2900 6175,2900 6175,2323 6854,2323"/>
+            <TextLine id="l_44" custom="readingOrder {index:0;}">
+                <Coords points="6180,2573 6677,2856 6810,2714 6250,2398"/>
+                <Baseline points="6188,2534 6691,2799"/>
+                <TextEquiv>
+                    <Unicode>NOV 19 1973</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="5957,3485 1064,3485 1064,2568 5957,2568"/>
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+                <Coords points="1108,3275 4625,3349 5768,3381 5738,2670 4714,2676 1237,2595"/>
+                <Baseline points="1118,3152 4625,3349 5760,3043"/>
+                <TextEquiv>
+                    <Unicode>BOSTON Skyline night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

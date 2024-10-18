@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.945-04:00</Created>
+        <LastChange>2024-05-31T18:01:50.753+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234737" pageNr="21" tsid="169341501" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=XDFEOJKTROZDPSCTUBJFOGWK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QCZLTUWKJHXGIXOQDTVVBEXY" imageId="46299670"/>
+    </Metadata>
+    <Page imageFilename="0021_M142_1015935949_0002_0021_Back.jpg" imageWidth="6278" imageHeight="4405">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922588" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689368320258_1128"/>
+                <RegionRefIndexed index="1" regionRef="region_1689368325943_1134"/>
+                <RegionRefIndexed index="2" regionRef="region_1689368323145_1131"/>
+                <RegionRefIndexed index="3" regionRef="region_1689368316849_1125"/>
+                <RegionRefIndexed index="4" regionRef="region_1689368329608_1137"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689368320258_1128" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1117,2746 250,2746 250,2036 1117,2036"/>
+            <TextLine id="line_1689368353388_1156" custom="readingOrder {index:0;}">
+                <Coords points="522,2809 272,2175 720,2063 930,2645"/>
+                <Baseline points="925,2647 715,2065"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OPS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689368325943_1134" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="1088,1501 1774,1501 1774,1755 1774,1926 1088,1926"/>
+            <TextLine id="line_1689368351022_1151" custom="readingOrder {index:0;}">
+                <Coords points="1147,1497 1739,1723 1715,1808 1092,1634"/>
+                <Baseline points="1093,1629 1716,1803"/>
+                <TextEquiv>
+                    <Unicode>OCT 28 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OCT 28 1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689368323145_1131" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="750,3054 1646,3054 1646,4032 750,4032"/>
+            <TextLine id="line_1689368357699_1161" custom="readingOrder {index:0;}">
+                <Coords points="817,3238 1360,3030 1404,3164 863,3391"/>
+                <Baseline points="861,3386 1402,3159"/>
+                <TextEquiv>
+                    <Unicode>35x55</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368361037_1166" custom="readingOrder {index:1;}">
+                <Coords points="815,3469 1382,3255 1450,3385 886,3606"/>
+                <Baseline points="884,3601 1448,3380"/>
+                <TextEquiv>
+                    <Unicode>Walkeep</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368364483_1171" custom="readingOrder {index:2;}">
+                <Coords points="925,3719 1270,3492 1352,3647 1002,3810"/>
+                <Baseline points="1000,3805 1350,3642"/>
+                <TextEquiv>
+                    <Unicode>in Cap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368367255_1176" custom="readingOrder {index:3;}">
+                <Coords points="1194,3886 1559,3563 1689,3703 1315,3994"/>
+                <Baseline points="1286,3968 1559,3794"/>
+                <TextEquiv>
+                    <Unicode>Pls</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>35x55
+Walkeep
+in Cap
+Pls</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689368316849_1125" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2432,482 3904,482 3904,1093 2432,1093"/>
+            <TextLine id="line_1689368343418_1141" custom="readingOrder {index:0;}">
+                <Coords points="2438,482 3765,426 3788,645 2467,709"/>
+                <Baseline points="2467,704 3788,640"/>
+                <TextEquiv>
+                    <Unicode>JOHN TLUMACKI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368347158_1146" custom="readingOrder {index:1;}">
+                <Coords points="2833,803 3724,830 3718,1034 2828,1005"/>
+                <Baseline points="2828,1000 3718,1029"/>
+                <TextEquiv>
+                    <Unicode>OCT 24 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>JOHN TLUMACKI
+OCT 24 1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689368329608_1137" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="2223,1499 5918,1499 5912,3380 2217,3380"/>
+            <TextLine id="line_1689368371146_1181" custom="readingOrder {index:0;}">
+                <Coords points="2303,1736 5844,1469 5859,1657 2333,1960"/>
+                <Baseline points="2333,1955 5859,1652"/>
+                <TextEquiv>
+                    <Unicode>Quincy - Two people walk across</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368376070_1186" custom="readingOrder {index:1;}">
+                <Coords points="2277,2055 5779,1690 5785,1849 2305,2216"/>
+                <Baseline points="2304,2211 5784,1844"/>
+                <TextEquiv>
+                    <Unicode>A Narrow breakwater Jutting out</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368380471_1191" custom="readingOrder {index:2;}">
+                <Coords points="2273,2264 5653,1981 5661,2134 2281,2419"/>
+                <Baseline points="2281,2414 5661,2129"/>
+                <TextEquiv>
+                    <Unicode>from SqUANtUm iNtO DorchesteR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368385709_1196" custom="readingOrder {index:3;}">
+                <Coords points="2370,2499 5464,2208 5505,2415 2381,2755"/>
+                <Baseline points="2374,2676 5498,2374"/>
+                <TextEquiv>
+                    <Unicode>Bay, overwelmed iN size by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368389877_1201" custom="readingOrder {index:4;}">
+                <Coords points="2734,2724 5648,2414 5627,2657 2758,2934"/>
+                <Baseline points="2746,2862 5626,2560"/>
+                <TextEquiv>
+                    <Unicode>the BOSTON Skyline, brought </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368396909_1206" custom="readingOrder {index:5;}">
+                <Coords points="2429,2957 5422,2663 5460,2873 2444,3188"/>
+                <Baseline points="2449,3124 5451,2808"/>
+                <TextEquiv>
+                    <Unicode>ClLoser by the Use of A Long</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368404915_1216" custom="readingOrder {index:6;}">
+                <Coords points="4268,2970 4881,2913 4882,3153 4276,3170"/>
+                <Baseline points="4276,3165 4882,3148"/>
+                <TextEquiv>
+                    <Unicode>teLePhotoLens.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689368402310_1211" custom="readingOrder {index:7;}">
+                <Coords points="2485,3194 3665,3106 3685,3253 2494,3407"/>
+                <Baseline points="2490,3340 3677,3194"/>
+                <TextEquiv>
+                    <Unicode>1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Quincy - Two people walk across
+A Narrow breakwater Jutting out
+from SqUANtUm iNtO DorchesteR
+Bay, overwelmed iN size by
+the BOSTON Skyline, brought 
+ClLoser by the Use of A Long
+teLePhotoLens.
+1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

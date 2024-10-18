@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.431-04:00</Created>
+        <LastChange>2024-06-07T00:20:52.968+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234800" pageNr="80" tsid="170550794" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=NXYGHYZVBXRMKYLULEVHIBSS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DVFFRYWRZUYEUUMEHNMOOVRC" imageId="46299733"/>
+    </Metadata>
+    <Page imageFilename="0080_M142_1015935949_0014_0011_Back.jpg" imageWidth="6279" imageHeight="4651">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923235" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_15"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2338,2376 1701,2376 1701,2130 2338,2130"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1712,2321 2315,2254 2315,2254 2317,2287 2314,2132 1715,2189"/>
+                <Baseline points="1712,2321 2315,2254 2315,2254"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="5949,2532 5643,2532 5643,2113 5949,2113"/>
+            <TextLine id="l_74" custom="readingOrder {index:0;}">
+                <Coords points="5682,2170 5757,2489 5757,2489 5757,2474 5918,2468 5863,2157"/>
+                <Baseline points="5682,2170 5757,2489 5757,2489"/>
+                <TextEquiv>
+                    <Unicode>9042</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:2;}">
+            <Coords points="4867,2714 1729,2714 1729,2398 4527,2326 4867,2398"/>
+            <TextLine id="l_69" custom="readingOrder {index:0;}">
+                <Coords points="4058,2455 4781,2614 4781,2614 4803,2616 4837,2474 4095,2298"/>
+                <Baseline points="4058,2455 4781,2614 4781,2614"/>
+                <TextEquiv>
+                    <Unicode>Jan 09 1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+                <Coords points="1742,2507 3452,2484 3673,2483 3673,2483 3673,2468 3683,2408 3454,2407 1734,2431"/>
+                <Baseline points="1742,2507 3452,2484 3673,2483 3673,2483"/>
+                <TextEquiv>
+                    <Unicode>Staff Bill Greene 12-19-88 South End</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:2;}">
+                <Coords points="1740,2608 3160,2580 3160,2580 3160,2565 3159,2500 1742,2531"/>
+                <Baseline points="1740,2608 3160,2580 3160,2580"/>
+                <TextEquiv>
+                    <Unicode>Row houses in the South End.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:3;}">
+                <Coords points="3389,2641 3729,2633 3783,2692 3852,2691 3852,2691 3852,2676 3852,2676 3933,2501 3803,2484 3394,2504"/>
+                <Baseline points="3389,2641 3729,2633 3783,2692 3852,2691 3852,2691"/>
+                <TextEquiv>
+                    <Unicode>1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="1712,2809 1493,2809 1493,2390 1712,2390"/>
+            <TextLine id="l_35" custom="readingOrder {index:0;}">
+                <Coords points="1664,2722 1674,2412 1674,2409 1659,2409 1554,2412 1556,2722"/>
+                <Baseline points="1664,2722 1674,2412 1674,2409"/>
+                <TextEquiv>
+                    <Unicode>9042</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

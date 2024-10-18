@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.416-04:00</Created>
+        <LastChange>2024-06-06T23:58:38.258+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234797" pageNr="77" tsid="170547959" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=CPUQENRXUKLSBJENVVCCXVUC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VHGYWHDCDBZHGDRPSISVSRSV" imageId="46299730"/>
+    </Metadata>
+    <Page imageFilename="0077_M142_1015935949_0013_0019_Back.jpg" imageWidth="6465" imageHeight="5236">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923177" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_25"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+                <RegionRefIndexed index="4" regionRef="r_15"/>
+                <RegionRefIndexed index="5" regionRef="r_20"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4693,1659 2775,1659 2775,988 4693,988"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3237,1186 4201,1168 4201,1168 4201,1153 4214,1004 3204,1005"/>
+                <Baseline points="3237,1186 4201,1168 4201,1168"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:1;}">
+                <Coords points="2827,1418 4651,1364 4650,1149 2827,1223"/>
+                <Baseline points="2827,1418 4651,1364"/>
+                <TextEquiv>
+                    <Unicode>JACK O'CONNELL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:2;}">
+                <Coords points="2942,1579 3990,1536 3990,1536 3990,1521 3990,1391 2945,1425"/>
+                <Baseline points="2942,1579 3990,1536 3990,1536"/>
+                <TextEquiv>
+                    <Unicode>AUG 18 1976</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3531,2072 2208,2072 2208,1799 3531,1799"/>
+            <TextLine id="l_49" custom="readingOrder {index:0;}">
+                <Coords points="2209,2037 3477,2026 3477,2026 3477,2011 3473,1848 2227,1831"/>
+                <Baseline points="2209,2037 3477,2026 3477,2026"/>
+                <TextEquiv>
+                    <Unicode>B. Buchanan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_25" custom="readingOrder {index:2;}">
+            <Coords points="1967,2295 1231,2295 1231,1941 1967,1941"/>
+            <TextLine id="l_54" custom="readingOrder {index:0;}">
+                <Coords points="1235,2200 1920,2227 1964,2098 1253,2060"/>
+                <Baseline points="1235,2163 1920,2215"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="4609,2791 4402,2930 4215,2789 2178,2791 2178,2549 4609,2549"/>
+            <TextLine id="l_62" custom="readingOrder {index:0;}">
+                <Coords points="2212,2726 4041,2738 4396,2808 4396,2808 4396,2793 4467,2576 4085,2573 2213,2557"/>
+                <Baseline points="2212,2726 4041,2738 4396,2808 4396,2808"/>
+                <TextEquiv>
+                    <Unicode>new homes on w. canton St;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:4;}">
+            <Coords points="3891,3077 2334,3077 2334,2827 3891,2827"/>
+            <TextLine id="l_68" custom="readingOrder {index:0;}">
+                <Coords points="2360,3007 3729,3029 3729,3029 3729,3014 3770,2827 2360,2840"/>
+                <Baseline points="2360,3007 3729,3029 3729,3029"/>
+                <TextEquiv>
+                    <Unicode>South End</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:5;}">
+            <Coords points="4318,4254 2819,4254 2355,4254 2355,3579 4318,3579"/>
+            <TextLine id="l_73" custom="readingOrder {index:0;}">
+                <Coords points="2388,3918 3246,3872 3246,3872 3246,3857 3259,3661 2425,3651"/>
+                <Baseline points="2388,3918 3246,3872 3246,3872"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:1;}">
+                <Coords points="2711,4125 4189,4165 4198,3953 4189,4150 4208,3958 2727,3957"/>
+                <Baseline points="2711,4125 4189,4165 4189,4165"/>
+                <TextEquiv>
+                    <Unicode>South End Ad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

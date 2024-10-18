@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trpDocMetadata>
+    <docId>1495308</docId>
+    <title>Training_Set_I</title>
+    <author>Giulia Taurino</author>
+    <uploadTimestamp>1688748472590</uploadTimestamp>
+    <writer>Seamus Mawe, Daniel O'Brien, Thomas Henehan, Giulia Taurino, Monica Storss</writer>
+    <scriptType>HANDWRITTEN</scriptType>
+    <uploader>mawe.s@northeastern.edu</uploader>
+    <uploaderId>172566</uploaderId>
+    <nrOfPages>196</nrOfPages>
+    <pageId>57234717</pageId>
+    <url>https://files.transkribus.eu/Get?fileType=view&amp;id=BHLJRRFXNBUCZJAIEHRQQMST</url>
+    <thumbUrl>https://files.transkribus.eu/Get?fileType=thumb&amp;id=BHLJRRFXNBUCZJAIEHRQQMST</thumbUrl>
+    <status>0</status>
+    <fimgStoreColl>TrpDoc_DEA_1495308</fimgStoreColl>
+    <origDocId>0</origDocId>
+    <collectionList>
+        <colList>
+            <colId>211730</colId>
+            <colName>Boston Globe</colName>
+            <description>created by dasmiq@gmail.com</description>
+            <crowdsourcing>false</crowdsourcing>
+            <elearning>false</elearning>
+            <nrOfDocuments>0</nrOfDocuments>
+        </colList>
+    </collectionList>
+    <mainColId>211730</mainColId>
+</trpDocMetadata>

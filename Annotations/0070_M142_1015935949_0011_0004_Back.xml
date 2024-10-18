@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.369-04:00</Created>
+        <LastChange>2024-06-06T20:09:43.209+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234790" pageNr="70" tsid="170488749" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=VFLBRIUDWSZSYDDIMISIAYXG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NSRCDZPWHXSTJBADMEQKINNX" imageId="46299723"/>
+    </Metadata>
+    <Page imageFilename="0070_M142_1015935949_0011_0004_Back.jpg" imageWidth="5303" imageHeight="7716">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923111" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_6"/>
+                <RegionRefIndexed index="2" regionRef="r_11"/>
+                <RegionRefIndexed index="3" regionRef="r_16"/>
+                <RegionRefIndexed index="4" regionRef="r_71"/>
+                <RegionRefIndexed index="5" regionRef="r_21"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2148,345 4271,345 4271,572 2148,572"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2300,532 4236,540 4249,359 2294,375"/>
+                <Baseline points="2300,532 4198,538"/>
+                <TextEquiv>
+                    <Unicode>BOSTON HOUSING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_6" custom="readingOrder {index:1;}">
+            <Coords points="4230,1030 1906,1030 1906,560 4249,558"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="2034,971 4186,969 4203,612 2038,573"/>
+                <Baseline points="2034,971 4148,921"/>
+                <TextEquiv>
+                    <Unicode>South Cove Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_11" custom="readingOrder {index:2;}">
+            <Coords points="4831,1954 508,1954 508,1071 4873,1022"/>
+            <TextLine id="l_31" custom="readingOrder {index:0;}">
+                <Coords points="711,1478 4753,1434 4829,1091 699,1158"/>
+                <Baseline points="711,1478 4637,1354"/>
+                <TextEquiv>
+                    <Unicode>Workman hooks crane cable to pre cast</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:1;}">
+                <Coords points="570,1926 2407,1941 2424,1608 590,1635"/>
+                <Baseline points="581,1836 2127,1830"/>
+                <TextEquiv>
+                    <Unicode>side of building</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_16" custom="readingOrder {index:3;}">
+            <Coords points="3011,2652 2368,2652 2368,2331 3011,2331"/>
+            <TextLine id="l_37" custom="readingOrder {index:0;}">
+                <Coords points="2451,2458 2899,2495 2919,2402 2457,2379"/>
+                <Baseline points="2451,2458 2848,2490"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+                <Coords points="2379,2590 2968,2620 2984,2524 2396,2504"/>
+                <Baseline points="2379,2590 2930,2608"/>
+                <TextEquiv>
+                    <Unicode>PHIL PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_71" custom="readingOrder {index:4;}">
+            <Coords points="3139,2914 3769,2583 3901,2764 3250,3133"/>
+            <TextLine id="l_63" custom="readingOrder {index:0;}">
+                <Coords points="3264,3026 3796,2743 3746,2622 3195,2913"/>
+                <Baseline points="3264,3026 3783,2753"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:5;}">
+            <Coords points="3042,2863 2034,2863 2034,2628 3042,2628"/>
+            <TextLine id="l_43" custom="readingOrder {index:0;}">
+                <Coords points="2078,2819 2961,2859 2989,2657 2094,2610"/>
+                <Baseline points="2093,2798 2945,2830"/>
+                <TextEquiv>
+                    <Unicode>MAR 15 1978</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

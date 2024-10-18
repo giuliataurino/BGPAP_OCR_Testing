@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.274-04:00</Created>
+        <LastChange>2024-06-06T17:59:07.292+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234775" pageNr="55" tsid="170443568" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=LBKYPAAUMRSPRSDFQUAKAQUS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JSKQPVOGVCDWZLIERXUILRIM" imageId="46299708"/>
+    </Metadata>
+    <Page imageFilename="0055_M142_1015935949_0008_0012_Back.jpg" imageWidth="6280" imageHeight="5132">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922934" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_20"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+                <RegionRefIndexed index="4" regionRef="r_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="5871,895 541,895 541,315 5871,315"/>
+            <TextLine id="l_51" custom="readingOrder {index:0;}">
+                <Coords points="712,562 5827,630 5816,382 719,368"/>
+                <Baseline points="722,520 5787,572"/>
+                <TextEquiv>
+                    <Unicode>Front view of new Town Houses Later the same day after having been</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:1;}">
+                <Coords points="731,795 2573,839 2574,646 731,625"/>
+                <Baseline points="731,784 2519,819"/>
+                <TextEquiv>
+                    <Unicode>put in place by crane</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3078,1505 2114,1505 2114,1082 3078,1082"/>
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+                <Coords points="2131,1332 2957,1352 2979,1110 2150,1099"/>
+                <Baseline points="2131,1332 2957,1352"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:2;}">
+            <Coords points="1365,1954 552,2413 -3,1389 809,930"/>
+            <TextLine id="l_27" custom="readingOrder {index:0;}">
+                <Coords points="369,1448 738,1168 647,1062 297,1320"/>
+                <Baseline points="369,1448 738,1168"/>
+                <TextEquiv>
+                    <Unicode>3 cols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:1;}">
+                <Coords points="300,1769 929,1297 880,1099 176,1577"/>
+                <Baseline points="300,1769 929,1297"/>
+                <TextEquiv>
+                    <Unicode>Proofs to</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:2;}">
+                <Coords points="430,2103 1065,1646 904,1392 249,1814"/>
+                <Baseline points="355,1974 956,1523"/>
+                <TextEquiv>
+                    <Unicode>Lenny in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:3;}">
+                <Coords points="554,2314 1073,1994 871,1651 346,2020"/>
+                <Baseline points="437,2131 915,1803"/>
+                <TextEquiv>
+                    <Unicode>Sunday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="5802,2193 4149,2268 3251,2280 3270,1068 5802,1059"/>
+            <TextLine id="l_42" custom="readingOrder {index:0;}">
+                <Coords points="3319,1406 4454,1412 4529,1194 3302,1158"/>
+                <Baseline points="3305,1379 4351,1374"/>
+                <TextEquiv>
+                    <Unicode>Housing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_45" custom="readingOrder {index:1;}">
+                <Coords points="4096,1841 5681,1806 5674,1607 4075,1633"/>
+                <Baseline points="4096,1841 5681,1806"/>
+                <TextEquiv>
+                    <Unicode>Town Houses</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:2;}">
+                <Coords points="4078,2241 5748,2174 5707,1916 4064,2041"/>
+                <Baseline points="4069,2193 5707,2131"/>
+                <TextEquiv>
+                    <Unicode>South Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:4;}">
+            <Coords points="2676,3122 1815,3397 1749,3191 2610,2916"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1927,3331 2585,3109 2547,2956 1862,3191"/>
+                <Baseline points="1927,3331 2585,3109"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

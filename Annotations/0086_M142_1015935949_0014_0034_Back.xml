@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.478-04:00</Created>
+        <LastChange>2024-06-07T00:29:50.866+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234806" pageNr="86" tsid="170553711" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=CSJECNEYULPZFHHOXCNHYJBO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ONSANGYMEYJJRMJOEULUKARD" imageId="46299739"/>
+    </Metadata>
+    <Page imageFilename="0086_M142_1015935949_0014_0034_Back.jpg" imageWidth="6048" imageHeight="4803">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923299" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3698,1309 2138,1309 2138,847 3362,758 3698,847"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2208,1047 3447,923 3447,917 3432,917 3419,805 2204,914"/>
+                <Baseline points="2208,1047 3447,923 3447,917"/>
+                <TextEquiv>
+                    <Unicode>GLOBE STAFF PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_10" custom="readingOrder {index:1;}">
+                <Coords points="2227,1218 3539,1060 3539,1060 3539,1045 3538,948 2225,1086"/>
+                <Baseline points="2227,1218 3539,1060 3539,1060"/>
+                <TextEquiv>
+                    <Unicode>JOHN TLUMACKI</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:1;}">
+            <Coords points="4309,2557 832,2557 832,1754 4309,1754"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;}">
+                <Coords points="863,1945 1497,1938 1497,1938 1497,1923 1491,1787 869,1799"/>
+                <Baseline points="863,1945 1497,1938 1497,1938"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:1;}">
+                <Coords points="863,2177 4240,2128 4240,2128 4240,2113 4235,1993 878,2075"/>
+                <Baseline points="863,2177 4240,2128 4240,2128"/>
+                <TextEquiv>
+                    <Unicode>South End... A BMW Yuppimobile parked in the South End.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:2;}">
+                <Coords points="1439,2501 1987,2414 1987,2414 1962,2234 1986,2214 1423,2269"/>
+                <Baseline points="1439,2501 1987,2414 1987,2414"/>
+                <TextEquiv>
+                    <Unicode>1988</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

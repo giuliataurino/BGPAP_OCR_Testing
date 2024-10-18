@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.008-04:00</Created>
+        <LastChange>2024-05-31T19:02:29.744+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234743" pageNr="27" tsid="169352710" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=FTWLDQOCTWFZTPVUYENTYDLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JRWIATLSDMLHJKWSLWOUBUDE" imageId="46299676"/>
+    </Metadata>
+    <Page imageFilename="0027_M142_1015935949_0002_0036_Back.jpg" imageWidth="8203" imageHeight="4500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922653" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_20"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_5"/>
+                <RegionRefIndexed index="4" regionRef="r_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1182,2612 215,2612 215,1953 1182,1953"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1075,2386 544,1962 235,2234 777,2749"/>
+                <Baseline points="1075,2386 544,1962"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:1;}">
+            <Coords points="6894,3621 2160,3621 2160,174 6894,174"/>
+            <TextLine id="l_36" custom="readingOrder {index:0;}">
+                <Coords points="4344,382 4875,375 4875,211 4344,206"/>
+                <Baseline points="4344,382 4875,375"/>
+                <TextEquiv>
+                    <Unicode>AeRial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_40" custom="readingOrder {index:1;}">
+                <Coords points="4258,533 4890,512 4889,407 4252,445"/>
+                <Baseline points="4258,533 4890,512"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:2;}">
+                <Coords points="2296,813 5191,763 5206,560 2291,685"/>
+                <Baseline points="2296,813 5191,763"/>
+                <TextEquiv>
+                    <Unicode>GLOBE PHOTO BY BOB DEAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_48" custom="readingOrder {index:3;}">
+                <Coords points="2253,1172 5191,1143 5197,911 2253,894"/>
+                <Baseline points="2253,1172 5191,1143"/>
+                <TextEquiv>
+                    <Unicode>DATE NEGATIVE TAKEN AUG 2 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_52" custom="readingOrder {index:4;}">
+                <Coords points="2246,1502 3317,1502 3317,1387 2237,1366"/>
+                <Baseline points="2246,1502 3317,1502"/>
+                <TextEquiv>
+                    <Unicode>FOR STORY BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_56" custom="readingOrder {index:5;}">
+                <Coords points="2239,1869 3755,1854 3760,1692 2228,1710"/>
+                <Baseline points="2239,1869 3755,1854"/>
+                <TextEquiv>
+                    <Unicode>DATE PICTURE USED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_60" custom="readingOrder {index:6;}">
+                <Coords points="2282,2192 5687,2185 5717,1944 2249,1994"/>
+                <Baseline points="2282,2192 5687,2185"/>
+                <TextEquiv>
+                    <Unicode>SUBJECT (L TO R ) DOWNTOWN BOSTON AS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:7;}">
+                <Coords points="2402,2551 5053,2528 5064,2245 2387,2349"/>
+                <Baseline points="2383,2500 5048,2457"/>
+                <TextEquiv>
+                    <Unicode>SeeN from Waterfront</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_68" custom="readingOrder {index:8;}">
+                <Coords points="2324,3488 6749,3563 6818,3067 2341,2945"/>
+                <Baseline points="2324,3378 6764,3274"/>
+                <TextEquiv>
+                    <Unicode>LIBRARY INDEXED Boston Skyline 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="7921,4001 6657,4001 6657,3355 7921,3355"/>
+            <TextLine id="l_78" custom="readingOrder {index:0;}">
+                <Coords points="6912,3487 7594,3580 7610,3464 6932,3375"/>
+                <Baseline points="6912,3487 7594,3580"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:1;}">
+                <Coords points="6675,3666 7795,3831 7829,3674 6721,3485"/>
+                <Baseline points="6675,3666 7795,3831"/>
+                <TextEquiv>
+                    <Unicode>BOB DEAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="1964,4013 501,4013 501,3540 1964,3540"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="845,3750 1528,3599 1498,3492 812,3640"/>
+                <Baseline points="845,3750 1528,3599"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_32" custom="readingOrder {index:1;}">
+                <Coords points="680,4049 1800,3807 1734,3546 608,3877"/>
+                <Baseline points="666,3980 1772,3728"/>
+                <TextEquiv>
+                    <Unicode>BOB DEAN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:4;}">
+            <Coords points="5285,4159 4056,4159 4056,3800 5285,3800"/>
+            <TextLine id="l_74" custom="readingOrder {index:0;}">
+                <Coords points="4103,4054 5101,4061 5102,3853 4103,3862"/>
+                <Baseline points="4103,4054 5101,4061"/>
+                <TextEquiv>
+                    <Unicode>AUG 2 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

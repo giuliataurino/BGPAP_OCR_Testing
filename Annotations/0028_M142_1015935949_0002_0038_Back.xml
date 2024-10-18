@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.008-04:00</Created>
+        <LastChange>2024-05-31T19:03:08.548+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234744" pageNr="28" tsid="169352815" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=DJMEPNYFSQJDZBFGEIJYMWRX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JDQYKNVQDWJJGLJEJJPMMVCH" imageId="46299677"/>
+    </Metadata>
+    <Page imageFilename="0028_M142_1015935949_0002_0038_Back.jpg" imageWidth="6266" imageHeight="4541">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922661" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4502,1158 721,1158 721,266 4502,266"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="989,875 4178,885 4178,885 4178,885 4178,870 4178,870 4190,511 989,489"/>
+                <Baseline points="989,875 4178,885 4178,885 4178,885"/>
+                <TextEquiv>
+                    <Unicode>Boston Skyline Night 85</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="4350,2648 2003,2648 2003,1746 4350,1746"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;}">
+                <Coords points="2150,2208 4112,2150 4079,1700 2135,1759"/>
+                <Baseline points="2150,2208 4112,2150"/>
+                <TextEquiv>
+                    <Unicode>John Thumacki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:1;}">
+                <Coords points="2560,2541 3521,2503 3505,2232 2559,2277"/>
+                <Baseline points="2560,2541 3521,2503"/>
+                <TextEquiv>
+                    <Unicode>9 - 25 - 85</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="4702,3369 1798,3369 1798,2912 4702,2912"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="1922,3273 4528,3227 4521,2935 1937,2947"/>
+                <Baseline points="1922,3178 4521,3150"/>
+                <TextEquiv>
+                    <Unicode>appeared 11 - 3 - 85 magazine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

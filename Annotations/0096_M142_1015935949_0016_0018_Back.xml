@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.548-04:00</Created>
+        <LastChange>2024-06-07T01:03:51.282+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234817" pageNr="96" tsid="170557896" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=SBTMMAFZEEHALVUECHPYUHNK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EUZOTWQQJBZDDEOZWTRTLUFE" imageId="46299750"/>
+    </Metadata>
+    <Page imageFilename="0096_M142_1015935949_0016_0018_Back.jpg" imageWidth="4231" imageHeight="6790">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923433" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_29"/>
+                <RegionRefIndexed index="2" regionRef="r_44"/>
+                <RegionRefIndexed index="3" regionRef="r_5"/>
+                <RegionRefIndexed index="4" regionRef="r_24"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2851,977 471,921 471,298 2880,298"/>
+            <TextLine id="l_14" custom="readingOrder {index:0;}">
+                <Coords points="612,897 2725,927 2777,367 675,337"/>
+                <Baseline points="662,721 2659,692"/>
+                <TextEquiv>
+                    <Unicode>Sportsmans Show</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_29" custom="readingOrder {index:1;}">
+            <Coords points="4007,6409 3088,6371 3125,6064 4011,6101"/>
+            <TextLine id="l_34" custom="readingOrder {index:0;}">
+                <Coords points="3281,6210 3791,6238 3792,6223 3281,6195"/>
+                <Baseline points="3281,6210 3791,6238"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:1;}">
+                <Coords points="3135,6331 3946,6374 3947,6359 3136,6316"/>
+                <Baseline points="3135,6331 3946,6374"/>
+                <TextEquiv>
+                    <Unicode>PAUL CONNELL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_44" custom="readingOrder {index:2;}">
+            <Coords points="3543,2578 3543,3273 3369,3273 3369,2578"/>
+            <TextLine id="l_49" custom="readingOrder {index:0;}">
+                <Coords points="3507,3216 3498,2621 3383,2621 3406,3229"/>
+                <Baseline points="3507,3216 3498,2621"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="3895,1711 715,1736 721,1145 3899,1145"/>
+            <TextLine id="l_20" custom="readingOrder {index:0;}">
+                <Coords points="748,1695 3796,1671 3828,1160 778,1131"/>
+                <Baseline points="761,1458 3782,1401"/>
+                <TextEquiv>
+                    <Unicode>Robert Gayette S. Peabody</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_24" custom="readingOrder {index:4;}">
+            <Coords points="2476,6103 1504,6146 1504,5877 2484,5838"/>
+            <TextLine id="l_46" custom="readingOrder {index:0;}">
+                <Coords points="1527,6112 2406,6065 2405,6050 1526,6097"/>
+                <Baseline points="1527,6112 2406,6065"/>
+                <TextEquiv>
+                    <Unicode>JAN 23 1971</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

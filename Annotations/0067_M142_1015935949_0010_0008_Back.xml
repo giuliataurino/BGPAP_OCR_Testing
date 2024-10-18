@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.337-04:00</Created>
+        <LastChange>2024-06-06T20:02:02.434+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234787" pageNr="67" tsid="170484839" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=PONALWKYJZWIVXVKCOONUXAQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VAPHVBHRFYSKZCXJMEOOQNQN" imageId="46299720"/>
+    </Metadata>
+    <Page imageFilename="0067_M142_1015935949_0010_0008_Back.jpg" imageWidth="6189" imageHeight="4282">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923071" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689536370305_852"/>
+                <RegionRefIndexed index="1" regionRef="region_1689536373256_855"/>
+                <RegionRefIndexed index="2" regionRef="region_1689536375372_858"/>
+                <RegionRefIndexed index="3" regionRef="region_1689536359040_846"/>
+                <RegionRefIndexed index="4" regionRef="region_1689536362106_849"/>
+                <RegionRefIndexed index="5" regionRef="region_1689536379423_861"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689536370305_852" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="560,2641 1264,2641 1264,2870 560,2870"/>
+            <TextLine id="line_1689536425581_900" custom="readingOrder {index:0;}">
+                <Coords points="626,2678 1217,2649 1218,2803 636,2845"/>
+                <Baseline points="636,2816 1218,2798"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BOSTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536373256_855" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="448,2914 2265,2686 2381,3555 610,3789"/>
+            <TextLine id="line_1689536428759_905" custom="readingOrder {index:0;}">
+                <Coords points="569,2994 2192,2780 2217,3145 615,3375"/>
+                <Baseline points="609,3325 2216,3066"/>
+                <TextEquiv>
+                    <Unicode>South Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536431356_910" custom="readingOrder {index:1;}">
+                <Coords points="1369,3314 1847,3245 1866,3555 1368,3620"/>
+                <Baseline points="1412,3583 1865,3528"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>South Boston
+1992</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536375372_858" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="719,3796 1854,3796 1854,4170 719,4170"/>
+            <TextLine id="line_1689536434199_915" custom="readingOrder {index:0;}">
+                <Coords points="830,3891 1759,3852 1745,4114 819,4132"/>
+                <Baseline points="849,4092 1745,4092"/>
+                <TextEquiv>
+                    <Unicode>cisull 29</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>cisull 29</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536359040_846" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1235,1135 2701,861 2861,1475 1360,1798"/>
+            <TextLine id="line_1689536402548_865" custom="readingOrder {index:0;}">
+                <Coords points="1326,1243 2584,966 2744,1454 1419,1673"/>
+                <Baseline points="1431,1615 2743,1449"/>
+                <TextEquiv>
+                    <Unicode>11/23/92</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>11/23/92</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536362106_849" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="4569,951 5370,951 5370,1319 4569,1319"/>
+            <TextLine id="line_1689536406094_870" custom="readingOrder {index:0;}">
+                <Coords points="4646,997 5360,1113 5320,1306 4613,1203"/>
+                <Baseline points="4638,1172 5321,1301"/>
+                <TextEquiv>
+                    <Unicode>NOV 3 0 1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NOV 3 0 1992</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536379423_861" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2242,1690 5987,1461 6002,3685 2252,3893"/>
+            <TextLine id="line_1689536409573_875" custom="readingOrder {index:0;}">
+                <Coords points="2305,2154 5056,1630 5165,1981 2402,2507"/>
+                <Baseline points="2401,2502 5164,1976"/>
+                <TextEquiv>
+                    <Unicode>Michael Donovan + son</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536412716_880" custom="readingOrder {index:1;}">
+                <Coords points="3007,2427 5227,1981 5318,2424 3128,2867"/>
+                <Baseline points="3233,2761 5238,2244"/>
+                <TextEquiv>
+                    <Unicode>James. I5 mos. of </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536415448_885" custom="readingOrder {index:2;}">
+                <Coords points="2807,2850 4672,2402 4776,2732 2917,3200"/>
+                <Baseline points="2919,3121 4730,2669"/>
+                <TextEquiv>
+                    <Unicode>S. Boston outside</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536418385_890" custom="readingOrder {index:3;}">
+                <Coords points="3025,3205 5897,2439 5997,2840 3230,3563"/>
+                <Baseline points="3298,3500 5996,2835"/>
+                <TextEquiv>
+                    <Unicode>Sullivan's at Castle Island</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536421899_895" custom="readingOrder {index:4;}">
+                <Coords points="3949,3403 5474,2999 5559,3392 4016,3747"/>
+                <Baseline points="4018,3620 5516,3279"/>
+                <TextEquiv>
+                    <Unicode>photo: J. Rathe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Michael Donovan + son
+James. I5 mos. of 
+S. Boston outside
+Sullivan's at Castle Island
+photo: J. Rathe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

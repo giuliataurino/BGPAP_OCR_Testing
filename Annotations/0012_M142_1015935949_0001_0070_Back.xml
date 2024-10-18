@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.866-04:00</Created>
+        <LastChange>2024-05-31T17:43:16.970+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234728" pageNr="12" tsid="169337767" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=NWMNITNAHXNLCTMISKEDSNWI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PDOLVWVOHBZEDEHZSZNMRTAX" imageId="46299661"/>
+    </Metadata>
+    <Page imageFilename="0012_M142_1015935949_0001_0070_Back.jpg" imageWidth="5526" imageHeight="7543">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922525" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689364894376_344"/>
+                <RegionRefIndexed index="1" regionRef="region_1689364881055_341"/>
+                <RegionRefIndexed index="2" regionRef="region_1689364899526_347"/>
+                <RegionRefIndexed index="3" regionRef="region_1689364904224_350"/>
+                <RegionRefIndexed index="4" regionRef="region_1689364908796_353"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689364894376_344" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="539,1972 1335,2431 1185,1250 410,919"/>
+            <TextLine id="line_1689364936151_371" custom="readingOrder {index:0;}">
+                <Coords points="498,1962 418,1120 732,1115 881,1912"/>
+                <Baseline points="876,1913 727,1116"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689364941383_376" custom="readingOrder {index:1;}">
+                <Coords points="1040,2260 998,1441 1160,1454 1220,2232"/>
+                <Baseline points="1215,2232 1155,1454"/>
+                <TextEquiv>
+                    <Unicode>DEC 17 1996</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OPS
+DEC 17 1996</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689364881055_341" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="699,4288 1584,4349 1488,2657 660,2819"/>
+            <TextLine id="line_1689364930766_366" custom="readingOrder {index:0;}">
+                <Coords points="1255,4302 1201,2734 1429,2740 1489,4294"/>
+                <Baseline points="1484,4294 1424,2740"/>
+                <TextEquiv>
+                    <Unicode>Steve Van Meter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689364917796_356" custom="readingOrder {index:1;}">
+                <Coords points="689,4156 686,2867 891,2879 921,4155"/>
+                <Baseline points="916,4155 886,2879"/>
+                <TextEquiv>
+                    <Unicode>By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689364924173_361" custom="readingOrder {index:2;}">
+                <Coords points="958,3696 951,3320 1220,3328 1220,3696"/>
+                <Baseline points="1215,3696 1215,3328"/>
+                <TextEquiv>
+                    <Unicode>Globe Photo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Steve Van Meter
+By
+Globe Photo</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689364899526_347" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1693,1893 4135,1893 4039,2583 3394,2551 3181,2353 1719,2453"/>
+            <TextLine id="line_1689364949771_381" custom="readingOrder {index:0;}">
+                <Coords points="1707,2000 4095,1896 4105,2187 1723,2307"/>
+                <Baseline points="1723,2241 4105,2082"/>
+                <TextEquiv>
+                    <Unicode>Boston Skyline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689364955262_386" custom="readingOrder {index:1;}">
+                <Coords points="3432,2309 3933,2329 3925,2535 3427,2486"/>
+                <Baseline points="3427,2481 3925,2530"/>
+                <TextEquiv>
+                    <Unicode>Nite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Boston Skyline
+Nite</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689364904224_350" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="3405,3630 2814,3779 2771,3599 3353,3433"/>
+            <TextLine id="line_1689364968206_396" custom="readingOrder {index:0;}">
+                <Coords points="3367,3629 2888,3760 2788,3591 3297,3430"/>
+                <Baseline points="3298,3467 2839,3607"/>
+                <TextEquiv>
+                    <Unicode>MAR 17 '70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>MAR 1770</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689364908796_353" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1784,3997 4118,4202 4171,4508 1749,4438"/>
+            <TextLine id="line_1689364961637_391" custom="readingOrder {index:0;}">
+                <Coords points="1823,4014 4132,4185 4105,4515 1815,4413"/>
+                <Baseline points="1823,4374 4105,4473"/>
+                <TextEquiv>
+                    <Unicode>Downtown Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Downtown Boston</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

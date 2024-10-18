@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.243-04:00</Created>
+        <LastChange>2024-06-06T17:46:30.351+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234772" pageNr="52" tsid="170434138" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=XEJMSPLTBQAURBLDVERSFDTI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WQVXRHQQRDEPRKUZCILHISNZ" imageId="46299705"/>
+    </Metadata>
+    <Page imageFilename="0052_M142_1015935949_0007_0004_Back.jpg" imageWidth="6611" imageHeight="5476">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922898" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_5"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_16"/>
+                <RegionRefIndexed index="4" regionRef="r_21"/>
+                <RegionRefIndexed index="5" regionRef="r_26"/>
+                <RegionRefIndexed index="6" regionRef="r_31"/>
+                <RegionRefIndexed index="7" regionRef="r_36"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_5" custom="readingOrder {index:0;}">
+            <Coords points="3684,378 2695,378 2695,189 3684,189"/>
+            <TextLine id="l_82" custom="readingOrder {index:0;}">
+                <Coords points="2732,343 3580,329 3580,212 2737,224"/>
+                <Baseline points="2732,343 3580,329"/>
+                <TextEquiv>
+                    <Unicode>Building</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="2563,475 1722,475 1722,217 2563,217"/>
+            <TextLine id="l_85" custom="readingOrder {index:0;}">
+                <Coords points="1835,415 2533,438 2513,250 1835,254"/>
+                <Baseline points="1835,415 2460,415"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="4869,846 2082,1196 2054,521 4804,249"/>
+            <TextLine id="l_79" custom="readingOrder {index:0;}">
+                <Coords points="2236,1097 4763,756 4698,283 2139,627"/>
+                <Baseline points="2236,1097 4696,725"/>
+                <TextEquiv>
+                    <Unicode>1452 Columbia Rd.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_16" custom="readingOrder {index:3;}">
+            <Coords points="5446,1293 4005,1293 4005,915 5446,915"/>
+            <TextLine id="l_76" custom="readingOrder {index:0;}">
+                <Coords points="4157,1240 5400,1244 5383,987 4145,992"/>
+                <Baseline points="4157,1240 5335,1220"/>
+                <TextEquiv>
+                    <Unicode>So. BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:4;}">
+            <Coords points="5275,2105 3450,2105 3450,1671 5275,1671"/>
+            <TextLine id="l_73" custom="readingOrder {index:0;}">
+                <Coords points="3547,2088 4977,2045 4977,1690 3524,1725"/>
+                <Baseline points="3547,2088 4977,2045"/>
+                <TextEquiv>
+                    <Unicode>AYRES STORY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_26" custom="readingOrder {index:5;}">
+            <Coords points="5848,4259 2551,4259 2551,2123 5848,2123"/>
+            <TextLine id="l_52" custom="readingOrder {index:0;}">
+                <Coords points="2789,2403 3461,2331 3424,2160 2771,2236"/>
+                <Baseline points="2789,2403 3461,2331"/>
+                <TextEquiv>
+                    <Unicode>home of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:1;}">
+                <Coords points="2651,2701 5381,2483 5343,2160 2610,2429"/>
+                <Baseline points="2620,2600 5348,2392"/>
+                <TextEquiv>
+                    <Unicode>John Cook and family evicted</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:2;}">
+                <Coords points="2631,2985 5633,2783 5648,2498 2603,2750"/>
+                <Baseline points="2610,2916 5655,2719"/>
+                <TextEquiv>
+                    <Unicode>by eminent domain to make</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_61" custom="readingOrder {index:3;}">
+                <Coords points="2621,3319 5469,3149 5480,2850 2617,3039"/>
+                <Baseline points="2630,3203 5408,3074"/>
+                <TextEquiv>
+                    <Unicode>way for housing project</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_64" custom="readingOrder {index:4;}">
+                <Coords points="2624,3658 5589,3534 5578,3172 2626,3346"/>
+                <Baseline points="2630,3539 5595,3420"/>
+                <TextEquiv>
+                    <Unicode>for the elderly &amp; moms</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_67" custom="readingOrder {index:5;}">
+                <Coords points="2636,3940 4788,3850 4744,3580 2637,3672"/>
+                <Baseline points="2649,3865 4775,3766"/>
+                <TextEquiv>
+                    <Unicode>by Boston Housing</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:6;}">
+                <Coords points="2629,4182 3628,4218 3682,3979 2650,3967"/>
+                <Baseline points="2649,4152 3628,4172"/>
+                <TextEquiv>
+                    <Unicode>authority</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_31" custom="readingOrder {index:6;}">
+            <Coords points="5659,4923 4330,4923 4330,4318 5659,4318"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="4380,4504 5094,4669 5164,4505 4406,4349"/>
+                <Baseline points="4380,4504 5012,4627"/>
+                <TextEquiv>
+                    <Unicode>MAR 15 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:1;}">
+                <Coords points="4839,4729 5501,4857 5550,4701 4880,4564"/>
+                <Baseline points="4867,4689 5437,4819"/>
+                <TextEquiv>
+                    <Unicode>MAR 20 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_36" custom="readingOrder {index:7;}">
+            <Coords points="5506,5334 4270,5314 4270,4943 5506,4943"/>
+            <TextLine id="l_46" custom="readingOrder {index:0;}">
+                <Coords points="4668,5087 5108,5149 5152,5055 4689,4992"/>
+                <Baseline points="4668,5087 5108,5149"/>
+                <TextEquiv>
+                    <Unicode>Photo By	</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:1;}">
+                <Coords points="4304,5211 5451,5320 5457,5229 4316,5086"/>
+                <Baseline points="4304,5211 5451,5320"/>
+                <TextEquiv>
+                    <Unicode>PHILIP N. PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.904-04:00</Created>
+        <LastChange>2024-05-31T17:48:11.327+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234732" pageNr="16" tsid="169340477" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=DUTNYFFSKYOOANYIEPYUYDDB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LGKVTHOYRJTRQZQEORBKKHSE" imageId="46299665"/>
+    </Metadata>
+    <Page imageFilename="0016_M142_1015935949_0001_0092_Back.jpg" imageWidth="6192" imageHeight="4447">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922553" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689365852913_557"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689365852913_557" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="781,346 5704,346 5704,3806 781,3806"/>
+            <TextLine id="line_1689365862190_560" custom="readingOrder {index:0;}">
+                <Coords points="3069,567 3749,538 3753,651 3048,715"/>
+                <Baseline points="3048,710 3753,646"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365866016_565" custom="readingOrder {index:1;}">
+                <Coords points="2975,705 3873,677 3836,798 2966,839"/>
+                <Baseline points="2966,834 3836,793"/>
+                <TextEquiv>
+                    <Unicode>BILL GREENE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365871948_570" custom="readingOrder {index:2;}">
+                <Coords points="1133,718 2101,733 2073,886 1133,892"/>
+                <Baseline points="1133,887 2073,881"/>
+                <TextEquiv>
+                    <Unicode>GLOBE PHOT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365903544_580" custom="readingOrder {index:3;}">
+                <Coords points="3367,975 4236,1033 4230,1236 3364,1183"/>
+                <Baseline points="3364,1178 4230,1231"/>
+                <TextEquiv>
+                    <Unicode>MAR 19 1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365899386_575" custom="readingOrder {index:4;}">
+                <Coords points="1135,1102 1875,1108 1864,1251 1135,1248"/>
+                <Baseline points="1135,1243 1864,1246"/>
+                <TextEquiv>
+                    <Unicode>DATE NEG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365908463_585" custom="readingOrder {index:5;}">
+                <Coords points="1121,1447 1905,1447 1906,1591 1125,1604"/>
+                <Baseline points="1125,1599 1906,1586"/>
+                <TextEquiv>
+                    <Unicode>FOR STORY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365915550_595" custom="readingOrder {index:6;}">
+                <Coords points="3086,1699 3753,1763 3718,1912 3080,1847"/>
+                <Baseline points="3081,1842 3719,1907"/>
+                <TextEquiv>
+                    <Unicode>MAR 24 1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365912478_590" custom="readingOrder {index:7;} structure {type:paragraph;}">
+                <Coords points="1128,1802 2596,1773 2600,1922 1117,1947"/>
+                <Baseline points="1117,1942 2600,1917"/>
+                <TextEquiv>
+                    <Unicode>DATE PICTURE USED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365922074_600" custom="readingOrder {index:8;}">
+                <Coords points="1133,2107 5435,2048 5432,2331 1153,2373"/>
+                <Baseline points="1150,2303 5432,2326"/>
+                <TextEquiv>
+                    <Unicode>SUBJECT(L TO R ) Boston Skyline against evening night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365927022_605" custom="readingOrder {index:9;}">
+                <Coords points="1192,2422 5486,2377 5477,2615 1187,2648"/>
+                <Baseline points="1198,2567 5469,2550"/>
+                <TextEquiv>
+                    <Unicode>Sky Around 6:30 PM Cars headed south out 1980</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365939022_610" custom="readingOrder {index:10;}">
+                <Coords points="1099,2696 4661,2674 4649,2878 1111,2838"/>
+                <Baseline points="1111,2833 4644,2861"/>
+                <TextEquiv>
+                    <Unicode>of  city in forground blurred due to time</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365944861_615" custom="readingOrder {index:11;}">
+                <Coords points="1218,2984 4274,2975 4273,3167 1229,3178"/>
+                <Baseline points="1218,3089 4268,3107"/>
+                <TextEquiv>
+                    <Unicode>exposure, View taken From Savin Hill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366287452_637" custom="readingOrder {index:12;}">
+                <Coords points="1116,3306 2396,3299 2387,3455 1116,3454"/>
+                <Baseline points="1116,3449 2387,3450"/>
+                <TextEquiv>
+                    <Unicode>LIBRARY INDEXED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>HOTO BY
+BILL GREENE
+GLOBE PHOT
+MAR 19 1980
+DATE NEG
+FOR STORY
+MAR 24 1980
+DATE PICTURE USED
+SUBJECT(L TO R ) Boston Skyline against evening night
+Sky Around 6:30 PM Cars headed south out 1980
+of  city in forground blurred due to time
+exposure, View taken From Sanin Hill
+LIBRARY INDEXED</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

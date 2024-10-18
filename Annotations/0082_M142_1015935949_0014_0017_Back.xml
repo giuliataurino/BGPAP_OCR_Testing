@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.447-04:00</Created>
+        <LastChange>2024-06-07T00:25:27.492+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234802" pageNr="82" tsid="170550220" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=EEXXJGLJEBSTZIWFSEDURVHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JFALLWMDYUGHRHIXVZKIYMNO" imageId="46299735"/>
+    </Metadata>
+    <Page imageFilename="0082_M142_1015935949_0014_0017_Back.jpg" imageWidth="5164" imageHeight="6312">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923256" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_30"/>
+                <RegionRefIndexed index="2" regionRef="r_12"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="2687,1792 2699,1854 2586,1875 1998,1982 1998,1756 2525,1642 2684,1607"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2023,1904 2612,1822 2612,1822 2612,1807 2624,1687 2021,1782"/>
+                <Baseline points="2023,1904 2612,1822 2612,1822"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_30" custom="readingOrder {index:1;}">
+            <Coords points="2850,2936 3065,3099 1990,4675 1998,4668 1171,4962 1057,4846 2343,3017 2562,2688"/>
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+                <Coords points="1235,4844 2673,3040 2673,3040 2673,3025 2604,2975 1136,4815"/>
+                <Baseline points="1235,4844 2673,3040 2673,3040"/>
+                <TextEquiv>
+                    <Unicode>10/4/87 Globe photo Dabid Binder story/ ???</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_44" custom="readingOrder {index:1;}">
+                <Coords points="1417,4739 1909,4165 1906,4165 1906,4180 1843,4113 1361,4706"/>
+                <Baseline points="1417,4739 1909,4165 1906,4165"/>
+                <TextEquiv>
+                    <Unicode>Boston So, End/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_49" custom="readingOrder {index:2;}">
+                <Coords points="2312,4092 2702,3530 2702,3530 2702,3515 2567,3243 2084,3861"/>
+                <Baseline points="2312,4092 2702,3530 2702,3530"/>
+                <TextEquiv>
+                    <Unicode>1987</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_12" custom="readingOrder {index:2;}">
+            <Coords points="3551,2848 3265,2848 3265,2081 3551,2081"/>
+            <TextLine id="l_17" custom="readingOrder {index:0;}">
+                <Coords points="3494,2741 3438,2114 3438,2114 3438,2099 3310,2100 3349,2778"/>
+                <Baseline points="3494,2741 3438,2114 3438,2114"/>
+                <TextEquiv>
+                    <Unicode>OCT 30 1987</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.384-04:00</Created>
+        <LastChange>2024-06-06T20:23:00.067+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234793" pageNr="73" tsid="170490499" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=WBQKHINCDALSLMTXHBUZOUVB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EJSYHCAEWKTVDFBJQPDSVKZG" imageId="46299726"/>
+    </Metadata>
+    <Page imageFilename="0073_M142_1015935949_0013_0008_Back.jpg" imageWidth="6378" imageHeight="5217">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923138" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_25"/>
+                <RegionRefIndexed index="2" regionRef="r_30"/>
+                <RegionRefIndexed index="3" regionRef="r_5"/>
+                <RegionRefIndexed index="4" regionRef="r_20"/>
+                <RegionRefIndexed index="5" regionRef="r_10"/>
+                <RegionRefIndexed index="6" regionRef="r_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1743,1118 519,1251 489,883 1713,791"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="583,1056 1561,991 1536,873 573,966"/>
+                <Baseline points="583,1056 1528,991"/>
+                <TextEquiv>
+                    <Unicode>West Newton Street</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_37" custom="readingOrder {index:1;}">
+                <Coords points="574,1182 1611,1093 1589,1000 568,1078"/>
+                <Baseline points="574,1176 1556,1093"/>
+                <TextEquiv>
+                    <Unicode>Boston Arch. Team</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_25" custom="readingOrder {index:1;}">
+            <Coords points="4214,1241 3519,1241 3519,972 4214,972"/>
+            <TextLine id="l_49" custom="readingOrder {index:0;}">
+                <Coords points="3547,1130 4205,1191 4178,1034 3565,1004"/>
+                <Baseline points="3547,1130 4213,1167"/>
+                <TextEquiv>
+                    <Unicode>AUG 12 1974</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_30" custom="readingOrder {index:2;}">
+            <Coords points="6103,1278 4575,1368 4575,954 6103,817"/>
+            <TextLine id="l_52" custom="readingOrder {index:0;}">
+                <Coords points="4714,1176 5576,1102 5543,896 4673,970"/>
+                <Baseline points="4714,1176 5576,1102"/>
+                <TextEquiv>
+                    <Unicode>44 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_55" custom="readingOrder {index:1;}">
+                <Coords points="5261,1269 6039,1223 6035,999 5235,1063"/>
+                <Baseline points="5261,1269 6039,1223"/>
+                <TextEquiv>
+                    <Unicode>depth curve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:3;}">
+            <Coords points="4326,2001 448,2902 250,1599 4086,647"/>
+            <TextLine id="l_40" custom="readingOrder {index:0;}">
+                <Coords points="722,1760 2945,1417 2959,1114 718,1438"/>
+                <Baseline points="722,1760 2945,1417"/>
+                <TextEquiv>
+                    <Unicode>Bldg turned into</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:1;}">
+                <Coords points="546,2112 2853,1621 2849,1466 532,1803"/>
+                <Baseline points="546,2112 2853,1621"/>
+                <TextEquiv>
+                    <Unicode>Public housing on</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:2;}">
+                <Coords points="472,2593 4183,1786 4184,1384 419,2206"/>
+                <Baseline points="472,2593 4103,1788"/>
+                <TextEquiv>
+                    <Unicode>West Newton St. South End</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:4;}">
+            <Coords points="5202,2702 4560,2351 4791,1929 5433,2280"/>
+            <TextLine id="l_68" custom="readingOrder {index:0;}">
+                <Coords points="4639,2315 5216,2560 5326,2389 4708,2082"/>
+                <Baseline points="4639,2315 5171,2524"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:5;}">
+            <Coords points="4446,3158 2899,3158 2899,2621 4446,2621"/>
+            <TextLine id="l_61" custom="readingOrder {index:0;}">
+                <Coords points="3066,2816 3575,2816 4336,2845 4348,2650 3570,2624 3054,2619"/>
+                <Baseline points="3066,2816 3575,2816 4297,2825"/>
+                <TextEquiv>
+                    <Unicode>BOSTON HOUSING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_65" custom="readingOrder {index:1;}">
+                <Coords points="3260,3093 4065,3101 4062,2915 3241,2894"/>
+                <Baseline points="3260,3093 4047,3066"/>
+                <TextEquiv>
+                    <Unicode>SOUTH END</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:6;}">
+            <Coords points="2408,3158 2408,3834 2075,3834 2075,3158"/>
+            <TextLine id="l_58" custom="readingOrder {index:0;}">
+                <Coords points="2223,3788 2325,3214 2209,3189 2118,3763"/>
+                <Baseline points="2223,3788 2325,3214"/>
+                <TextEquiv>
+                    <Unicode>AUG 6 1974</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

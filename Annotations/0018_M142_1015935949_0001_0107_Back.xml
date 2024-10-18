@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.914-04:00</Created>
+        <LastChange>2024-05-31T17:52:27.347+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234734" pageNr="18" tsid="169341083" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=EMVFFMJJUOJGXROQNEMUNTOM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CRVHDQAEZFNPXWQANBSQTBXM" imageId="46299667"/>
+    </Metadata>
+    <Page imageFilename="0018_M142_1015935949_0001_0107_Back.jpg" imageWidth="5610" imageHeight="4445">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922567" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689366625212_725"/>
+                <RegionRefIndexed index="1" regionRef="region_1689366638900_731"/>
+                <RegionRefIndexed index="2" regionRef="region_1689366631196_728"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689366625212_725" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="449,90 4066,90 4066,611 449,611"/>
+            <TextLine id="line_1689366651231_734" custom="readingOrder {index:0;}">
+                <Coords points="1597,213 2087,14 2255,240 1691,416"/>
+                <Baseline points="1689,378 2223,203"/>
+                <TextEquiv>
+                    <Unicode>Skyline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366654800_739" custom="readingOrder {index:1;}">
+                <Coords points="540,297 4000,259 3990,560 494,625"/>
+                <Baseline points="526,509 3990,474"/>
+                <TextEquiv>
+                    <Unicode>Boston night scene</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Skyline
+Boston night scene</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689366638900_731" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="830,1001 4861,1001 4861,2916 830,2916"/>
+            <TextLine id="line_1689366757874_829" custom="readingOrder {index:0;}">
+                <Coords points="2913,2385 2281,1423 2351,1382 2978,2313"/>
+                <Baseline points="2974,2316 2347,1385"/>
+                <TextEquiv>
+                    <Unicode>PRESS INTERNATIONAL INC</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366752981_824" custom="readingOrder {index:1;}">
+                <Coords points="2716,2348 2137,1484 2179,1446 2773,2296"/>
+                <Baseline points="2769,2299 2175,1449"/>
+                <TextEquiv>
+                    <Unicode>by reason of your use or publication</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366747304_819" custom="readingOrder {index:2;}">
+                <Coords points="2712,2447 2094,1531 2135,1503 2757,2420"/>
+                <Baseline points="2688,2340 2131,1506"/>
+                <TextEquiv>
+                    <Unicode>rnational harmless from any loss of</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366766789_839" custom="readingOrder {index:3;}">
+                <Coords points="2974,2190 2563,1586 2651,1524 3039,2131"/>
+                <Baseline points="3035,2134 2647,1527"/>
+                <TextEquiv>
+                    <Unicode>WASHINGTON STRE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366738661_814" custom="readingOrder {index:4;}">
+                <Coords points="2651,2475 2043,1580 2084,1551 2699,2450"/>
+                <Baseline points="2603,2306 2080,1554"/>
+                <TextEquiv>
+                    <Unicode>epting this picture you agree to hold</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366734392_809" custom="readingOrder {index:5;}">
+                <Coords points="2501,2385 1993,1609 2034,1581 2550,2347"/>
+                <Baseline points="2546,2350 2030,1584"/>
+                <TextEquiv>
+                    <Unicode>tton permission from uUnited Press</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366761081_834" custom="readingOrder {index:6;}">
+                <Coords points="2988,2347 2532,1646 2584,1598 3049,2283"/>
+                <Baseline points="3045,2286 2580,1601"/>
+                <TextEquiv>
+                    <Unicode>UNITED PRESS BUILDING</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366774210_844" custom="readingOrder {index:7;}">
+                <Coords points="3044,2165 2714,1663 2783,1608 3120,2117"/>
+                <Baseline points="3116,2120 2779,1611"/>
+                <TextEquiv>
+                    <Unicode>BOSTON MA</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366729254_804" custom="readingOrder {index:8;}">
+                <Coords points="2431,2392 1929,1650 1970,1622 2472,2364"/>
+                <Baseline points="2468,2367 1966,1625"/>
+                <TextEquiv>
+                    <Unicode>cated or used for advertizing </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366659586_744" custom="readingOrder {index:9;}">
+                <Coords points="3998,1616 4614,1517 4690,1687 4026,1818"/>
+                <Baseline points="4025,1813 4689,1682"/>
+                <TextEquiv>
+                    <Unicode>FEB 17 '67</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366717067_789" custom="readingOrder {index:10;}">
+                <Coords points="2357,2389 1865,1681 1906,1652 2398,2360"/>
+                <Baseline points="2394,2363 1902,1655"/>
+                <TextEquiv>
+                    <Unicode>your publication only and must</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366712497_784" custom="readingOrder {index:11;}">
+                <Coords points="2138,2394 1723,1795 1835,1726 2226,2310"/>
+                <Baseline points="2222,2313 1831,1729"/>
+                <TextEquiv>
+                    <Unicode>ernational Photo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366702009_774" custom="readingOrder {index:12;}">
+                <Coords points="2014,2403 1774,2089 1852,2040 2071,2350"/>
+                <Baseline points="2067,2353 1848,2043"/>
+                <TextEquiv>
+                    <Unicode>CREDIT</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366694788_769" custom="readingOrder {index:13;}">
+                <Coords points="4723,2444 3506,2408 3548,2284 4704,2338"/>
+                <Baseline points="4704,2343 3548,2289"/>
+                <TextEquiv>
+                    <Unicode>UPI TELEPHOTO BM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366687405_764" custom="readingOrder {index:14;}">
+                <Coords points="4722,2549 1278,2433 1301,2321 4708,2449"/>
+                <Baseline points="4708,2454 1301,2326"/>
+                <TextEquiv>
+                    <Unicode>Hancock building(L)and Prudential Tower dominate skyline.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366679742_759" custom="readingOrder {index:15;}">
+                <Coords points="4705,2624 1157,2523 1170,2436 4691,2544"/>
+                <Baseline points="4691,2549 1170,2441"/>
+                <TextEquiv>
+                    <Unicode>Bostons Christmas lights, spread out before it. (12/22). John</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366673987_754" custom="readingOrder {index:16;}">
+                <Coords points="4737,2751 1301,2641 1318,2530 4691,2641"/>
+                <Baseline points="4691,2646 1318,2535"/>
+                <TextEquiv>
+                    <Unicode>House lawn,high atop Beacon Hill,appears to be gazing at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366667298_749" custom="readingOrder {index:17;}">
+                <Coords points="4703,2869 1146,2759 1170,2628 4691,2746"/>
+                <Baseline points="4691,2751 1170,2633"/>
+                <TextEquiv>
+                    <Unicode>BHP122207-12/22/66-BOSTON:Statue of Daniel Webster on State</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366725320_799" custom="readingOrder {index:18;}">
+                <Coords points="2766,2862 2695,2784 2732,2751 2803,2829"/>
+                <Baseline points="2799,2832 2728,2754"/>
+                <TextEquiv>
+                    <Unicode>not</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689366707616_779" custom="readingOrder {index:19;}">
+                <Coords points="2609,2924 2501,2786 2540,2755 2648,2893"/>
+                <Baseline points="2644,2896 2536,2758"/>
+                <TextEquiv>
+                    <Unicode>Unit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PRESS INTERNATIONAL INC
+by reason of your use or publication
+rnational harmless from any loss of
+WASHINGTON STRE
+epting this picture you agree to hold
+tton permission from uUnited Press
+UNITED PRESS BUILDING
+BOSTON MA
+cated or used for advertizing 
+FEB 17 '67
+your publication only and must
+ernational Photo
+CREDIT
+UPI TELEPHOTO BM
+Hancock building(L)and Prudential Tower dominate skyline.
+Bostons Christmas lights, spread out before it. (12/22). John
+House lawn,high atop Beacon Hill,appears to be gazing at
+BHP122207-12/22/66-BOSTON:Statue of Daniel Webster on State
+not
+Unit</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689366631196_728" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="3963,1396 4656,1396 4656,1815 3963,1815"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

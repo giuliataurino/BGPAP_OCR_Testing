@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.071-04:00</Created>
+        <LastChange>2024-06-04T22:48:42.551+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234751" pageNr="34" tsid="169979134" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=GUXJSSLCTCCYBZROSVFFFKBT&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YNCQXTLWDLAMEOIJVTYDDHNH" imageId="46299684"/>
+    </Metadata>
+    <Page imageFilename="0034_M142_1015935949_0003_0002_Back.jpg" imageWidth="8696" imageHeight="5585">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922713" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="6130,3211 1500,3211 1500,1851 6130,1851"/>
+            <TextLine id="l_7" custom="readingOrder {index:0;}">
+                <Coords points="1499,2323 4400,2734 4436,2572 1546,2153"/>
+                <Baseline points="1533,2298 4367,2700"/>
+                <TextEquiv>
+                    <Unicode>GLOBE STAFF PHOTO BY DAVID RYAN JAN 12, 1987</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="4949,2549 5548,2423 5507,2201 4863,2305"/>
+                <Baseline points="4928,2516 5529,2390"/>
+                <TextEquiv>
+                    <Unicode>APR 10 1987</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_11" custom="readingOrder {index:2;}">
+                <Coords points="2241,2705 5266,3090 5323,2762 2304,2427"/>
+                <Baseline points="2261,2621 5266,3038"/>
+                <TextEquiv>
+                    <Unicode>AERIALS OF BOSTON Skyline 1987</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

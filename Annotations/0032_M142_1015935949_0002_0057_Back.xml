@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.055-04:00</Created>
+        <LastChange>2024-06-04T19:15:42.112+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234748" pageNr="32" tsid="169951290" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=TJHBKDHETKAQNIYOFCBXTNVP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FGUDZKAQZINPRWIRDRYELRWN" imageId="46299681"/>
+    </Metadata>
+    <Page imageFilename="0032_M142_1015935949_0002_0057_Back.jpg" imageWidth="5996" imageHeight="4213">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922693" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3423,1659 2484,1659 2484,1096 3423,1096"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="2513,1326 3218,1569 3299,1431 2605,1169"/>
+                <Baseline points="2513,1326 3218,1569"/>
+                <TextEquiv>
+                    <Unicode>JAN 17 1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3274,2221 443,2221 443,1713 3274,1713"/>
+            <TextLine id="l_19" custom="readingOrder {index:0;}">
+                <Coords points="460,2083 3186,2118 3202,1840 473,1912"/>
+                <Baseline points="444,2039 3163,2078"/>
+                <TextEquiv>
+                    <Unicode>BOSTON: Skyline: 1989</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_11" custom="readingOrder {index:2;}">
+            <Coords points="4896,2713 608,2713 608,2258 4896,2258"/>
+            <TextLine id="l_23" custom="readingOrder {index:0;}">
+                <Coords points="662,2427 4552,2333 4550,2218 651,2283"/>
+                <Baseline points="641,2401 4550,2314"/>
+                <TextEquiv>
+                    <Unicode>Boston, Mid town cultural dist. lobe staff photo Suzane Kreiter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:1;}">
+                <Coords points="757,2523 1217,2533 1215,2395 750,2444"/>
+                <Baseline points="762,2512 1217,2507"/>
+                <TextEquiv>
+                    <Unicode>1/11/89</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_31" custom="readingOrder {index:2;}">
+                <Coords points="1352,2692 1970,2734 1965,2731 1945,2784 1996,2746 2006,2611 1992,2534 1381,2505"/>
+                <Baseline points="1371,2639 1965,2662 1965,2662 1965,2662"/>
+                <TextEquiv>
+                    <Unicode>21st floor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

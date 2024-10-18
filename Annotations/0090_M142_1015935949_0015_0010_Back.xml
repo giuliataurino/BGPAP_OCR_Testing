@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.494-04:00</Created>
+        <LastChange>2024-06-07T00:36:50.107+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234810" pageNr="90" tsid="170554074" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=ZRTNBSAVMLPHVZECKMQQHQYL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=OYDMWRJLYEUZPWESPLVLKGLT" imageId="46299743"/>
+    </Metadata>
+    <Page imageFilename="0090_M142_1015935949_0015_0010_Back.jpg" imageWidth="8852" imageHeight="5499">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923335" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="8248,4507 3131,4507 3131,1160 8248,1160"/>
+            <TextLine id="l_44" custom="readingOrder {index:0;}">
+                <Coords points="6894,1715 7266,1210 7266,1210 7266,1195 7048,1007 6585,1540"/>
+                <Baseline points="6894,1715 7266,1210 7266,1210"/>
+                <TextEquiv>
+                    <Unicode>1992</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:1;}">
+                <Coords points="5587,2723 5867,2234 5867,2227 5852,2227 5727,2135 5400,2638"/>
+                <Baseline points="5587,2723 5867,2234 5867,2227"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_29" custom="readingOrder {index:2;}">
+                <Coords points="6280,3301 7047,1994 7047,1994 7047,1979 6784,1829 5977,3058"/>
+                <Baseline points="6280,3301 7047,1994 7047,1994"/>
+                <TextEquiv>
+                    <Unicode>helicopter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_9" custom="readingOrder {index:3;}">
+                <Coords points="4902,3766 5427,3009 5379,3003 5414,3025 5073,2602 4516,3351"/>
+                <Baseline points="4790,3632 5305,2899 5305,2897"/>
+                <TextEquiv>
+                    <Unicode>1/22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:4;}">
+                <Coords points="3925,3859 4979,2520 4979,2520 4979,2505 4652,2112 3589,3271"/>
+                <Baseline points="3925,3859 4979,2520 4979,2520"/>
+                <TextEquiv>
+                    <Unicode>Bill Brett</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:5;}">
+                <Coords points="6898,4160 7523,3066 7531,3066 7531,3051 7281,2877 6632,3922"/>
+                <Baseline points="6898,4160 7523,3066 7531,3066"/>
+                <TextEquiv>
+                    <Unicode>Harbor</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:6;}">
+                <Coords points="5620,4299 6106,3612 6100,3612 6100,3627 5902,3402 5321,4066"/>
+                <Baseline points="5620,4299 6106,3612 6100,3612"/>
+                <TextEquiv>
+                    <Unicode>from</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_19" custom="readingOrder {index:7;}">
+                <Coords points="5069,4391 6605,1863 6605,1863 6605,1848 6370,1605 4799,4211"/>
+                <Baseline points="5069,4391 6605,1863 6605,1863"/>
+                <TextEquiv>
+                    <Unicode>View of South Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:8;}">
+                <Coords points="6198,4410 7377,2477 7377,2477 7377,2462 7182,2252 5834,4140"/>
+                <Baseline points="6198,4410 7377,2477 7377,2477"/>
+                <TextEquiv>
+                    <Unicode>from Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

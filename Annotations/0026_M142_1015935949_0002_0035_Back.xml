@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.992-04:00</Created>
+        <LastChange>2024-05-31T19:00:39.685+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234742" pageNr="26" tsid="169350915" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=ZLXDJEKIWSLYPISSVKPFXUJY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WAVMHUXYQVDJTUGETYFFXKFJ" imageId="46299675"/>
+    </Metadata>
+    <Page imageFilename="0026_M142_1015935949_0002_0035_Back.jpg" imageWidth="7714" imageHeight="3496">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922647" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_5"/>
+                <RegionRefIndexed index="1" regionRef="r_10"/>
+                <RegionRefIndexed index="2" regionRef="r"/>
+                <RegionRefIndexed index="3" regionRef="r_15"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_5" custom="readingOrder {index:0;}">
+            <Coords points="4757,1052 3104,1052 3104,521 4757,521"/>
+            <TextLine id="l_23" custom="readingOrder {index:0;}">
+                <Coords points="3525,726 4203,716 4202,545 3524,580"/>
+                <Baseline points="3525,726 4203,716"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_27" custom="readingOrder {index:1;}">
+                <Coords points="3185,987 4542,939 4569,742 3185,805"/>
+                <Baseline points="3185,987 4542,939"/>
+                <TextEquiv>
+                    <Unicode>GREG DERR</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:1;}">
+            <Coords points="4639,1491 3525,1491 3525,1191 4639,1191"/>
+            <TextLine id="l_31" custom="readingOrder {index:0;}">
+                <Coords points="3634,1537 4524,1439 4493,1138 3606,1259"/>
+                <Baseline points="3621,1433 4503,1365"/>
+                <TextEquiv>
+                    <Unicode>MAY 15 1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:2;}">
+            <Coords points="1151,1623 242,1623 242,860 1151,860"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="957,1326 492,890 179,1122 687,1620"/>
+                <Baseline points="957,1326 492,890"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:3;}">
+            <Coords points="7002,2130 2575,2130 2575,1588 7002,1588"/>
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+                <Coords points="3602,1897 6460,1830 6449,1493 3549,1735"/>
+                <Baseline points="3602,1897 6460,1830"/>
+                <TextEquiv>
+                    <Unicode>View of BosTon KkyLiNE 1984</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:1;}">
+                <Coords points="2816,2078 3377,1905 3312,1656 2774,1801"/>
+                <Baseline points="2798,1965 3331,1830"/>
+                <TextEquiv>
+                    <Unicode>BosTon</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:2;}">
+                <Coords points="3602,2159 6866,2098 6857,1859 3602,1953"/>
+                <Baseline points="3602,2101 6857,2004"/>
+                <TextEquiv>
+                    <Unicode>BEHinD SAILBOAT RACE oN CHARLES RIVER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

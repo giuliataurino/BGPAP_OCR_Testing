@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.532-04:00</Created>
+        <LastChange>2024-06-07T00:55:32.295+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234815" pageNr="94" tsid="170557673" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=VYZSBBRODPUHNDMOXCRLYBNM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VIVDEFXARETMOOYZNTPOUWJD" imageId="46299748"/>
+    </Metadata>
+    <Page imageFilename="0094_M142_1015935949_0016_0010_Back.jpg" imageWidth="7973" imageHeight="4915">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923409" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_5"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_25"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+                <RegionRefIndexed index="4" regionRef="r_20"/>
+                <RegionRefIndexed index="5" regionRef="r_15"/>
+                <RegionRefIndexed index="6" regionRef="r_55"/>
+                <RegionRefIndexed index="7" regionRef="r_30"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_5" custom="readingOrder {index:0;}">
+            <Coords points="5508,983 3183,983 3183,718 5508,718"/>
+            <TextLine id="l_80" custom="readingOrder {index:0;}">
+                <Coords points="3202,1012 5394,971 5437,740 3202,726"/>
+                <Baseline points="3202,932 5381,932"/>
+                <TextEquiv>
+                    <Unicode>Sportsmen Show</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="3082,1038 2021,1038 2021,671 3082,671"/>
+            <TextLine id="l_76" custom="readingOrder {index:0;}">
+                <Coords points="2135,970 2882,948 2919,709 2134,703"/>
+                <Baseline points="2135,970 2882,948"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_25" custom="readingOrder {index:2;}">
+            <Coords points="7256,1242 6911,1242 6911,351 7256,351"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="7191,1131 7165,423 7002,423 7018,1171"/>
+                <Baseline points="7191,1131 7165,423"/>
+                <TextEquiv>
+                    <Unicode>JAN 30 1967</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="5555,1303 4915,1303 4915,1061 5555,1061"/>
+            <TextLine id="l_38" custom="readingOrder {index:0;}">
+                <Coords points="4961,1248 5448,1267 5553,1061 4961,1091"/>
+                <Baseline points="4961,1248 5442,1248"/>
+                <TextEquiv>
+                    <Unicode>1967</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:4;}">
+            <Coords points="2403,1545 2403,2091 2060,2091 2060,1545"/>
+            <TextLine id="l_54" custom="readingOrder {index:0;}">
+                <Coords points="2221,2064 2351,1647 2227,1576 2085,2044"/>
+                <Baseline points="2221,2064 2351,1647"/>
+                <TextEquiv>
+                    <Unicode>JAN 31 '67</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:5;}">
+            <Coords points="4041,2801 2840,2801 2840,1459 4041,1459"/>
+            <TextLine id="l_58" custom="readingOrder {index:0;}">
+                <Coords points="2882,1761 3901,1755 3929,1494 2905,1446"/>
+                <Baseline points="2882,1761 3901,1755"/>
+                <TextEquiv>
+                    <Unicode># 103</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:1;}">
+                <Coords points="3094,2194 3932,2248 3987,1953 3097,1912"/>
+                <Baseline points="3094,2194 3912,2205"/>
+                <TextEquiv>
+                    <Unicode>5 cal</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_72" custom="readingOrder {index:2;}">
+                <Coords points="2939,2743 3732,2799 3823,2311 2991,2227"/>
+                <Baseline points="3002,2687 3646,2693"/>
+                <TextEquiv>
+                    <Unicode>Spts</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_55" custom="readingOrder {index:6;}">
+            <Coords points="5857,2646 6406,3192 6241,3484 5683,2861"/>
+            <TextLine id="l_51" custom="readingOrder {index:0;}">
+                <Coords points="5765,2871 6223,3306 6362,3250 5860,2749"/>
+                <Baseline points="5765,2871 6223,3306"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_30" custom="readingOrder {index:7;}">
+            <Coords points="7594,2932 7093,2932 7093,1417 7594,1417"/>
+            <TextLine id="l_42" custom="readingOrder {index:0;}">
+                <Coords points="7228,2355 7261,1889 7143,1882 7143,2354"/>
+                <Baseline points="7228,2355 7261,1889"/>
+                <TextEquiv>
+                    <Unicode>Photo By</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:1;}">
+                <Coords points="7352,2701 7412,1546 7304,1546 7217,2758"/>
+                <Baseline points="7352,2701 7412,1546"/>
+                <TextEquiv>
+                    <Unicode>PHILIP N. PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:2;}">
+                <Coords points="7483,2818 7536,1433 7426,1407 7354,2843"/>
+                <Baseline points="7483,2818 7536,1433"/>
+                <TextEquiv>
+                    <Unicode>GLOBE STAFF PHOTOGRAPHER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

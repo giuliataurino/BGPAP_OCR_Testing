@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.532-04:00</Created>
+        <LastChange>2024-06-07T00:53:52.450+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234814" pageNr="93" tsid="170557392" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=VQJHKPRLTNQREKDEEVAJAYFD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SQFSQWDMMSFZHNINVMOIMCXS" imageId="46299747"/>
+    </Metadata>
+    <Page imageFilename="0093_M142_1015935949_0016_0003_Back.jpg" imageWidth="4555" imageHeight="6787">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923393" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_16"/>
+                <RegionRefIndexed index="2" regionRef="r_33"/>
+                <RegionRefIndexed index="3" regionRef="r_28"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="3214,745 795,955 795,314 3179,233"/>
+            <TextLine id="l_51" custom="readingOrder {index:0;}">
+                <Coords points="994,935 3132,720 3089,280 1010,333"/>
+                <Baseline points="1022,717 3038,583"/>
+                <TextEquiv>
+                    <Unicode>Sportsmens Show</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_16" custom="readingOrder {index:1;}">
+            <Coords points="588,2673 480,1310 4215,909 4357,2190"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="672,1976 4203,1574 4137,969 691,1330"/>
+                <Baseline points="754,1730 4093,1386"/>
+                <TextEquiv>
+                    <Unicode>Tony and Billy Conigliaro</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_24" custom="readingOrder {index:1;}">
+                <Coords points="721,2684 3132,2331 3143,1780 643,2041"/>
+                <Baseline points="832,2351 3094,2085"/>
+                <TextEquiv>
+                    <Unicode>try fly casting</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_33" custom="readingOrder {index:2;}">
+            <Coords points="4126,6387 3135,6297 3172,5989 4151,6063"/>
+            <TextLine id="l_39" custom="readingOrder {index:0;}">
+                <Coords points="3370,6135 3872,6167 3873,6152 3371,6120"/>
+                <Baseline points="3370,6135 3872,6167"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_43" custom="readingOrder {index:1;}">
+                <Coords points="3209,6253 4027,6311 4029,6296 3210,6238"/>
+                <Baseline points="3209,6253 4027,6311"/>
+                <TextEquiv>
+                    <Unicode>PAUL CONNELL</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_28" custom="readingOrder {index:3;}">
+            <Coords points="2754,6410 1719,6485 1708,6222 2736,6159"/>
+            <TextLine id="l_47" custom="readingOrder {index:0;}">
+                <Coords points="1781,6445 2653,6386 2652,6371 1780,6430"/>
+                <Baseline points="1781,6445 2653,6386"/>
+                <TextEquiv>
+                    <Unicode>JAN 23 1971</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

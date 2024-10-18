@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.071-04:00</Created>
+        <LastChange>2024-06-04T22:51:29.244+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234752" pageNr="35" tsid="169978375" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=DKSVXGYQTTLHHMDNNWFDNANU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SKINJCUKBMHYLUZMRCWLYVSD" imageId="46299685"/>
+    </Metadata>
+    <Page imageFilename="0035_M142_1015935949_0003_0005_Back.jpg" imageWidth="5803" imageHeight="4450">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922730" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_15"/>
+                <RegionRefIndexed index="4" regionRef="r_21"/>
+                <RegionRefIndexed index="5" regionRef="r_26"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="212,893 909,893 909,1764 212,1771"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="775,1704 745,952 398,958 417,1717"/>
+                <Baseline points="775,1610 745,952"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="4599,986 1266,986 1266,255 4599,255"/>
+            <TextLine id="l_34" custom="readingOrder {index:0;}">
+                <Coords points="1546,640 4444,632 4433,364 1535,373"/>
+                <Baseline points="1536,603 4444,593"/>
+                <TextEquiv>
+                    <Unicode>Boston night view</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:1;}">
+                <Coords points="1938,1033 4032,1040 4071,661 1958,668"/>
+                <Baseline points="1967,901 4023,911"/>
+                <TextEquiv>
+                    <Unicode>Skyline Night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="5419,1790 4433,1790 4433,1396 5419,1396"/>
+            <TextLine id="l_42" custom="readingOrder {index:0;}">
+                <Coords points="4510,1695 5336,1696 5336,1493 4493,1493"/>
+                <Baseline points="4493,1652 5312,1664"/>
+                <TextEquiv>
+                    <Unicode>JUL 12 1965</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:3;}">
+            <Coords points="5296,3244 2669,3244 2669,1531 5296,1531"/>
+            <TextLine id="l_46" custom="readingOrder {index:0;}">
+                <Coords points="3425,1741 3977,1765 3989,1662 3447,1621"/>
+                <Baseline points="3425,1741 3977,1765"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:1;}">
+                <Coords points="2876,1912 4446,2032 4502,1823 2924,1700"/>
+                <Baseline points="2903,1884 4446,2014"/>
+                <TextEquiv>
+                    <Unicode>David Francis Crowley Jr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:2;}">
+                <Coords points="2774,2548 5141,2632 5145,2356 2799,2306"/>
+                <Baseline points="2808,2512 5033,2589"/>
+                <TextEquiv>
+                    <Unicode>PHOTOGRAPHY INCORPORATED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:3;}">
+                <Coords points="3000,2772 4808,2797 4832,2612 3016,2574"/>
+                <Baseline points="3021,2744 4754,2756"/>
+                <TextEquiv>
+                    <Unicode>105 KINGSTON STREET</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:4;}">
+                <Coords points="3245,2975 4576,3001 4554,2806 3265,2792"/>
+                <Baseline points="3235,2945 4576,2975"/>
+                <TextEquiv>
+                    <Unicode>BOSTON, MASS.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:5;}">
+                <Coords points="3265,3212 4548,3226 4556,3020 3263,3023"/>
+                <Baseline points="3265,3189 4546,3200"/>
+                <TextEquiv>
+                    <Unicode>HA-6-8581-82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:4;}">
+            <Coords points="4713,3890 1558,3890 1574,3568 4713,3568"/>
+            <TextLine id="l_70" custom="readingOrder {index:0;}">
+                <Coords points="1642,3905 4542,3730 4522,3597 1630,3751"/>
+                <Baseline points="1650,3871 4535,3711"/>
+                <TextEquiv>
+                    <Unicode>Looking north across the Charles River to M.I.T.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_26" custom="readingOrder {index:5;}">
+            <Coords points="5229,4324 4362,4324 4362,4088 5229,4088"/>
+            <TextLine id="l_74" custom="readingOrder {index:0;}">
+                <Coords points="4421,4300 5138,4286 5141,4171 4412,4173"/>
+                <Baseline points="4416,4281 5134,4276"/>
+                <TextEquiv>
+                    <Unicode>65-1566</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

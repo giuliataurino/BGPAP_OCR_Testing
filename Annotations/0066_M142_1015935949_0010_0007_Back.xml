@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.337-04:00</Created>
+        <LastChange>2024-06-06T19:59:09.128+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234786" pageNr="66" tsid="170484102" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=CUWNNUZIRVDKLCGGEVMXRVOO&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BGYMTFUUBFBYWJRZLPLRJJJD" imageId="46299719"/>
+    </Metadata>
+    <Page imageFilename="0066_M142_1015935949_0010_0007_Back.jpg" imageWidth="6314" imageHeight="5010">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923062" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689536138074_739"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="region_1689536136040_736"/>
+                <RegionRefIndexed index="3" regionRef="region_1689536143274_742"/>
+                <RegionRefIndexed index="4" regionRef="region_1689536145806_745"/>
+                <RegionRefIndexed index="5" regionRef="region_1689536150156_748"/>
+                <RegionRefIndexed index="6" regionRef="region_1689536127873_730"/>
+                <RegionRefIndexed index="7" regionRef="region_1689536130623_733"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689536138074_739" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="1752,1946 2522,1946 2522,2243 1752,2243"/>
+            <TextLine id="line_1689536182723_786" custom="readingOrder {index:0;}">
+                <Coords points="1840,2052 2444,2011 2458,2179 1849,2218"/>
+                <Baseline points="1906,2185 2437,2143"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BOSTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="3317,1009 4139,688 4362,1082 3585,1417"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3565,1362 4265,1043 4061,714 3391,1053"/>
+                <Baseline points="3565,1362 4265,1043"/>
+                <TextEquiv>
+                    <Unicode>#36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536136040_736" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2722,1408 4768,1408 4768,2131 2722,2146"/>
+            <TextLine id="line_1689536174717_776" custom="readingOrder {index:0;}">
+                <Coords points="2832,1825 3730,1827 3744,1495 2818,1507"/>
+                <Baseline points="2836,1765 3682,1760"/>
+                <TextEquiv>
+                    <Unicode>11/12/91</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536177555_781" custom="readingOrder {index:1;}">
+                <Coords points="2894,1852 4549,1862 4550,2064 2905,2091"/>
+                <Baseline points="2905,2059 4538,2049"/>
+                <TextEquiv>
+                    <Unicode>SOUTH – BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>11/12/91
+SOUTH – BOSTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536143274_742" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="2173,2276 5723,2202 5777,3509 2173,3620"/>
+            <TextLine id="line_1689536187000_791" custom="readingOrder {index:0;}">
+                <Coords points="2649,2326 5579,2255 5609,2485 2628,2541"/>
+                <Baseline points="2699,2529 5553,2420"/>
+                <TextEquiv>
+                    <Unicode>BIRdS make way AS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536191843_796" custom="readingOrder {index:1;}">
+                <Coords points="2458,2677 5509,2556 5510,2774 2459,2868"/>
+                <Baseline points="2459,2863 5510,2769"/>
+                <TextEquiv>
+                    <Unicode>A man Passes along</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536195940_801" custom="readingOrder {index:2;}">
+                <Coords points="2342,2979 5322,2826 5284,3070 2333,3216"/>
+                <Baseline points="2385,3193 5284,3065"/>
+                <TextEquiv>
+                    <Unicode>The side walk ON Day</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536199000_806" custom="readingOrder {index:3;}">
+                <Coords points="2378,3267 5317,3065 5313,3321 2405,3498"/>
+                <Baseline points="2405,3493 5313,3316"/>
+                <TextEquiv>
+                    <Unicode>BLVd. IN SOUTh Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BIRdS make way AS
+A man Passes along
+The side walk ON Day
+BLVd. IN SOUTh Boston</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536145806_745" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="4478,3757 5393,3757 5393,4134 4478,4134"/>
+            <TextLine id="line_1689536202960_811" custom="readingOrder {index:0;}">
+                <Coords points="4643,3780 5317,3964 5268,4118 4584,3971"/>
+                <Baseline points="4585,3966 5269,4113"/>
+                <TextEquiv>
+                    <Unicode>NOV 14 1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NOV 14 1991</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536150156_748" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2904,4133 5473,4133 5473,4855 2904,4855"/>
+            <TextLine id="line_1689536206131_816" custom="readingOrder {index:0;}">
+                <Coords points="2994,4183 5399,4160 5387,4527 3005,4512"/>
+                <Baseline points="3005,4507 5387,4522"/>
+                <TextEquiv>
+                    <Unicode>John ThumAcki</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536209209_821" custom="readingOrder {index:1;}">
+                <Coords points="3793,4492 4994,4524 4968,4819 3808,4827"/>
+                <Baseline points="3808,4822 4915,4817"/>
+                <TextEquiv>
+                    <Unicode>11/12/91</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>John ThumAcki
+11/12/91</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536127873_730" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="4784,686 6033,686 6033,1688 4784,1688"/>
+            <TextLine id="line_1689536161792_751" custom="readingOrder {index:0;}">
+                <Coords points="4858,827 5414,660 5443,951 5001,1087"/>
+                <Baseline points="5000,1082 5442,946"/>
+                <TextEquiv>
+                    <Unicode># 91</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536164469_756" custom="readingOrder {index:1;}">
+                <Coords points="4902,1162 5657,847 5769,1080 4995,1398"/>
+                <Baseline points="5042,1361 5709,1061"/>
+                <TextEquiv>
+                    <Unicode>51p8x80</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536167149_761" custom="readingOrder {index:2;}">
+                <Coords points="5123,1414 5703,1150 5793,1327 5244,1611"/>
+                <Baseline points="5242,1597 5757,1313"/>
+                <TextEquiv>
+                    <Unicode>INCAPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689536169487_766" custom="readingOrder {index:3;}">
+                <Coords points="5387,1541 5866,1279 5960,1468 5544,1711"/>
+                <Baseline points="5541,1707 5925,1450"/>
+                <TextEquiv>
+                    <Unicode>Pg. 30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode># 91
+51p8x80
+INCAPS
+Pg. 30</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689536130623_733" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="4859,1801 5603,1801 5603,2194 4859,2194"/>
+            <TextLine id="line_1689536172047_771" custom="readingOrder {index:0;}">
+                <Coords points="4907,1836 5544,1833 5552,2149 4932,2180"/>
+                <Baseline points="4932,2175 5494,2133"/>
+                <TextEquiv>
+                    <Unicode>1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1991</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

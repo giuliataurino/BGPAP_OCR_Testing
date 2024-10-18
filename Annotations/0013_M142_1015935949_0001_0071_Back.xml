@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.866-04:00</Created>
+        <LastChange>2024-05-31T17:45:26.883+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234729" pageNr="13" tsid="169340191" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=USMOHKHWKEAMJVKSJIUHCRDJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CBUAUWROJKJPMYBFHPFIDLFL" imageId="46299662"/>
+    </Metadata>
+    <Page imageFilename="0013_M142_1015935949_0001_0071_Back.jpg" imageWidth="7341" imageHeight="5738">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922532" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689365144813_423"/>
+                <RegionRefIndexed index="1" regionRef="region_1689365140649_420"/>
+                <RegionRefIndexed index="2" regionRef="region_1689365147428_426"/>
+                <RegionRefIndexed index="3" regionRef="region_1689365167810_432"/>
+                <RegionRefIndexed index="4" regionRef="region_1689365157543_429"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689365144813_423" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="500,576 98,576 98,181 500,181"/>
+            <TextLine id="line_1689365189673_445" custom="readingOrder {index:0;}">
+                <Coords points="280,531 152,259 330,188 414,461"/>
+                <Baseline points="409,462 325,189"/>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>22</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689365140649_420" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="159,5578 538,5578 538,3403 159,3403"/>
+            <TextLine id="line_1689365178916_435" custom="readingOrder {index:0;}">
+                <Coords points="162,5569 182,3445 308,3448 323,5563"/>
+                <Baseline points="318,5563 303,3448"/>
+                <TextEquiv>
+                    <Unicode>Credits - THE BOSTON GLOBE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365183935_440" custom="readingOrder {index:1;}">
+                <Coords points="360,5445 353,3830 506,3832 552,5470"/>
+                <Baseline points="530,5419 500,3880"/>
+                <TextEquiv>
+                    <Unicode>Crop lenis in orange</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Credits - THE BOSTON GLOBE
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689365147428_426" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="2546,773 4244,773 4244,1766 2546,1766"/>
+            <TextLine id="line_1689365193684_450" custom="readingOrder {index:0;}">
+                <Coords points="2861,820 4083,893 4064,1147 2857,1081"/>
+                <Baseline points="2857,1076 4017,1136"/>
+                <TextEquiv>
+                    <Unicode>Globe Photo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365196920_455" custom="readingOrder {index:1;}">
+                <Coords points="3260,1123 3609,1143 3577,1369 3221,1369"/>
+                <Baseline points="3221,1364 3577,1364"/>
+                <TextEquiv>
+                    <Unicode>by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365201348_460" custom="readingOrder {index:2;}">
+                <Coords points="2620,1350 4195,1460 4192,1721 2594,1632"/>
+                <Baseline points="2630,1584 4146,1675"/>
+                <TextEquiv>
+                    <Unicode>Steve Van Meter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Globe Photo
+by
+Steve Van Meter</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689365167810_432" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="1637,1993 5336,1993 5336,2781 1637,2781"/>
+            <TextLine id="line_1689365219548_475" custom="readingOrder {index:0;}">
+                <Coords points="4401,2299 5100,1944 5354,2476 4647,2788"/>
+                <Baseline points="4563,2516 5192,2220"/>
+                <TextEquiv>
+                    <Unicode>Night</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365214763_470" custom="readingOrder {index:1;}">
+                <Coords points="3075,2223 4127,2162 4186,2481 3078,2605"/>
+                <Baseline points="3115,2493 4161,2402"/>
+                <TextEquiv>
+                    <Unicode>Skyline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365205100_465" custom="readingOrder {index:2;}">
+                <Coords points="1791,2263 2719,2309 2698,2513 1750,2498"/>
+                <Baseline points="1750,2493 2698,2508"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365223124_480" custom="readingOrder {index:3;}">
+                <Coords points="3719,2568 4402,2477 4424,2647 3746,2741"/>
+                <Baseline points="3729,2713 4426,2622"/>
+                <TextEquiv>
+                    <Unicode>AUG 28 1970</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nght
+Sky line
+Boston
+AUG 28 1970</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689365157543_429" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="4927,594 5684,599 5730,1515 4811,1428"/>
+            <TextLine id="line_1689365228845_485" custom="readingOrder {index:0;}">
+                <Coords points="4945,805 5480,503 5618,785 5035,1028"/>
+                <Baseline points="5033,1023 5616,780"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689365235930_490" custom="readingOrder {index:1;}">
+                <Coords points="4931,1149 5706,1269 5699,1490 4872,1384"/>
+                <Baseline points="4873,1379 5700,1485"/>
+                <TextEquiv>
+                    <Unicode>DEC 10 1969</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OPS
+DEC 10 1969</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

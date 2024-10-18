@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.259-04:00</Created>
+        <LastChange>2024-06-06T17:51:05.390+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234773" pageNr="53" tsid="170439472" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=DCLSOXHFARJQSRNSHBGKLZJJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=LMXVMXKHBCBDUUFLOSQVQZQR" imageId="46299706"/>
+    </Metadata>
+    <Page imageFilename="0053_M142_1015935949_0007_0010_Back.jpg" imageWidth="4588" imageHeight="5722">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922915" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_15"/>
+                <RegionRefIndexed index="4" regionRef="r_20"/>
+                <RegionRefIndexed index="5" regionRef="r_26"/>
+                <RegionRefIndexed index="6" regionRef="r_47"/>
+                <RegionRefIndexed index="7" regionRef="r_31"/>
+                <RegionRefIndexed index="8" regionRef="r_36"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4360,371 1424,366 223,366 223,149 4360,47"/>
+            <TextLine id="l_141" custom="readingOrder {index:0;}">
+                <Coords points="2011,286 2933,244 2934,134 2010,163"/>
+                <Baseline points="2011,286 2933,244"/>
+                <TextEquiv>
+                    <Unicode>Bldgs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_155" custom="readingOrder {index:1;}">
+                <Coords points="3319,298 4282,343 4283,167 3320,138"/>
+                <Baseline points="3319,298 4282,323"/>
+                <TextEquiv>
+                    <Unicode>Historic</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_104" custom="readingOrder {index:2;}">
+                <Coords points="300,314 1354,356 1353,175 305,176"/>
+                <Baseline points="300,314 4356,337"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3345,447 1533,484 1429,486 1429,332 3338,223"/>
+            <TextLine id="l_110" custom="readingOrder {index:0;}">
+                <Coords points="1466,471 3130,396 3120,263 1447,326"/>
+                <Baseline points="1466,471 3130,396"/>
+                <TextEquiv>
+                    <Unicode>Victorian House</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="3671,1040 288,1294 417,503 3678,413"/>
+            <TextLine id="l_98" custom="readingOrder {index:0;}">
+                <Coords points="382,989 3530,839 3508,446 456,562"/>
+                <Baseline points="382,989 3471,689"/>
+                <TextEquiv>
+                    <Unicode>House at 928 E. Broadway</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:1;}">
+                <Coords points="873,1221 2141,1119 2089,862 857,975"/>
+                <Baseline points="873,1221 2073,1112"/>
+                <TextEquiv>
+                    <Unicode>So. Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:3;}">
+            <Coords points="3922,2201 1572,2201 1572,1172 3922,1080"/>
+            <TextLine id="l_95" custom="readingOrder {index:0;}">
+                <Coords points="1582,1500 3880,1359 3908,1094 1589,1224"/>
+                <Baseline points="1582,1412 3873,1303"/>
+                <TextEquiv>
+                    <Unicode>Built by James Collins</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_92" custom="readingOrder {index:1;}">
+                <Coords points="2325,1568 3202,1583 3229,1374 2339,1408"/>
+                <Baseline points="2325,1568 3164,1541"/>
+                <TextEquiv>
+                    <Unicode>about 1860</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_89" custom="readingOrder {index:2;}">
+                <Coords points="1671,1947 2926,1879 2930,1539 1662,1652"/>
+                <Baseline points="1671,1807 2926,1698"/>
+                <TextEquiv>
+                    <Unicode>occupied by</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:3;}">
+                <Coords points="1667,2193 3633,2157 3690,1872 1640,1926"/>
+                <Baseline points="1691,2114 3587,2114"/>
+                <TextEquiv>
+                    <Unicode>Mrs. Anna Palby</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_20" custom="readingOrder {index:4;}">
+            <Coords points="3773,2578 743,2578 743,2173 3773,2173"/>
+            <TextLine id="l_83" custom="readingOrder {index:0;}">
+                <Coords points="974,2602 3628,2460 3658,2219 982,2206"/>
+                <Baseline points="1006,2480 3628,2414"/>
+                <TextEquiv>
+                    <Unicode>Boston  housing S. Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_26" custom="readingOrder {index:5;}">
+            <Coords points="3756,2973 2956,3008 2956,2830 3756,2802"/>
+            <TextLine id="l_72" custom="readingOrder {index:0;}">
+                <Coords points="2966,2999 3720,2953 3734,2804 2964,2838"/>
+                <Baseline points="2966,2999 3720,2953"/>
+                <TextEquiv>
+                    <Unicode>JUL 25 1965</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_47" custom="readingOrder {index:6;}">
+            <Coords points="1168,4404 438,4404 438,2676 1168,2676"/>
+            <TextLine id="l_54" custom="readingOrder {index:0;}">
+                <Coords points="856,4183 801,2881 654,2891 764,4232"/>
+                <Baseline points="856,4183 801,2881"/>
+                <TextEquiv>
+                    <Unicode>ROTOGRAVUE SECTION</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="754,4272 635,2881 486,2886 583,4253"/>
+                <Baseline points="718,4207 635,2881"/>
+                <TextEquiv>
+                    <Unicode>BOSTON SUNDAY GLOBE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_57" custom="readingOrder {index:2;}">
+                <Coords points="1157,4372 1107,2716 802,2718 918,4340"/>
+                <Baseline points="1081,4321 1038,2707"/>
+                <TextEquiv>
+                    <Unicode>Date July 25 Page 9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_31" custom="readingOrder {index:7;}">
+            <Coords points="2766,4598 1515,4598 1515,3898 2766,3898"/>
+            <TextLine id="l_60" custom="readingOrder {index:0;}">
+                <Coords points="1930,4116 2433,4285 2479,4174 1956,4033"/>
+                <Baseline points="1930,4116 2356,4242"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_63" custom="readingOrder {index:1;}">
+                <Coords points="1586,4140 2642,4453 2680,4355 1609,4030"/>
+                <Baseline points="1586,4140 2624,4428"/>
+                <TextEquiv>
+                    <Unicode>GILBERT E. FRIEDBERG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:2;}">
+                <Coords points="1721,4314 2407,4523 2486,4411 1754,4201"/>
+                <Baseline points="1721,4314 2407,4523"/>
+                <TextEquiv>
+                    <Unicode>BOSTON GLOBE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_36" custom="readingOrder {index:8;}">
+            <Coords points="3689,4745 2946,4745 2946,4205 3689,4205"/>
+            <TextLine id="l_69" custom="readingOrder {index:0;}">
+                <Coords points="3055,4705 3507,4701 3513,4344 3076,4335"/>
+                <Baseline points="3081,4673 3449,4665"/>
+                <TextEquiv>
+                    <Unicode>46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

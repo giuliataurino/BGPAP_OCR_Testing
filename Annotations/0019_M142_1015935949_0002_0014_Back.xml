@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.929-04:00</Created>
+        <LastChange>2024-05-31T17:54:21.904+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234735" pageNr="19" tsid="169341376" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=YGVRUFAOBWRZLJVAYQGCUXBB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CTJJIPIZXJXGQVZSHLYVCHGG" imageId="46299668"/>
+    </Metadata>
+    <Page imageFilename="0019_M142_1015935949_0002_0014_Back.jpg" imageWidth="8606" imageHeight="5012">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922575" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689367527051_898"/>
+                <RegionRefIndexed index="1" regionRef="region_1689367555623_916"/>
+                <RegionRefIndexed index="2" regionRef="region_1689367538249_907"/>
+                <RegionRefIndexed index="3" regionRef="region_1689367533383_904"/>
+                <RegionRefIndexed index="4" regionRef="region_1689367530414_901"/>
+                <RegionRefIndexed index="5" regionRef="region_1689367540946_910"/>
+                <RegionRefIndexed index="6" regionRef="region_1689367546711_913"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689367527051_898" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="675,456 1622,456 1622,688 675,688"/>
+            <TextLine id="line_1689367566519_924" custom="readingOrder {index:0;}">
+                <Coords points="695,465 1602,483 1602,673 695,680"/>
+                <Baseline points="695,675 1602,668"/>
+                <TextEquiv>
+                    <Unicode>JAN 15 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>JAN 15 1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689367555623_916" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="774,3701 1900,3701 1900,4661 774,4661"/>
+            <TextLine id="line_1689367561838_919" custom="readingOrder {index:0;}">
+                <Coords points="1447,4755 899,4162 1261,3876 1771,4432"/>
+                <Baseline points="1767,4435 1257,3879"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>OPS</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689367538249_907" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1271,1291 3543,1291 8375,1291 8375,2429 1271,2429"/>
+            <TextLine id="line_1689367584102_944" custom="readingOrder {index:0;}">
+                <Coords points="1386,1461 7916,1123 7972,1622 1405,2069"/>
+                <Baseline points="1416,1886 7931,1489"/>
+                <TextEquiv>
+                    <Unicode>Rie Yoshimura a BU student looks at</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689367588749_949" custom="readingOrder {index:1;}">
+                <Coords points="1828,2022 7691,1640 7778,2312 1846,2470"/>
+                <Baseline points="1853,2370 7733,2039"/>
+                <TextEquiv>
+                    <Unicode>Bos Sea of White from the Pru</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Rie Yoshimura a Bu student looks at
+Bos Sea of Nhite from the pear</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689367533383_904" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="3277,1231 4071,1231 4071,1463 3277,1463"/>
+            <TextLine id="line_1689367578796_939" custom="readingOrder {index:0;}">
+                <Coords points="3323,1378 3985,1371 3985,1421 3323,1428"/>
+                <Baseline points="3323,1423 3985,1416"/>
+                <TextEquiv>
+                    <Unicode>JAN 16 1982</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>JAN 16 1982</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689367530414_901" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="5329,364 6157,364 6157,880 5329,880"/>
+            <TextLine id="line_1689367569905_929" custom="readingOrder {index:0;}">
+                <Coords points="5438,517 6061,564 6058,614 5435,567"/>
+                <Baseline points="5435,562 6058,609"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689367573886_934" custom="readingOrder {index:1;}">
+                <Coords points="5370,530 6147,568 6111,779 5329,726"/>
+                <Baseline points="5329,721 6111,774"/>
+                <TextEquiv>
+                    <Unicode>TED DULLY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PHOTO BY
+TED DULLY</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689367540946_910" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="2171,2654 7355,2654 7355,3138 3283,3138 2171,3138"/>
+            <TextLine id="line_1689367594635_954" custom="readingOrder {index:0;}">
+                <Coords points="2285,2762 7315,2678 7316,3037 2374,3344"/>
+                <Baseline points="2350,3118 7316,3032"/>
+                <TextEquiv>
+                    <Unicode>BOSTON Skyline 1982 #66</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>BOSTON Skyline 1982 #66</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689367546711_913" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="6369,3171 8289,3171 8289,4780 6369,4780"/>
+            <TextLine id="line_1689367597304_959" custom="readingOrder {index:0;}">
+                <Coords points="6563,3335 7759,3026 7934,3426 6757,3857"/>
+                <Baseline points="6845,3740 7858,3376"/>
+                <TextEquiv>
+                    <Unicode>63 x 80</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689367599724_964" custom="readingOrder {index:1;}">
+                <Coords points="6987,3842 7754,3578 7936,3805 7086,4088"/>
+                <Baseline points="7084,4025 7753,3800"/>
+                <TextEquiv>
+                    <Unicode>incaps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689367602289_969" custom="readingOrder {index:2;}">
+                <Coords points="7081,4321 7659,4063 7755,4407 7311,4606"/>
+                <Baseline points="7309,4601 7753,4402"/>
+                <TextEquiv>
+                    <Unicode>P17</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>63 x 80
+incaps
+P17</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

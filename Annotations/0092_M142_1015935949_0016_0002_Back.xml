@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.526-04:00</Created>
+        <LastChange>2024-06-07T00:53:01.227+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234813" pageNr="92" tsid="170557391" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=HWWNNFRCFPJMRRPNEKRFGOSC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BVXKSGZMBADWNVAXENTDOYEJ" imageId="46299746"/>
+    </Metadata>
+    <Page imageFilename="0092_M142_1015935949_0016_0002_Back.jpg" imageWidth="7524" imageHeight="5208">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923376" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_16"/>
+                <RegionRefIndexed index="2" regionRef="r_5"/>
+                <RegionRefIndexed index="3" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="5421,1021 1431,1021 1431,519 5421,519"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1433,940 2788,981 5330,915 5330,888 5328,893 5357,541 2830,626 1518,566"/>
+                <Baseline points="1460,819 2788,981 5330,794 5330,794"/>
+                <TextEquiv>
+                    <Unicode>Boston sportsmen show</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_16" custom="readingOrder {index:1;}">
+            <Coords points="5856,1688 1590,1688 1590,1185 2625,1185 5856,1185"/>
+            <TextLine id="l_96" custom="readingOrder {index:0;}">
+                <Coords points="3720,1335 5736,1296 5740,1207 3719,1256"/>
+                <Baseline points="3720,1335 5693,1302"/>
+                <TextEquiv>
+                    <Unicode>runnerup Sweet Pea and Sue Klein of Westwood with</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_170" custom="readingOrder {index:1;}">
+                <Coords points="1648,1359 3597,1325 3596,1259 1648,1261"/>
+                <Baseline points="1648,1359 3597,1325"/>
+                <TextEquiv>
+                    <Unicode>POSIE THE POLECAT--New national symbol of the North   </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_216" custom="readingOrder {index:2;}">
+                <Coords points="3745,1399 5664,1401 5689,1308 3745,1342"/>
+                <Baseline points="3745,1399 5664,1401"/>
+                <TextEquiv>
+                    <Unicode>second runnerup. Flower Power. Judge Ted Williams makes </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_202" custom="readingOrder {index:3;}">
+                <Coords points="1652,1428 3572,1405 3584,1347 1652,1378"/>
+                <Baseline points="1652,1428 3572,1405"/>
+                <TextEquiv>
+                    <Unicode>American Family Campers Assn. (his real name is Thelonius)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_126" custom="readingOrder {index:4;}">
+                <Coords points="3735,1500 5538,1477 5549,1398 3732,1425"/>
+                <Baseline points="3735,1500 5538,1477"/>
+                <TextEquiv>
+                    <Unicode>the choice official at the Sportsmen's Show yesterday.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:5;}">
+                <Coords points="1624,1525 3614,1495 3711,1535 3708,1411 3696,1413 1614,1453"/>
+                <Baseline points="1624,1525 3587,1495 3597,1489"/>
+                <TextEquiv>
+                    <Unicode>poses with his owner, Mrs. John H. Dewey of Boston (cen- </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_67" custom="readingOrder {index:6;}">
+                <Coords points="1646,1604 3610,1582 3610,1582 3610,1567 3623,1495 1645,1523"/>
+                <Baseline points="1646,1604 3610,1582 3610,1582"/>
+                <TextEquiv>
+                    <Unicode>ter) flanked by Eugene Martinelli of Brockton with first </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:2;}">
+            <Coords points="1789,2987 1064,2987 1064,2312 1789,2312"/>
+            <TextLine id="l_47" custom="readingOrder {index:0;}">
+                <Coords points="1119,2458 1665,2849 1665,2849 1665,2834 1770,2763 1214,2360"/>
+                <Baseline points="1119,2458 1665,2849 1665,2849"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:3;}">
+            <Coords points="4685,3329 3016,3329 3016,1951 3889,1824 4685,1786"/>
+            <TextLine id="l_26" custom="readingOrder {index:0;}">
+                <Coords points="3085,2262 4372,2099 4304,1870 3076,1995"/>
+                <Baseline points="3085,2262 4372,2099"/>
+                <TextEquiv>
+                    <Unicode># 200</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_34" custom="readingOrder {index:1;}">
+                <Coords points="3209,2742 4333,2579 4321,2290 3184,2443"/>
+                <Baseline points="3209,2742 4333,2579"/>
+                <TextEquiv>
+                    <Unicode>4cols</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:2;}">
+                <Coords points="3158,3288 4416,3090 4416,3109 4418,3089 4408,2713 3133,2890"/>
+                <Baseline points="3146,3201 4411,3009 4411,3009"/>
+                <TextEquiv>
+                    <Unicode>Sports</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

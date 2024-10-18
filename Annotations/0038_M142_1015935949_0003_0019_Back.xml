@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.105-04:00</Created>
+        <LastChange>2024-06-04T22:59:51.049+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234755" pageNr="38" tsid="169979248" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=LFWUGCGNORSCHJUIKYTASWKH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VNFPMGQAODTJRMMEXCXLKPZT" imageId="46299688"/>
+    </Metadata>
+    <Page imageFilename="0038_M142_1015935949_0003_0019_Back.jpg" imageWidth="8672" imageHeight="6577">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922756" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="7518,5017 3370,5017 3370,2947 7518,2947"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3772,3421 4972,3123 4950,2993 3738,3312"/>
+                <Baseline points="3772,3421 4972,3123"/>
+                <TextEquiv>
+                    <Unicode>GLOBE STAFF PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_20" custom="readingOrder {index:1;}">
+                <Coords points="3999,3551 4856,3312 4808,3187 3927,3399"/>
+                <Baseline points="3992,3511 4822,3309"/>
+                <TextEquiv>
+                    <Unicode>TOM HERDE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_8" custom="readingOrder {index:2;}">
+                <Coords points="5344,3939 5977,3939 5961,3687 5338,3710"/>
+                <Baseline points="5344,3939 5977,3939"/>
+                <TextEquiv>
+                    <Unicode>SCANNED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_16" custom="readingOrder {index:3;}">
+                <Coords points="6323,4502 7059,4529 7098,4035 6376,4008"/>
+                <Baseline points="6336,4458 7056,4489"/>
+                <TextEquiv>
+                    <Unicode>1991</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_12" custom="readingOrder {index:4;}">
+                <Coords points="3797,4850 6023,4712 5968,4142 3768,4287"/>
+                <Baseline points="3803,4751 6006,4580"/>
+                <TextEquiv>
+                    <Unicode>Boston: Skyline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

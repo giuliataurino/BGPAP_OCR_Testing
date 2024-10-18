@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.290-04:00</Created>
+        <LastChange>2024-06-06T19:36:04.345+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234779" pageNr="59" tsid="170478896" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=SNBYKYGQDNUYOLNACMQXEZKN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EXRGOXBFYKGSOOGLYGVTZZNH" imageId="46299712"/>
+    </Metadata>
+    <Page imageFilename="0059_M142_1015935949_0008_0028_Back.jpg" imageWidth="6235" imageHeight="5119">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922979" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1689533848264_120"/>
+                <RegionRefIndexed index="1" regionRef="region_1689533821964_111"/>
+                <RegionRefIndexed index="2" regionRef="region_1689533817247_105"/>
+                <RegionRefIndexed index="3" regionRef="region_1689533819497_108"/>
+                <RegionRefIndexed index="4" regionRef="region_1689533837648_117"/>
+                <RegionRefIndexed index="5" regionRef="r"/>
+                <RegionRefIndexed index="6" regionRef="r_142"/>
+                <RegionRefIndexed index="7" regionRef="region_1689533814080_102"/>
+                <RegionRefIndexed index="8" regionRef="region_1689533834331_114"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion type="paragraph" id="region_1689533848264_120" custom="readingOrder {index:0;} structure {type:paragraph;}">
+            <Coords points="333,2128 1234,2128 1234,331 333,331"/>
+            <TextLine id="line_1689533860181_133" custom="readingOrder {index:0;}">
+                <Coords points="1108,1487 507,683 734,511 1228,1295"/>
+                <Baseline points="1224,1298 730,514"/>
+                <TextEquiv>
+                    <Unicode>+ S Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533856964_128" custom="readingOrder {index:1;}">
+                <Coords points="893,1712 404,976 617,868 1086,1514"/>
+                <Baseline points="1082,1517 613,871"/>
+                <TextEquiv>
+                    <Unicode>2x75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533854036_123" custom="readingOrder {index:2;}">
+                <Coords points="633,2074 403,1719 740,1545 943,1815"/>
+                <Baseline points="939,1818 736,1548"/>
+                <TextEquiv>
+                    <Unicode>#</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>+ S Boston
+2x75
+#</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689533821964_111" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="2599,1473 3714,1473 3714,1852 2599,1852"/>
+            <TextLine id="line_1689533878450_158" custom="readingOrder {index:0;}">
+                <Coords points="2695,1564 3579,1530 3593,1762 2706,1841"/>
+                <Baseline points="2797,1802 3556,1757"/>
+                <TextEquiv>
+                    <Unicode>Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Boston</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689533817247_105" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="3105,742 4630,742 4630,1126 3105,1126"/>
+            <TextLine id="line_1689533863447_138" custom="readingOrder {index:0;}">
+                <Coords points="3573,788 4199,795 4187,947 3576,932"/>
+                <Baseline points="3576,927 4187,942"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533866798_143" custom="readingOrder {index:1;}">
+                <Coords points="3200,934 4564,992 4564,1095 3204,1090"/>
+                <Baseline points="3204,1085 4564,1090"/>
+                <TextEquiv>
+                    <Unicode>DONAL PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PHOTO BY
+DONAL PRESTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689533819497_108" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="3190,1270 4201,1270 4201,1482 3190,1482"/>
+            <TextLine id="line_1689533875169_153" custom="readingOrder {index:0;}">
+                <Coords points="3267,1267 4115,1275 4090,1461 3266,1451"/>
+                <Baseline points="3266,1446 4090,1456"/>
+                <TextEquiv>
+                    <Unicode>AUG 301975</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>AUG 301975</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689533837648_117" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="3085,3202 4689,3202 4689,3636 3085,3636"/>
+            <TextLine id="line_1689533900321_183" custom="readingOrder {index:0;}">
+                <Coords points="3544,3204 4190,3216 4201,3339 3588,3341"/>
+                <Baseline points="3588,3336 4148,3341"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533903706_188" custom="readingOrder {index:1;}">
+                <Coords points="3190,3380 4586,3362 4566,3551 3191,3567"/>
+                <Baseline points="3191,3529 4550,3504"/>
+                <TextEquiv>
+                    <Unicode>DONALD PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>PHOTO BY
+DONALD PRESTON</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:5;}">
+            <Coords points="4117,4009 4775,4018 4769,4226 4118,4237"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="4137,4226 4753,4194 4742,4056 4129,4080"/>
+                <Baseline points="4137,4226 4716,4160"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_142" custom="readingOrder {index:6;}">
+            <Coords points="3737,4223 5179,4205 5165,4389 3736,4403"/>
+            <TextLine id="l_134" custom="readingOrder {index:0;}">
+                <Coords points="3745,4389 5154,4380 5160,4226 3738,4224"/>
+                <Baseline points="3745,4389 5121,4371"/>
+                <TextEquiv>
+                    <Unicode>DONALD PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689533814080_102" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="4752,724 5492,724 5492,968 4752,968"/>
+            <TextLine id="line_1689533869999_148" custom="readingOrder {index:0;}">
+                <Coords points="4857,758 5472,798 5449,952 4854,906"/>
+                <Baseline points="4854,901 5449,947"/>
+                <TextEquiv>
+                    <Unicode>SEP 1 1975</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SEP 1 1975</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1689533834331_114" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="2372,1935 5374,1935 5366,3120 2337,3073"/>
+            <TextLine id="line_1689533885029_163" custom="readingOrder {index:0;}">
+                <Coords points="2537,1974 4955,1998 4936,2311 2529,2282"/>
+                <Baseline points="2529,2277 4886,2231"/>
+                <TextEquiv>
+                    <Unicode>SOUTH BOSTON PRiDe Day II</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533888721_168" custom="readingOrder {index:1;}">
+                <Coords points="2473,2318 5332,2335 5335,2592 2458,2567"/>
+                <Baseline points="2458,2562 5294,2582"/>
+                <TextEquiv>
+                    <Unicode>MARiNe PARK – THe K of C 78</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533892761_173" custom="readingOrder {index:2;}">
+                <Coords points="2383,2580 4924,2614 4904,2816 2392,2806"/>
+                <Baseline points="2392,2801 4866,2781"/>
+                <TextEquiv>
+                    <Unicode>LOSe iN semi finAls DespiTe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1689533896616_178" custom="readingOrder {index:3;}">
+                <Coords points="2383,2811 3568,2812 3527,3053 2397,3056"/>
+                <Baseline points="2397,3051 3507,3000"/>
+                <TextEquiv>
+                    <Unicode>BODY EngliSH</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>SOUTH BOSTON PRiDe Day II
+MARiNe PARK – THe K of C 78
+LOSe iN semi finAls DespiTe
+BODY EngliSH</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.463-04:00</Created>
+        <LastChange>2024-06-07T00:27:31.038+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234804" pageNr="84" tsid="170553690" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=BKKWIMDTZMKGMJSTRELZOEBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KPXBOYRPHKUSJMUFLQLEOHBS" imageId="46299737"/>
+    </Metadata>
+    <Page imageFilename="0084_M142_1015935949_0014_0028_Back.jpg" imageWidth="6299" imageHeight="4367">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923279" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_10"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="1498,1525 798,1525 798,1192 1498,1192"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="845,1406 1443,1489 1443,1489 1443,1474 1452,1357 858,1298"/>
+                <Baseline points="845,1406 1443,1489 1443,1489"/>
+                <TextEquiv>
+                    <Unicode>BOSTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:1;}">
+            <Coords points="5199,2080 804,2080 804,1552 5199,1552"/>
+            <TextLine id="l_19" custom="readingOrder {index:0;}">
+                <Coords points="803,1663 3527,1741 5070,1780 5070,1780 5070,1765 5103,1646 3527,1608 808,1564"/>
+                <Baseline points="803,1663 3527,1741 5070,1780 5070,1780"/>
+                <TextEquiv>
+                    <Unicode>SO END Boston the curves of a park near Rutland Sq GLOBE STAFF PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_35" custom="readingOrder {index:1;}">
+                <Coords points="4072,1908 5009,1913 5014,1913 5014,1898 5016,1823 4072,1786"/>
+                <Baseline points="4072,1908 5009,1913 5014,1913"/>
+                <TextEquiv>
+                    <Unicode>David L Ryan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_25" custom="readingOrder {index:2;}">
+                <Coords points="1121,1937 1500,1910 1500,1910 1500,1895 1508,1726 1120,1747"/>
+                <Baseline points="1121,1937 1500,1910 1500,1910"/>
+                <TextEquiv>
+                    <Unicode>#6</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:3;}">
+                <Coords points="2038,1980 2502,1947 2502,1947 2502,1932 2510,1756 2018,1763"/>
+                <Baseline points="2038,1980 2502,1947 2502,1947"/>
+                <TextEquiv>
+                    <Unicode>1988</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

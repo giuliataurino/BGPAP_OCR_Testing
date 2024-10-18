@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.243-04:00</Created>
+        <LastChange>2024-06-06T17:43:13.435+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234771" pageNr="51" tsid="170428364" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=REITHYXECPTFSYSSQTBSBBIQ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WMLHYLCQMZAWZKLMOPVMNCRK" imageId="46299704"/>
+    </Metadata>
+    <Page imageFilename="0051_M142_1015935949_0006_0001_Back.jpg" imageWidth="7459" imageHeight="5978">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922884" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_10"/>
+                <RegionRefIndexed index="1" regionRef="r_15"/>
+                <RegionRefIndexed index="2" regionRef="r_42"/>
+                <RegionRefIndexed index="3" regionRef="r_21"/>
+                <RegionRefIndexed index="4" regionRef="r"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_10" custom="readingOrder {index:0;}">
+            <Coords points="5228,682 4059,682 4059,271 5228,271"/>
+            <TextLine id="l_28" custom="readingOrder {index:0;}">
+                <Coords points="4118,667 5021,609 5011,365 4134,389"/>
+                <Baseline points="4135,617 4996,581"/>
+                <TextEquiv>
+                    <Unicode>BOSTON			</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_15" custom="readingOrder {index:1;}">
+            <Coords points="6012,1305 2075,1305 2075,692 6012,692"/>
+            <TextLine id="l_31" custom="readingOrder {index:0;}">
+                <Coords points="2199,1190 5736,1192 5760,710 2140,743"/>
+                <Baseline points="2233,1181 5693,1149"/>
+                <TextEquiv>
+                    <Unicode>View of Globe Snow mobil show</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_42" custom="readingOrder {index:2;}">
+            <Coords points="2855,2340 2879,3024 2408,3049 2390,2375"/>
+            <TextLine id="l_47" custom="readingOrder {index:0;}">
+                <Coords points="2621,2415 2476,2934 2664,2966 2772,2449"/>
+                <Baseline points="2672,2436 2540,2879"/>
+                <TextEquiv>
+                    <Unicode>0CT 11 '71</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:3;}">
+            <Coords points="4747,3994 3496,3994 3496,3523 4746,3520"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="3791,3993 4617,3765 4539,3547 3700,3782"/>
+                <Baseline points="3779,3936 4595,3729"/>
+                <TextEquiv>
+                    <Unicode>OCT 10 1971</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:4;}">
+            <Coords points="6643,5669 4884,5669 4884,5078 6643,5078"/>
+            <TextLine id="l_34" custom="readingOrder {index:0;}">
+                <Coords points="4939,5624 6550,5651 6579,5190 4942,5171"/>
+                <Baseline points="4942,5561 6522,5592"/>
+                <TextEquiv>
+                    <Unicode>Cary Wolinksy photo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

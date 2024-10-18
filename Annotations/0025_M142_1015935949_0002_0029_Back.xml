@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:40.992-04:00</Created>
+        <LastChange>2024-05-31T18:11:45.773+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234741" pageNr="25" tsid="169343367" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=MRKHKIJFBCGFPWNJWVSJVDND&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ABTOOGECIBVMIRMYLJFEJWIA" imageId="46299674"/>
+    </Metadata>
+    <Page imageFilename="0025_M142_1015935949_0002_0029_Back.jpg" imageWidth="4416" imageHeight="8203">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922639" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="4301,5218 915,5218 787,5213 802,213 915,211 4301,211"/>
+            <TextLine id="l_34" custom="readingOrder {index:0;}">
+                <Coords points="2960,785 3452,566 3343,234 2780,501"/>
+                <Baseline points="2960,785 3452,566"/>
+                <TextEquiv>
+                    <Unicode>OPS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l" custom="readingOrder {index:1;}">
+                <Coords points="1211,973 2261,273 2077,106 1069,696"/>
+                <Baseline points="1211,973 2261,273"/>
+                <TextEquiv>
+                    <Unicode>26x115</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_14" custom="readingOrder {index:2;}">
+                <Coords points="1462,1334 1998,940 1829,722 1291,1146"/>
+                <Baseline points="1462,1334 1998,940"/>
+                <TextEquiv>
+                    <Unicode>#33</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_18" custom="readingOrder {index:3;}">
+                <Coords points="1648,1596 2261,1050 2116,902 1489,1467"/>
+                <Baseline points="1648,1596 2261,1050"/>
+                <TextEquiv>
+                    <Unicode>InCap</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_22" custom="readingOrder {index:4;}">
+                <Coords points="2086,1695 2895,1170 2632,896 1871,1425"/>
+                <Baseline points="2086,1695 2895,1170"/>
+                <TextEquiv>
+                    <Unicode>Pg 30</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_30" custom="readingOrder {index:5;}">
+                <Coords points="2759,1810 3727,1114 3567,920 2695,1670"/>
+                <Baseline points="2738,1747 3727,1114"/>
+                <TextEquiv>
+                    <Unicode>IN Caption</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_26" custom="readingOrder {index:6;}">
+                <Coords points="2342,1886 3690,762 3502,564 2144,1748"/>
+                <Baseline points="2342,1886 3690,762"/>
+                <TextEquiv>
+                    <Unicode>Mention Friday</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_38" custom="readingOrder {index:7;}">
+                <Coords points="2569,1939 3117,1901 3092,1744 2571,1791"/>
+                <Baseline points="2572,1903 3099,1872"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_42" custom="readingOrder {index:8;}">
+                <Coords points="809,2202 2115,2162 2115,2162 2115,2147 2117,1983 819,2017"/>
+                <Baseline points="809,2202 2115,2162 2115,2162"/>
+                <TextEquiv>
+                    <Unicode>GLOBE PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_46" custom="readingOrder {index:9;}">
+                <Coords points="2246,2272 3530,2136 3499,1927 2236,2081"/>
+                <Baseline points="2246,2272 3530,2136"/>
+                <TextEquiv>
+                    <Unicode>David L Ryan</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_50" custom="readingOrder {index:10;}">
+                <Coords points="818,2540 2444,2510 2433,2333 817,2374"/>
+                <Baseline points="818,2540 2444,2510"/>
+                <TextEquiv>
+                    <Unicode>DATE NEGATIVE TAKEN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_54" custom="readingOrder {index:11;}">
+                <Coords points="2550,2615 3495,2474 3453,2203 2498,2395"/>
+                <Baseline points="2550,2615 3495,2474"/>
+                <TextEquiv>
+                    <Unicode>SEP 18 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_58" custom="readingOrder {index:12;}">
+                <Coords points="804,2888 1868,2888 1871,2713 807,2713"/>
+                <Baseline points="804,2888 1868,2888"/>
+                <TextEquiv>
+                    <Unicode>FOR STORY BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_62" custom="readingOrder {index:13;}">
+                <Coords points="835,3255 2297,3248 2299,3076 816,3069"/>
+                <Baseline points="835,3255 2297,3248"/>
+                <TextEquiv>
+                    <Unicode>DATE PICTURE USED</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_66" custom="readingOrder {index:14;}">
+                <Coords points="830,3613 2128,3607 2148,3418 892,3418"/>
+                <Baseline points="920,3603 2128,3607"/>
+                <TextEquiv>
+                    <Unicode>SUBJECT (L TO R)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_70" custom="readingOrder {index:15;}">
+                <Coords points="2279,3614 3641,3607 3665,3412 2276,3443"/>
+                <Baseline points="2279,3614 3641,3607"/>
+                <TextEquiv>
+                    <Unicode>CHARLES RivER</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_74" custom="readingOrder {index:16;}">
+                <Coords points="962,3959 3878,3900 3866,3695 937,3678"/>
+                <Baseline points="952,3889 3847,3856"/>
+                <TextEquiv>
+                    <Unicode>CRuiSE BoAT - MovEs ALoNG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_78" custom="readingOrder {index:17;}">
+                <Coords points="883,4216 4107,4169 4119,3964 883,3980"/>
+                <Baseline points="883,4141 4107,4108"/>
+                <TextEquiv>
+                    <Unicode>CHARLES RivER W/ BosToN SkyLiNE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_82" custom="readingOrder {index:18;}">
+                <Coords points="927,4430 2378,4419 2407,4292 935,4306"/>
+                <Baseline points="927,4430 2378,4419"/>
+                <TextEquiv>
+                    <Unicode>iN BAckRound</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_90" custom="readingOrder {index:19;}">
+                <Coords points="3341,4745 4081,4727 4081,4423 3356,4436"/>
+                <Baseline points="3341,4745 4081,4727"/>
+                <TextEquiv>
+                    <Unicode>Skyline</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_86" custom="readingOrder {index:20;}">
+                <Coords points="917,4903 3161,4811 3143,4548 935,4610"/>
+                <Baseline points="920,4800 3143,4742"/>
+                <TextEquiv>
+                    <Unicode>LIBRARY INDEXED BosToN</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_94" custom="readingOrder {index:21;}">
+                <Coords points="3458,5005 3975,5005 4025,4788 3471,4819"/>
+                <Baseline points="3458,5005 3975,5005"/>
+                <TextEquiv>
+                    <Unicode>1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="2039,6811 1034,6811 1034,6327 2039,6327"/>
+            <TextLine id="l_98" custom="readingOrder {index:0;}">
+                <Coords points="1149,6610 1820,6590 1820,6575 1148,6595"/>
+                <Baseline points="1149,6610 1820,6590"/>
+                <TextEquiv>
+                    <Unicode>SEP 21 1981</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

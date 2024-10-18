@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.180-04:00</Created>
+        <LastChange>2024-06-06T17:36:49.518+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234768" pageNr="48" tsid="170427833" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=AMKVIVBSBHXDPODFSLWHIAEX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VBHLXHKPEWAPAILMMJADBNJB" imageId="46299701"/>
+    </Metadata>
+    <Page imageFilename="0048_M142_1015935949_0005_0029_Back.jpg" imageWidth="4514" imageHeight="5734">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044922850" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_101"/>
+                <RegionRefIndexed index="1" regionRef="r"/>
+                <RegionRefIndexed index="2" regionRef="r_124"/>
+                <RegionRefIndexed index="3" regionRef="r_80"/>
+                <RegionRefIndexed index="4" regionRef="r_344"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r_101" custom="readingOrder {index:0;}">
+            <Coords points="1034,587 1689,510 1722,1044 1036,1076"/>
+            <TextLine id="l_90" custom="readingOrder {index:0;}">
+                <Coords points="1127,988 1665,949 1665,949 1665,919 1657,588 1108,664"/>
+                <Baseline points="1127,988 1665,949 1665,949"/>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r" custom="readingOrder {index:1;}">
+            <Coords points="4572,1422 1379,1386 1390,1109 4568,1130"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="1456,1128 4483,1155 4487,1384 1447,1367"/>
+                <Baseline points="1467,1331 4444,1363"/>
+                <TextEquiv>
+                    <Unicode>Boston Slums Streets</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_124" custom="readingOrder {index:2;}">
+            <Coords points="559,1432 5104,1477 5085,1804 4638,2583 517,2385"/>
+            <TextLine id="l_113" custom="readingOrder {index:0;}">
+                <Coords points="544,1642 5066,1797 5027,1797 5069,1657 5067,1527 561,1473"/>
+                <Baseline points="544,1638 5066,1793 5027,1793"/>
+                <TextEquiv>
+                    <Unicode>MONOTONY IN BRICK-- A South End street of grimy brick structures</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_237" custom="readingOrder {index:1;}">
+                <Coords points="604,1804 4508,1968 4516,1767 604,1618"/>
+                <Baseline points="604,1800 4508,1964"/>
+                <TextEquiv>
+                    <Unicode>Commercial Building on the residential street further accentuates</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_260" custom="readingOrder {index:2;}">
+                <Coords points="1176,2017 4517,2160 4517,2160 4517,2144 4544,2013 1177,1890"/>
+                <Baseline points="1176,2013 4517,2156 4517,2156"/>
+                <TextEquiv>
+                    <Unicode>drabness.  Housing experts feel outside renovations and</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_280" custom="readingOrder {index:3;}">
+                <Coords points="565,2192 4433,2374 4459,2203 542,2055"/>
+                <Baseline points="565,2188 4433,2370"/>
+                <TextEquiv>
+                    <Unicode>proper zoning would turn streets such as this one into attractive</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_294" custom="readingOrder {index:4;}">
+                <Coords points="546,2387 1332,2400 1337,2299 546,2273"/>
+                <Baseline points="546,2383 1332,2396"/>
+                <TextEquiv>
+                    <Unicode>neighborhoods.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_101" custom="readingOrder {index:5;}">
+                <Coords points="2476,2934 2464,2185 2638,2189 2635,2952"/>
+                <Baseline points="2476,2929 2464,2180"/>
+                <TextEquiv>
+                    <Unicode>JAN 5 1962</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_80" custom="readingOrder {index:3;}">
+            <Coords points="2461,2168 2666,2178 2651,2988 2456,2993"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_344" custom="readingOrder {index:4;}">
+            <Coords points="792,3506 1713,3539 1725,4271 792,4271"/>
+            <TextLine id="l_353" custom="readingOrder {index:0;}">
+                <Coords points="957,3656 1460,3665 1486,3568 957,3562"/>
+                <Baseline points="957,3652 1460,3662"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_367" custom="readingOrder {index:1;}">
+                <Coords points="825,3778 1676,3782 1660,3688 811,3665"/>
+                <Baseline points="825,3774 1660,3779"/>
+                <TextEquiv>
+                    <Unicode>WILLIAM J. ENNIS</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_381" custom="readingOrder {index:2;}">
+                <Coords points="820,3900 1655,3904 1645,3807 799,3779"/>
+                <Baseline points="820,3896 1655,3901"/>
+                <TextEquiv>
+                    <Unicode>BOSTON GLOBE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_395" custom="readingOrder {index:3;}">
+                <Coords points="923,4144 1660,4173 1670,4032 923,4009"/>
+                <Baseline points="923,4140 1660,4169"/>
+                <TextEquiv>
+                    <Unicode>DEC 28 1961</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

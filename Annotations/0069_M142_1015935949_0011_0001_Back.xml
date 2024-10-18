@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2023-07-07T12:35:41.369-04:00</Created>
+        <LastChange>2024-06-06T20:07:27.992+02:00</LastChange>
+        <TranskribusMetadata docId="1495308" pageId="57234789" pageNr="69" tsid="170484846" status="DONE" userId="119831" imgUrl="https://files.transkribus.eu/Get?id=JGOAUGHAETPGXTCZUBUETMHC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YGEETXIGLUOWCTMYLJAJENPI" imageId="46299722"/>
+    </Metadata>
+    <Page imageFilename="0069_M142_1015935949_0011_0001_Back.jpg" imageWidth="5964" imageHeight="7753">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1718044923104" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_5"/>
+                <RegionRefIndexed index="2" regionRef="r_10"/>
+                <RegionRefIndexed index="3" regionRef="r_16"/>
+                <RegionRefIndexed index="4" regionRef="r_21"/>
+                <RegionRefIndexed index="5" regionRef="r_26"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations/>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="5702,2222 397,2265 417,271 5695,270"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="850,736 3732,719 3810,313 868,313"/>
+                <Baseline points="893,726 3621,651"/>
+                <TextEquiv>
+                    <Unicode>South Cove section of Boston</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_33" custom="readingOrder {index:1;}">
+                <Coords points="617,1266 5456,1149 5476,786 645,841"/>
+                <Baseline points="659,1235 5407,1051"/>
+                <TextEquiv>
+                    <Unicode>Pre-cast section of Building is numbered + coded</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_36" custom="readingOrder {index:2;}">
+                <Coords points="491,1785 3358,1595 3392,1246 496,1317"/>
+                <Baseline points="509,1702 3062,1477"/>
+                <TextEquiv>
+                    <Unicode>to fit in a certain section.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_39" custom="readingOrder {index:3;}">
+                <Coords points="777,2156 5640,1965 5696,1498 780,1797"/>
+                <Baseline points="876,2044 5590,1844"/>
+                <TextEquiv>
+                    <Unicode>nite workman (in upper right) waiting to receive piece</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_5" custom="readingOrder {index:1;}">
+            <Coords points="3935,2580 1386,2616 1377,2239 3938,2189"/>
+            <TextLine id="l_42" custom="readingOrder {index:0;}">
+                <Coords points="1502,2537 3705,2453 3722,2229 1498,2334"/>
+                <Baseline points="1502,2537 3705,2453"/>
+                <TextEquiv>
+                    <Unicode>BOSTON HOUSING	</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_10" custom="readingOrder {index:2;}">
+            <Coords points="5076,3018 3616,3018 3616,2649 5076,2649"/>
+            <TextLine id="l_45" custom="readingOrder {index:0;}">
+                <Coords points="3639,2980 4968,2996 5020,2741 3665,2722"/>
+                <Baseline points="3688,2937 4956,2962"/>
+                <TextEquiv>
+                    <Unicode>SOUTH COVE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_16" custom="readingOrder {index:3;}">
+            <Coords points="3150,3032 2397,3123 2371,2740 3150,2640"/>
+            <TextLine id="l_48" custom="readingOrder {index:0;}">
+                <Coords points="2575,2884 2968,2847 2984,2749 2566,2800"/>
+                <Baseline points="2575,2884 2968,2847"/>
+                <TextEquiv>
+                    <Unicode>PHOTO BY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="l_51" custom="readingOrder {index:1;}">
+                <Coords points="2505,3021 3068,2958 3071,2841 2483,2923"/>
+                <Baseline points="2505,3021 3068,2958"/>
+                <TextEquiv>
+                    <Unicode>PHIL PRESTON</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_21" custom="readingOrder {index:4;}">
+            <Coords points="3212,3379 2197,3379 2197,3052 3212,3052"/>
+            <TextLine id="l_54" custom="readingOrder {index:0;}">
+                <Coords points="2264,3373 3155,3271 3122,3031 2233,3146"/>
+                <Baseline points="2274,3344 3136,3247"/>
+                <TextEquiv>
+                    <Unicode>MAR 15 1972</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r_26" custom="readingOrder {index:5;}">
+            <Coords points="4284,3508 3600,3820 3500,3602 4185,3289"/>
+            <TextLine id="l_57" custom="readingOrder {index:0;}">
+                <Coords points="3650,3727 4186,3504 4128,3375 3619,3615"/>
+                <Baseline points="3650,3727 4165,3504"/>
+                <TextEquiv>
+                    <Unicode>JUN 3 1973</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
